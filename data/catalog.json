@@ -234,7 +234,9 @@
         },
         {
           "name": "Garnier Micellar Water",
-          "priceINR": 299
+          "priceINR": 299,
+          "imageUrl": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w%3A60/947279/DKOO-6bLYj-947279_1.jpg",
+          "imageSource": "Tira"
         },
         {
           "name": "Gillette Fusion Razor",
@@ -260,7 +262,9 @@
       "products": [
         {
           "name": "Maybelline Creamy Matte Lipstick",
-          "priceINR": 45
+          "priceINR": 45,
+          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/lip-makeup/lip-color/creamy-matte-lipstick/modules/product-info/flaming-fuchsia/flaming-fuchsia_001.jpg?ch=472&cw=315&cx=0.55&cy=0.42&hash=F1F5C212314C7658FB772282EFA8CD5A&rev=ac5f76db2c1342a98b97238525a26d3d",
+          "imageSource": "Maybelline India"
         },
         {
           "name": "Lakmé 9to5 Primer + Matte Foundation",
@@ -268,7 +272,9 @@
         },
         {
           "name": "Maybelline Fit Me Compact",
-          "priceINR": 55
+          "priceINR": 55,
+          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/face/powder/fit-me-compact-powder/115-ivory/115-8901526605187-01.jpg?ch=472&cw=315&cx=0.52&cy=0.5&hash=4284DE23B2DA3390245F43F6E9B2F689&rev=8aad70df112448afa86daba348dc1b10",
+          "imageSource": "Maybelline India"
         },
         {
           "name": "Swiss Beauty Baked Blush",

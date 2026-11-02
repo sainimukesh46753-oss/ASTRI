@@ -143,11 +143,15 @@
         },
         {
           "name": "Set Wet Styling Gel",
-          "priceINR": 149
+          "priceINR": 149,
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/e/e/ee71d5dM_8901088062473_1.jpg",
+          "imageSource": "Nykaa product listing"
         },
         {
           "name": "Philips Hair Dryer",
-          "priceINR": 799
+          "priceINR": 799,
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772432402055-45.jpg",
+          "imageSource": "Blinkit product listing"
         },
         {
           "name": "Wide Tooth Hair Comb",
@@ -218,11 +222,15 @@
         },
         {
           "name": "Nivea Lip Balm",
-          "priceINR": 125
+          "priceINR": 125,
+          "imageUrl": "https://www.jiomart.com/images/product/original/1018184/nivea-lip-care-balm-original-4-8gm-prod-1018184-0-202403012320.jpg?im=Resize%3D%28600%2C600%29",
+          "imageSource": "JioMart product listing"
         },
         {
           "name": "Himalaya Purifying Neem Mask",
-          "priceINR": 149
+          "priceINR": 149,
+          "imageUrl": "https://www.gosupps.com/media/catalog/product/8/1/81DLN2Ink9L.jpg",
+          "imageSource": "GoSupps product listing"
         },
         {
           "name": "Garnier Micellar Water",

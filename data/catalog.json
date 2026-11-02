@@ -2,7 +2,6 @@
   "brand": "ASTRI",
   "currency": "INR",
   "catalogueType": "starter-curated",
-  "note": "First 50 products have indicative planning prices in INR, not verified live store prices. Confirm exact pack size, local availability and selling price before accepting orders. Product photos are added only after the exact product/pack image and usage rights are verified.",
   "categories": [
     {
       "name": "Bath & Body",
@@ -23,63 +22,51 @@
       "products": [
         {
           "name": "Dove Cream Beauty Bathing Bar",
-          "priceINR": 45,
-          "priceType": "indicative"
+          "priceINR": 45
         },
         {
           "name": "Pears Pure & Gentle Soap",
-          "priceINR": 45,
-          "priceType": "indicative"
+          "priceINR": 45
         },
         {
           "name": "Lifebuoy Total Soap",
-          "priceINR": 30,
-          "priceType": "indicative"
+          "priceINR": 30
         },
         {
           "name": "Nivea Shower Gel",
-          "priceINR": 125,
-          "priceType": "indicative"
+          "priceINR": 125
         },
         {
           "name": "Fiama Shower Gel",
-          "priceINR": 110,
-          "priceType": "indicative"
+          "priceINR": 110
         },
         {
           "name": "Dettol Handwash",
-          "priceINR": 99,
-          "priceType": "indicative"
+          "priceINR": 99
         },
         {
           "name": "Colgate Strong Teeth Toothpaste",
-          "priceINR": 65,
-          "priceType": "indicative"
+          "priceINR": 65
         },
         {
           "name": "Sensodyne Fresh Mint Toothpaste",
-          "priceINR": 180,
-          "priceType": "indicative"
+          "priceINR": 180
         },
         {
           "name": "Listerine Cool Mint Mouthwash",
-          "priceINR": 160,
-          "priceType": "indicative"
+          "priceINR": 160
         },
         {
           "name": "Nivea Soft Cream",
-          "priceINR": 145,
-          "priceType": "indicative"
+          "priceINR": 145
         },
         {
           "name": "Vaseline Intensive Care Lotion",
-          "priceINR": 180,
-          "priceType": "indicative"
+          "priceINR": 180
         },
         {
           "name": "Parachute Coconut Hair Oil",
-          "priceINR": 110,
-          "priceType": "indicative"
+          "priceINR": 110
         }
       ]
     },
@@ -98,63 +85,51 @@
       "products": [
         {
           "name": "Dove Daily Shine Shampoo",
-          "priceINR": 180,
-          "priceType": "indicative"
+          "priceINR": 180
         },
         {
           "name": "Head & Shoulders Cool Menthol Shampoo",
-          "priceINR": 190,
-          "priceType": "indicative"
+          "priceINR": 190
         },
         {
           "name": "Clinic Plus Strong & Long Shampoo",
-          "priceINR": 95,
-          "priceType": "indicative"
+          "priceINR": 95
         },
         {
           "name": "L'Oréal Paris Total Repair Conditioner",
-          "priceINR": 220,
-          "priceType": "indicative"
+          "priceINR": 220
         },
         {
           "name": "Dove Intense Repair Conditioner",
-          "priceINR": 180,
-          "priceType": "indicative"
+          "priceINR": 180
         },
         {
           "name": "Garnier Color Naturals Hair Colour",
-          "priceINR": 120,
-          "priceType": "indicative"
+          "priceINR": 120
         },
         {
           "name": "Parachute Advansed Coconut Hair Oil",
-          "priceINR": 110,
-          "priceType": "indicative"
+          "priceINR": 110
         },
         {
           "name": "Livon Hair Serum",
-          "priceINR": 160,
-          "priceType": "indicative"
+          "priceINR": 160
         },
         {
           "name": "Set Wet Styling Gel",
-          "priceINR": 149,
-          "priceType": "indicative"
+          "priceINR": 149
         },
         {
           "name": "Philips Hair Dryer",
-          "priceINR": 799,
-          "priceType": "indicative"
+          "priceINR": 799
         },
         {
           "name": "Wide Tooth Hair Comb",
-          "priceINR": 35,
-          "priceType": "indicative"
+          "priceINR": 35
         },
         {
           "name": "U-Shape Hair Clips",
-          "priceINR": 60,
-          "priceType": "indicative"
+          "priceINR": 60
         }
       ]
     },
@@ -176,63 +151,51 @@
       "products": [
         {
           "name": "Pond's Super Light Gel",
-          "priceINR": 180,
-          "priceType": "indicative"
+          "priceINR": 180
         },
         {
           "name": "Cetaphil Moisturising Cream",
-          "priceINR": 499,
-          "priceType": "indicative"
+          "priceINR": 499
         },
         {
           "name": "Lakmé Sun Expert SPF 50",
-          "priceINR": 249,
-          "priceType": "indicative"
+          "priceINR": 249
         },
         {
           "name": "Neutrogena UltraSheer Sunscreen",
-          "priceINR": 399,
-          "priceType": "indicative"
+          "priceINR": 399
         },
         {
           "name": "Himalaya Neem Face Wash",
-          "priceINR": 299,
-          "priceType": "indicative"
+          "priceINR": 299
         },
         {
           "name": "Simple Refreshing Face Wash",
-          "priceINR": 299,
-          "priceType": "indicative"
+          "priceINR": 299
         },
         {
           "name": "Garnier Vitamin C Serum",
-          "priceINR": 249,
-          "priceType": "indicative"
+          "priceINR": 249
         },
         {
           "name": "Minimalist Niacinamide 10% Serum",
-          "priceINR": 399,
-          "priceType": "indicative"
+          "priceINR": 399
         },
         {
           "name": "Nivea Lip Balm",
-          "priceINR": 125,
-          "priceType": "indicative"
+          "priceINR": 125
         },
         {
           "name": "Himalaya Purifying Neem Mask",
-          "priceINR": 149,
-          "priceType": "indicative"
+          "priceINR": 149
         },
         {
           "name": "Garnier Micellar Water",
-          "priceINR": 299,
-          "priceType": "indicative"
+          "priceINR": 299
         },
         {
           "name": "Gillette Fusion Razor",
-          "priceINR": 399,
-          "priceType": "indicative"
+          "priceINR": 399
         }
       ]
     },
@@ -254,53 +217,43 @@
       "products": [
         {
           "name": "Maybelline Creamy Matte Lipstick",
-          "priceINR": 45,
-          "priceType": "indicative"
+          "priceINR": 45
         },
         {
           "name": "Lakmé 9to5 Primer + Matte Foundation",
-          "priceINR": 45,
-          "priceType": "indicative"
+          "priceINR": 45
         },
         {
           "name": "Maybelline Fit Me Compact",
-          "priceINR": 55,
-          "priceType": "indicative"
+          "priceINR": 55
         },
         {
           "name": "Swiss Beauty Baked Blush",
-          "priceINR": 60,
-          "priceType": "indicative"
+          "priceINR": 60
         },
         {
           "name": "Maybelline Fit Me Concealer",
-          "priceINR": 299,
-          "priceType": "indicative"
+          "priceINR": 299
         },
         {
           "name": "Lakmé Eyeconic Kajal",
-          "priceINR": 199,
-          "priceType": "indicative"
+          "priceINR": 199
         },
         {
           "name": "Maybelline Colossal Eyeliner",
-          "priceINR": 149,
-          "priceType": "indicative"
+          "priceINR": 149
         },
         {
           "name": "Lakmé Color Crush Nail Polish",
-          "priceINR": 249,
-          "priceType": "indicative"
+          "priceINR": 249
         },
         {
           "name": "Colorbar Makeup Brush",
-          "priceINR": 99,
-          "priceType": "indicative"
+          "priceINR": 99
         },
         {
           "name": "Beauty Blender Makeup Sponge",
-          "priceINR": 199,
-          "priceType": "indicative"
+          "priceINR": 199
         }
       ]
     },
@@ -317,23 +270,19 @@
       "products": [
         {
           "name": "Whisper Ultra Clean Sanitary Pads",
-          "priceINR": 99,
-          "priceType": "indicative"
+          "priceINR": 99
         },
         {
           "name": "Stayfree Secure Cottony Soft Pads",
-          "priceINR": 199,
-          "priceType": "indicative"
+          "priceINR": 199
         },
         {
           "name": "Sofy Antibacteria Pads",
-          "priceINR": 149,
-          "priceType": "indicative"
+          "priceINR": 149
         },
         {
           "name": "Sirona Menstrual Cup",
-          "priceINR": 99,
-          "priceType": "indicative"
+          "priceINR": 99
         },
         "Pee Safe Intimate Wash",
         "Veet Hair Removal Cream"

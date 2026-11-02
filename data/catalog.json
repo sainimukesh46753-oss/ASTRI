@@ -353,8 +353,16 @@
           "priceINR": 99,
           "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D85%2Cmetadata%3Dnone%2Cw%3D480%2Ch%3D480/app/assets/products/large_images/jpeg/7e45c5bf-50d9-4f37-bc7c-bd1c1707931b.jpg"
         },
-        "Pee Safe Intimate Wash",
-        "Veet Hair Removal Cream"
+        {
+          "name": "Pee Safe Intimate Wash",
+          "imageUrl": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Veet Hair Removal Cream",
+          "imageUrl": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -365,10 +373,26 @@
         "Postnatal Care"
       ],
       "products": [
-        "Mothercare Maternity Nursing Pads",
-        "Pigeon Breast Pads",
-        "Mothercare Maternity Pillow",
-        "Mee Mee Feeding Bottle"
+        {
+          "name": "Mothercare Maternity Nursing Pads",
+          "imageUrl": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Pigeon Breast Pads",
+          "imageUrl": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Mothercare Maternity Pillow",
+          "imageUrl": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Mee Mee Feeding Bottle",
+          "imageUrl": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -387,18 +411,66 @@
         "Mom Care Needs"
       ],
       "products": [
-        "Pampers Active Baby Diapers",
-        "Huggies Wonder Pants",
-        "Mother Sparsh Baby Wipes",
-        "Johnson's Baby Shampoo",
-        "Himalaya Baby Soap",
-        "Cetaphil Baby Lotion",
-        "Cerelac Wheat Apple Cereal",
-        "Philips Avent Feeding Bottle",
-        "Mee Mee Baby Nail Clipper",
-        "Baby Toothbrush",
-        "Soft Baby Rattle",
-        "Baby Cotton Bibs"
+        {
+          "name": "Pampers Active Baby Diapers",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Huggies Wonder Pants",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Mother Sparsh Baby Wipes",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Johnson's Baby Shampoo",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Himalaya Baby Soap",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cetaphil Baby Lotion",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cerelac Wheat Apple Cereal",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Philips Avent Feeding Bottle",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Mee Mee Baby Nail Clipper",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Baby Toothbrush",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Soft Baby Rattle",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Baby Cotton Bibs",
+          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -424,16 +496,56 @@
         "Health & Wellness E-Cards"
       ],
       "products": [
-        "Dettol Antiseptic Liquid",
-        "Savlon Antiseptic Liquid",
-        "Dr. Morepen Digital Thermometer",
-        "N95 Protective Mask",
-        "Hand Sanitizer",
-        "Hansaplast Washproof Bandages",
-        "Omron Digital Blood Pressure Monitor",
-        "Accu-Chek Glucometer Starter Kit",
-        "Tynor Knee Cap",
-        "Adult Care Protective Underwear"
+        {
+          "name": "Dettol Antiseptic Liquid",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Savlon Antiseptic Liquid",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Dr. Morepen Digital Thermometer",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "N95 Protective Mask",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Hand Sanitizer",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Hansaplast Washproof Bandages",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Omron Digital Blood Pressure Monitor",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Accu-Chek Glucometer Starter Kit",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tynor Knee Cap",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Adult Care Protective Underwear",
+          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -452,26 +564,106 @@
         "Hydroponic"
       ],
       "products": [
-        "Potato 1 kg",
-        "Onion 1 kg",
-        "Tomato 500 g",
-        "Green Capsicum 500 g",
-        "Cucumber 500 g",
-        "Carrot 500 g",
-        "Cauliflower 1 pc",
-        "Spinach 1 bunch",
-        "Coriander 1 bunch",
-        "Green Chilli 100 g",
-        "Banana 6 pcs",
-        "Apple 4 pcs",
-        "Kinnow 1 kg",
-        "Pomegranate 2 pcs",
-        "Mango 1 kg",
-        "Broccoli 1 pc",
-        "Button Mushroom 200 g",
-        "Lemon 250 g",
-        "Coconut 1 pc",
-        "Sweet Corn 2 pcs"
+        {
+          "name": "Potato 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Onion 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tomato 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Green Capsicum 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cucumber 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Carrot 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cauliflower 1 pc",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Spinach 1 bunch",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Coriander 1 bunch",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Green Chilli 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Banana 6 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Apple 4 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kinnow 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Pomegranate 2 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Mango 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Broccoli 1 pc",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Button Mushroom 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Lemon 250 g",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Coconut 1 pc",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Sweet Corn 2 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -488,21 +680,81 @@
         "Summer Specials"
       ],
       "products": [
-        "Aashirvaad Whole Wheat Atta 5 kg",
-        "Fortune Chakki Fresh Atta 5 kg",
-        "India Gate Classic Basmati Rice 1 kg",
-        "Daawat Rozana Gold Rice 5 kg",
-        "Tata Sampann Toor Dal 1 kg",
-        "Tata Sampann Moong Dal 1 kg",
-        "Tata Sampann Chana Dal 1 kg",
-        "Rajdhani Besan 500 g",
-        "Fortune Suji 500 g",
-        "Rajdhani Maida 1 kg",
-        "Rajma 500 g",
-        "Kabuli Chana 500 g",
-        "Organic Tattva Ragi Flour 500 g",
-        "Poha 500 g",
-        "Daliya 500 g"
+        {
+          "name": "Aashirvaad Whole Wheat Atta 5 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Fortune Chakki Fresh Atta 5 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "India Gate Classic Basmati Rice 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Daawat Rozana Gold Rice 5 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tata Sampann Toor Dal 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tata Sampann Moong Dal 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tata Sampann Chana Dal 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Rajdhani Besan 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Fortune Suji 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Rajdhani Maida 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Rajma 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kabuli Chana 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Organic Tattva Ragi Flour 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Poha 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Daliya 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -520,19 +772,71 @@
         "Organic"
       ],
       "products": [
-        "Fortune Sunflower Oil 1 L",
-        "Dhara Mustard Oil 1 L",
-        "Amul Pure Ghee 1 L",
-        "Patanjali Cow Ghee 1 L",
-        "Everest Turmeric Powder 100 g",
-        "Everest Red Chilli Powder 100 g",
-        "MDH Garam Masala 100 g",
-        "Tata Salt 1 kg",
-        "Madhur Sugar 1 kg",
-        "Tata Sampann Cumin Seeds 100 g",
-        "Catch Black Pepper 50 g",
-        "Everest Kitchen King Masala 100 g",
-        "Ginger Garlic Paste 200 g"
+        {
+          "name": "Fortune Sunflower Oil 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Dhara Mustard Oil 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Pure Ghee 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Patanjali Cow Ghee 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Everest Turmeric Powder 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Everest Red Chilli Powder 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "MDH Garam Masala 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tata Salt 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Madhur Sugar 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tata Sampann Cumin Seeds 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Catch Black Pepper 50 g",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Everest Kitchen King Masala 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Ginger Garlic Paste 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -550,20 +854,76 @@
         "Cream & Whitener"
       ],
       "products": [
-        "Amul Taaza Toned Milk 1 L",
-        "Mother Dairy Full Cream Milk 1 L",
-        "Amul Masti Dahi 400 g",
-        "Mother Dairy Classic Curd 400 g",
-        "Amul Butter 100 g",
-        "Amul Cheese Slices 200 g",
-        "Fresh White Bread 400 g",
-        "Pav 6 pcs",
-        "Farm Fresh Eggs 6 pcs",
-        "Amul Paneer 200 g",
-        "Soy Milk 1 L",
-        "Amul Lassi  pack",
-        "Idli Dosa Batter 1 kg",
-        "Amul Fresh Cream 250 ml"
+        {
+          "name": "Amul Taaza Toned Milk 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Mother Dairy Full Cream Milk 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Masti Dahi 400 g",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Mother Dairy Classic Curd 400 g",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Butter 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Cheese Slices 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Fresh White Bread 400 g",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Pav 6 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Farm Fresh Eggs 6 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Paneer 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Soy Milk 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Lassi  pack",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Idli Dosa Batter 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Fresh Cream 250 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -581,18 +941,66 @@
         "Biscuit Gift Pack"
       ],
       "products": [
-        "Britannia Good Day Butter Cookies",
-        "Sunfeast Dark Fantasy Choco Fills",
-        "Parle-G Original Glucose Biscuits",
-        "Britannia NutriChoice Digestive",
-        "Oreo Original Cream Biscuits",
-        "McVitie's Digestive Biscuits",
-        "Britannia Toast Rusk",
-        "Unibic Choco Chip Cookies",
-        "Britannia Treat Croissant",
-        "Brownie Slice",
-        "Vanilla Muffin 2 pcs",
-        "Weikfield Baking Powder"
+        {
+          "name": "Britannia Good Day Butter Cookies",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Sunfeast Dark Fantasy Choco Fills",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Parle-G Original Glucose Biscuits",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Britannia NutriChoice Digestive",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Oreo Original Cream Biscuits",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "McVitie's Digestive Biscuits",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Britannia Toast Rusk",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Unibic Choco Chip Cookies",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Britannia Treat Croissant",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Brownie Slice",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Vanilla Muffin 2 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Weikfield Baking Powder",
+          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -610,20 +1018,76 @@
         "Dry Fruit Gift Packs"
       ],
       "products": [
-        "Almonds 200 g",
-        "Cashews 200 g",
-        "Pistachios 100 g",
-        "Raisins 200 g",
-        "Happilo Trail Mix 200 g",
-        "Kellogg's Corn Flakes 500 g",
-        "Kellogg's Chocos 375 g",
-        "Bagrry's Muesli 500 g",
-        "Quaker Oats 1 kg",
-        "Lion Dates 500 g",
-        "Chia Seeds 100 g",
-        "Roasted Pumpkin Seeds 100 g",
-        "Vermicelli 400 g",
-        "Poha 500 g"
+        {
+          "name": "Almonds 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cashews 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Pistachios 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Raisins 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Happilo Trail Mix 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kellogg's Corn Flakes 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kellogg's Chocos 375 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Bagrry's Muesli 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Quaker Oats 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Lion Dates 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Chia Seeds 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Roasted Pumpkin Seeds 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Vermicelli 400 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Poha 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -642,15 +1106,51 @@
         "Eggs"
       ],
       "products": [
-        "Fresh Chicken Curry Cut 500 g",
-        "Chicken Breast Boneless 500 g",
-        "Chicken Drumsticks 500 g",
-        "Rohu Fish Curry Cut 500 g",
-        "Prawns Medium 250 g",
-        "Fresh Mutton Curry Cut 500 g",
-        "Frozen Chicken Nuggets 400 g",
-        "Chicken Seekh Kebab 250 g",
-        "Plant-Based Nuggets 250 g"
+        {
+          "name": "Fresh Chicken Curry Cut 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Chicken Breast Boneless 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Chicken Drumsticks 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Rohu Fish Curry Cut 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Prawns Medium 250 g",
+          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Fresh Mutton Curry Cut 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Frozen Chicken Nuggets 400 g",
+          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Chicken Seekh Kebab 250 g",
+          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Plant-Based Nuggets 250 g",
+          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ],
       "catalogueNote": "Fresh meat and seafood require verified cold-chain sourcing and local availability."
     },
@@ -670,17 +1170,61 @@
         "Tissues & Disposables"
       ],
       "products": [
-        "Milton Thermosteel Water Bottle 1 L",
-        "Cello Plastic Water Bottle 1 L",
-        "Borosil Glass Set 6 pcs",
-        "Prestige Nonstick Fry Pan  t",
-        "Stainless Steel Saucepan 1 pc",
-        "Lock & Lock Food Container",
-        "Lunch Box 3 Compartment",
-        "Stainless Steel Vegetable Peeler",
-        "Pigeon Electric Kettle 1.5 L",
-        "Philips Mixer Grinder",
-        "Paper Napkins 100 pcs"
+        {
+          "name": "Milton Thermosteel Water Bottle 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cello Plastic Water Bottle 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Borosil Glass Set 6 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Prestige Nonstick Fry Pan  t",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Stainless Steel Saucepan 1 pc",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Lock & Lock Food Container",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Lunch Box 3 Compartment",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Stainless Steel Vegetable Peeler",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Pigeon Electric Kettle 1.5 L",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Philips Mixer Grinder",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Paper Napkins 100 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -697,16 +1241,56 @@
         "Gift Packs"
       ],
       "products": [
-        "Lay's Classic Salted Chips",
-        "Kurkure Masala Munch",
-        "Haldiram's Aloo Bhujia",
-        "Haldiram's Moong Dal",
-        "Bingo! Mad Angles",
-        "Doritos Nacho Cheese",
-        "Act II Classic Salted Popcorn",
-        "Too Yumm Multigrain Chips",
-        "Lijjat Papad",
-        "Haldiram's Namkeen Gift Pack"
+        {
+          "name": "Lay's Classic Salted Chips",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kurkure Masala Munch",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Haldiram's Aloo Bhujia",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Haldiram's Moong Dal",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Bingo! Mad Angles",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Doritos Nacho Cheese",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Act II Classic Salted Popcorn",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Too Yumm Multigrain Chips",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Lijjat Papad",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Haldiram's Namkeen Gift Pack",
+          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -722,17 +1306,61 @@
         "Syrups"
       ],
       "products": [
-        "Cadbury Dairy Milk Silk",
-        "Cadbury Dairy Milk",
-        "KitKat 4 Finger",
-        "Ferrero Rocher 16 pcs",
-        "Amul Dark Chocolate",
-        "Haldiram's Soan Papdi",
-        "Kaju Katli 250 g",
-        "Gulab Jamun 1 kg",
-        "Alpenliebe Candy",
-        "Hershey's Chocolate Syrup",
-        "Yoga Bar Energy Bar"
+        {
+          "name": "Cadbury Dairy Milk Silk",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cadbury Dairy Milk",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "KitKat 4 Finger",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Ferrero Rocher 16 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Dark Chocolate",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Haldiram's Soan Papdi",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kaju Katli 250 g",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Gulab Jamun 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Alpenliebe Candy",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Hershey's Chocolate Syrup",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Yoga Bar Energy Bar",
+          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -754,19 +1382,71 @@
         "Beverages Gift Packs"
       ],
       "products": [
-        "Coca-Cola Original Taste 750 ml",
-        "Thums Up 750 ml",
-        "Sprite 750 ml",
-        "Real Fruit Power Orange 1 L",
-        "Tropicana Apple Juice 1 L",
-        "Paper Boat Aam Panna  pack",
-        "Red Bull Energy Drink 250 ml",
-        "Gatorade Sports Drink 500 ml",
-        "Bisleri Soda 750 ml",
-        "Packaged Drinking Water 1 L",
-        "Raw Pressery Coconut Water 1 L",
-        "Cold Coffee 250 ml",
-        "Nestea Iced Tea  pack"
+        {
+          "name": "Coca-Cola Original Taste 750 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Thums Up 750 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Sprite 750 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Real Fruit Power Orange 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tropicana Apple Juice 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Paper Boat Aam Panna  pack",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Red Bull Energy Drink 250 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Gatorade Sports Drink 500 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Bisleri Soda 750 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Packaged Drinking Water 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Raw Pressery Coconut Water 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cold Coffee 250 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Nestea Iced Tea  pack",
+          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -783,17 +1463,61 @@
         "Herbal Infusion"
       ],
       "products": [
-        "Tata Tea Gold 500 g",
-        "Taj Mahal Tea 250 g",
-        "Nescafé Classic Coffee 100 g",
-        "Bru Instant Coffee 100 g",
-        "Cadbury Hot Chocolate 200 g",
-        "Organic India Tulsi Green Tea",
-        "Tetley Green Tea Bags",
-        "Bournvita 500 g",
-        "Horlicks Classic Malt 500 g",
-        "Continental Coffee Premix",
-        "Chamomile Herbal Tea"
+        {
+          "name": "Tata Tea Gold 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Taj Mahal Tea 250 g",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Nescafé Classic Coffee 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Bru Instant Coffee 100 g",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cadbury Hot Chocolate 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Organic India Tulsi Green Tea",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tetley Green Tea Bags",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Bournvita 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Horlicks Classic Malt 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Continental Coffee Premix",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Chamomile Herbal Tea",
+          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -811,18 +1535,66 @@
         "Energy Bars"
       ],
       "products": [
-        "Maggi 2-Minute Masala Noodles",
-        "Sunfeast Yippee Magic Masala",
-        "Top Ramen Curry Noodles",
-        "Bambino Macaroni 400 g",
-        "Del Monte Pasta 500 g",
-        "Knorr Sweet Corn Soup",
-        "MTR Ready to Eat Paneer Butter Masala",
-        "Haldiram's Ready to Eat Rajma",
-        "Gits Gulab Jamun Mix",
-        "MTR Idli Mix",
-        "McCain French Fries  frozen",
-        "Yoga Bar Energy Bar"
+        {
+          "name": "Maggi 2-Minute Masala Noodles",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Sunfeast Yippee Magic Masala",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Top Ramen Curry Noodles",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Bambino Macaroni 400 g",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Del Monte Pasta 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Knorr Sweet Corn Soup",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "MTR Ready to Eat Paneer Butter Masala",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Haldiram's Ready to Eat Rajma",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Gits Gulab Jamun Mix",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "MTR Idli Mix",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "McCain French Fries  frozen",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Yoga Bar Energy Bar",
+          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -841,16 +1613,56 @@
         "Premium"
       ],
       "products": [
-        "Kissan Fresh Tomato Ketchup 500 g",
-        "Maggi Hot & Sweet Sauce 500 g",
-        "Kissan Mixed Fruit Jam 500 g",
-        "FunFoods Veg Mayonnaise 250 g",
-        "Patanjali Mango Pickle 500 g",
-        "Pintola Classic Peanut Butter 1 kg",
-        "Ching's Schezwan Chutney 250 g",
-        "Dabur Honey 500 g",
-        "Veeba Thousand Island Dressing",
-        "Del Monte Pasta Sauce"
+        {
+          "name": "Kissan Fresh Tomato Ketchup 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Maggi Hot & Sweet Sauce 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kissan Mixed Fruit Jam 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "FunFoods Veg Mayonnaise 250 g",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Patanjali Mango Pickle 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Pintola Classic Peanut Butter 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Ching's Schezwan Chutney 250 g",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Dabur Honey 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Veeba Thousand Island Dressing",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Del Monte Pasta Sauce",
+          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -869,10 +1681,26 @@
         "Smoking Cessation"
       ],
       "products": [
-        "Rajnigandha Silver Pearls Mouth Freshener",
-        "Pass Pass Mouth Freshener",
-        "Orbit Peppermint Gum",
-        "Center Fresh Mint Gum"
+        {
+          "name": "Rajnigandha Silver Pearls Mouth Freshener",
+          "imageUrl": "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Pass Pass Mouth Freshener",
+          "imageUrl": "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Orbit Peppermint Gum",
+          "imageUrl": "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Center Fresh Mint Gum",
+          "imageUrl": "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ],
       "catalogueNote": "Tobacco, cigarettes, cigars and related restricted goods are intentionally excluded."
     },
@@ -890,15 +1718,51 @@
         "Syrups"
       ],
       "products": [
-        "Amul Vanilla Ice Cream Tub 1 L",
-        "Amul Rajbhog Ice Cream Tub 1 L",
-        "Kwality Wall's Cornetto Chocolate",
-        "Magnum Classic Stick",
-        "Vadilal Cassata Slice",
-        "Amul Real Ice Cream Cup",
-        "Naturals Tender Coconut Ice Cream",
-        "Baskin Robbins Ice Cream Tub",
-        "Chocolate Dessert Syrup"
+        {
+          "name": "Amul Vanilla Ice Cream Tub 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Rajbhog Ice Cream Tub 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kwality Wall's Cornetto Chocolate",
+          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Magnum Classic Stick",
+          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Vadilal Cassata Slice",
+          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Amul Real Ice Cream Cup",
+          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Naturals Tender Coconut Ice Cream",
+          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Baskin Robbins Ice Cream Tub",
+          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Chocolate Dessert Syrup",
+          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -923,20 +1787,76 @@
         "E-Gift Cards"
       ],
       "products": [
-        "Decorative Cushion Cover",
-        "Artificial Indoor Plant",
-        "Cotton Bedsheet Double",
-        "Cotton Bath Towel",
-        "Garden Hand Trowel",
-        "LED String Lights",
-        "Facial Tissue Box",
-        "Stainless Steel Hair Claw Clip",
-        "Cotton Ankle Socks",
-        "Scented Room Freshener",
-        "Cotton Wicks for Pooja",
-        "Bathroom Soap Dispenser",
-        "Reusable Shopping Tote Bag",
-        "Gift Wrapping Paper"
+        {
+          "name": "Decorative Cushion Cover",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Artificial Indoor Plant",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cotton Bedsheet Double",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cotton Bath Towel",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Garden Hand Trowel",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "LED String Lights",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Facial Tissue Box",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Stainless Steel Hair Claw Clip",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cotton Ankle Socks",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Scented Room Freshener",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cotton Wicks for Pooja",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Bathroom Soap Dispenser",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Reusable Shopping Tote Bag",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Gift Wrapping Paper",
+          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -958,19 +1878,71 @@
         "Household Appliance Cleaners"
       ],
       "products": [
-        "Lizol Disinfectant Floor Cleaner 1 L",
-        "Harpic Power Plus Toilet Cleaner 500 ml",
-        "Vim Dishwash Gel 500 ml",
-        "Vim Dishwash Bar 200 g",
-        "Surf Excel Easy Wash Detergent 1 kg",
-        "Tide Plus Detergent 1 kg",
-        "Comfort Fabric Conditioner 860 ml",
-        "Goodknight Fast Card",
-        "Scotch-Brite Scrub Pad",
-        "Gala Floor Wiper",
-        "Garbage Bags Medium",
-        "Colin Glass Cleaner 500 ml",
-        "Vanish Stain Remover 500 g"
+        {
+          "name": "Lizol Disinfectant Floor Cleaner 1 L",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Harpic Power Plus Toilet Cleaner 500 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Vim Dishwash Gel 500 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Vim Dishwash Bar 200 g",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Surf Excel Easy Wash Detergent 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Tide Plus Detergent 1 kg",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Comfort Fabric Conditioner 860 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Goodknight Fast Card",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Scotch-Brite Scrub Pad",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Gala Floor Wiper",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Garbage Bags Medium",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Colin Glass Cleaner 500 ml",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Vanish Stain Remover 500 g",
+          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -992,18 +1964,66 @@
         "Electronics E-Card"
       ],
       "products": [
-        "Philips Beard Trimmer",
-        "boAt Airdopes Wireless Earbuds",
-        "JBL Go Portable Speaker",
-        "USB-C Fast Charging Cable",
-        "Ambrane 20W USB-C Charger",
-        "Portronics Power Bank 10000 mAh",
-        "Fire-Boltt Smart Watch",
-        "Duracell AA Batteries 4 pcs",
-        "Belkin Extension Board",
-        "Logitech Wireless Mouse",
-        "TP-Link Wi-Fi Router",
-        "Philips LED Bulb 9W"
+        {
+          "name": "Philips Beard Trimmer",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "boAt Airdopes Wireless Earbuds",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "JBL Go Portable Speaker",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "USB-C Fast Charging Cable",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Ambrane 20W USB-C Charger",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Portronics Power Bank 10000 mAh",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Fire-Boltt Smart Watch",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Duracell AA Batteries 4 pcs",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Belkin Extension Board",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Logitech Wireless Mouse",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "TP-Link Wi-Fi Router",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Philips LED Bulb 9W",
+          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -1021,18 +2041,66 @@
         "Gift Wraps & Bags"
       ],
       "products": [
-        "Classmate Single Line Notebook",
-        "Navneet Long Book",
-        "Reynolds 045 Ball Pen",
-        "Nataraj HB Pencil Pack",
-        "Fevicol MR Adhesive",
-        "Cello Tape 1 inch",
-        "Camel Wax Crayons 24 Shades",
-        "DOMS Colour Pencils",
-        "UNO Card Game",
-        "Rubik's Cube 3x3",
-        "A4 Copier Paper 500 Sheets",
-        "Document Folder"
+        {
+          "name": "Classmate Single Line Notebook",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Navneet Long Book",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Reynolds 045 Ball Pen",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Nataraj HB Pencil Pack",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Fevicol MR Adhesive",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cello Tape 1 inch",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Camel Wax Crayons 24 Shades",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "DOMS Colour Pencils",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "UNO Card Game",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Rubik's Cube 3x3",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "A4 Copier Paper 500 Sheets",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Document Folder",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -1044,14 +2112,46 @@
         "Outdoor Games"
       ],
       "products": [
-        "Boldfit Yoga Mat",
-        "Decathlon Skipping Rope",
-        "Cockatoo Hand Grip Strengthener",
-        "Cosco Tennis Ball",
-        "Nivia Football",
-        "Adjustable Dumbbell Pair",
-        "Resistance Band Set",
-        "Insulated Sports Water Bottle"
+        {
+          "name": "Boldfit Yoga Mat",
+          "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Decathlon Skipping Rope",
+          "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cockatoo Hand Grip Strengthener",
+          "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Cosco Tennis Ball",
+          "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Nivia Football",
+          "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Adjustable Dumbbell Pair",
+          "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Resistance Band Set",
+          "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Insulated Sports Water Bottle",
+          "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -1062,10 +2162,26 @@
         "Shoe Care Accessories"
       ],
       "products": [
-        "Kiwi Black Shoe Polish",
-        "Kiwi Shoe Shine Sponge",
-        "Wooden Shoe Brush",
-        "Shoe Cleaning Cloth"
+        {
+          "name": "Kiwi Black Shoe Polish",
+          "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kiwi Shoe Shine Sponge",
+          "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Wooden Shoe Brush",
+          "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Shoe Cleaning Cloth",
+          "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {
@@ -1094,10 +2210,26 @@
         "Return Gifts"
       ],
       "products": [
-        "Traditional Zari Rakhi",
-        "Kids Cartoon Rakhi",
-        "Rakhi Chocolate Gift Box",
-        "Dry Fruit Gift Hamper"
+        {
+          "name": "Traditional Zari Rakhi",
+          "imageUrl": "https://images.unsplash.com/photo-1512909006721-3d6018887383?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Kids Cartoon Rakhi",
+          "imageUrl": "https://images.unsplash.com/photo-1512909006721-3d6018887383?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Rakhi Chocolate Gift Box",
+          "imageUrl": "https://images.unsplash.com/photo-1512909006721-3d6018887383?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        },
+        {
+          "name": "Dry Fruit Gift Hamper",
+          "imageUrl": "https://images.unsplash.com/photo-1512909006721-3d6018887383?auto=format&fit=crop&w=700&q=80",
+          "imageSource": "Unsplash category sample image"
+        }
       ]
     },
     {

@@ -240,7 +240,9 @@
         },
         {
           "name": "Gillette Fusion Razor",
-          "priceINR": 399
+          "priceINR": 399,
+          "imageUrl": "https://images.ctfassets.net/7tfi3razjgvb/5kC8T2tigekCeaH8O7B1Zi/822fdc5f709e0f1438fa8305eb8ae2e3/sp_overview_402x.png?fm=webp&q=70&w=1600",
+          "imageSource": "Gillette India official product page"
         }
       ]
     },

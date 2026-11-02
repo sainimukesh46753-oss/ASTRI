@@ -167,19 +167,23 @@
       "products": [
         {
           "name": "Pond's Super Light Gel",
-          "priceINR": 180
+          "priceINR": 180,
+          "imageUrl": "https://poshakmahal.pk/cdn/shop/files/PONDS-SuperLightGel.webp?v=1687873591"
         },
         {
           "name": "Cetaphil Moisturising Cream",
-          "priceINR": 499
+          "priceINR": 499,
+          "imageUrl": "https://www.healthylife.com.au/_next/image?dpl=dpl_8CeXfeF1De7PeZLgG6SuwA7zNypv&q=75&url=https%3A%2F%2Fassets.healthylife.com.au%2Fproduct-images%2F113076.jpg&w=1920"
         },
         {
           "name": "Lakmé Sun Expert SPF 50",
-          "priceINR": 249
+          "priceINR": 249,
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ105222_FOP_83414575-d352-4cab-a84f-fd4b318a4989.jpg?v=1776848759&width=990"
         },
         {
           "name": "Neutrogena UltraSheer Sunscreen",
-          "priceINR": 399
+          "priceINR": 399,
+          "imageUrl": "https://images.ctfassets.net/hpl1ps3eket1/3gvOmpDS45fg0SxzNSd7Ta/6b313d46e5c98599788ffa2cc7ff3222/NTG_086800687900_27315134_UltraSheer_Dry-Touch_Sunscreen_SPF50_00000.jpg?fm=webp&w=3840"
         },
         {
           "name": "Himalaya Neem Face Wash",
@@ -187,15 +191,18 @@
         },
         {
           "name": "Simple Refreshing Face Wash",
-          "priceINR": 299
+          "priceINR": 299,
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/6/3/63d77f7SIMPL00000124_11.jpg?tr=w-500"
         },
         {
           "name": "Garnier Vitamin C Serum",
-          "priceINR": 249
+          "priceINR": 249,
+          "imageUrl": "https://www.nykaa.com/media/catalog/product/g/a/garnier-vitamin-c-serum-product-image.jpg"
         },
         {
           "name": "Minimalist Niacinamide 10% Serum",
-          "priceINR": 399
+          "priceINR": 399,
+          "imageUrl": "https://www.ohsogo.com/cdn/shop/files/Minimalist_Niacinamide_10_face_serum_30ml.png?v=1781830338"
         },
         {
           "name": "Nivea Lip Balm",

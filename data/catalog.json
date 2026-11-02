@@ -321,51 +321,6 @@
       ]
     },
     {
-      "name": "Feminine Hygiene",
-      "subcategories": [
-        "Sanitary Pads",
-        "Tampons & Menstrual Cups",
-        "Period Panty",
-        "Period Pain Relief",
-        "Intimate Wash & Wipes",
-        "Hair Removal"
-      ],
-      "products": [
-        {
-          "name": "Whisper Ultra Clean Sanitary Pads",
-          "priceINR": 99,
-          "imageUrl": "https://cdn01.pharmeasy.in/dam/products_otc/E11684/whisper-ultra-clean-sanitary-pads-xl-8-2-1632780954.jpg?dim=768x585&q=100",
-          "imageSource": "PharmEasy"
-        },
-        {
-          "name": "Stayfree Secure Cottony Soft Pads",
-          "priceINR": 199,
-          "imageUrl": "https://rigmeds-main.s3.ap-south-1.amazonaws.com/39286/Stayfree-Secure-Cottony-Soft-Regular-With-Wings-20-pad-1.jpg"
-        },
-        {
-          "name": "Sofy Antibacteria Pads",
-          "priceINR": 149,
-          "imageUrl": "https://www.sofy.in/wp-content/uploads/2025/05/antibacteria-6-pad.png",
-          "imageSource": "Sofy India"
-        },
-        {
-          "name": "Sirona Menstrual Cup",
-          "priceINR": 99,
-          "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D85%2Cmetadata%3Dnone%2Cw%3D480%2Ch%3D480/app/assets/products/large_images/jpeg/7e45c5bf-50d9-4f37-bc7c-bd1c1707931b.jpg"
-        },
-        {
-          "name": "Pee Safe Intimate Wash",
-          "imageUrl": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        },
-        {
-          "name": "Veet Hair Removal Cream",
-          "imageUrl": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        }
-      ]
-    },
-    {
       "name": "Mom Care",
       "subcategories": [
         "Pregnancy Care",
@@ -1089,70 +1044,6 @@
           "imageSource": "Unsplash category sample image"
         }
       ]
-    },
-    {
-      "name": "Chicken, Meat & Fish",
-      "subcategories": [
-        "Chicken",
-        "Fresh Meat",
-        "Fish & Seafood",
-        "Mutton",
-        "Frozen Non-Veg Snacks",
-        "Non Veg Spices",
-        "Sausage, Salami & Ham",
-        "Exotic Meat",
-        "Fresh Marinades",
-        "Plant Based Meat",
-        "Eggs"
-      ],
-      "products": [
-        {
-          "name": "Fresh Chicken Curry Cut 500 g",
-          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        },
-        {
-          "name": "Chicken Breast Boneless 500 g",
-          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        },
-        {
-          "name": "Chicken Drumsticks 500 g",
-          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        },
-        {
-          "name": "Rohu Fish Curry Cut 500 g",
-          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        },
-        {
-          "name": "Prawns Medium 250 g",
-          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        },
-        {
-          "name": "Fresh Mutton Curry Cut 500 g",
-          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        },
-        {
-          "name": "Frozen Chicken Nuggets 400 g",
-          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        },
-        {
-          "name": "Chicken Seekh Kebab 250 g",
-          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        },
-        {
-          "name": "Plant-Based Nuggets 250 g",
-          "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
-        }
-      ],
-      "catalogueNote": "Fresh meat and seafood require verified cold-chain sourcing and local availability."
     },
     {
       "name": "Kitchenware & Appliances",

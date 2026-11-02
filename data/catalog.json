@@ -23,68 +23,77 @@
         {
           "name": "Dove Cream Beauty Bathing Bar",
           "priceINR": 45,
-          "imageUrl": "https://m237.apollo247.com/pub/media/catalog/product/D/O/DOV0022_1-JULY23_1.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/dove%2Ccream%2Cbeauty%2Cbathing%2Cbar?lock=1001",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Pears Pure & Gentle Soap",
           "priceINR": 45,
-          "imageUrl": "https://www.jiomart.com/images/product/600x600/491633896/pears-pure-gentle-soap-60-g-product-images-o491633896-p590120593-1-202209081118.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/pears%2Cpure%2Cgentle%2Csoap%2Cbath?lock=1002",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lifebuoy Total Soap",
           "priceINR": 30,
-          "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/266814_2-lifebuoy-bathing-soap-total.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/lifebuoy%2Ctotal%2Csoap%2Cbath%2Cbody?lock=1003",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Nivea Shower Gel",
           "priceINR": 125,
-          "imageUrl": "https://assets.icanet.se/image/upload/v1725354685/1073165_1.webp"
+          "imageUrl": "https://loremflickr.com/640/640/nivea%2Cshower%2Cgel%2Cbath%2Cbody?lock=1004",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Fiama Shower Gel",
           "priceINR": 110,
-          "imageUrl": "https://cdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/OnbSaHE69h-fiama_cooling_shower_gel_menthol_magnolia_250_ml_636652_0_0.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/fiama%2Cshower%2Cgel%2Cbath%2Cbody?lock=1005",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Dettol Handwash",
           "priceINR": 99,
-          "imageUrl": "https://static.oxinis.com/healthmug/image/product/140605-1-800.webp"
+          "imageUrl": "https://loremflickr.com/640/640/dettol%2Chandwash%2Cbath%2Cbody?lock=1006",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Colgate Strong Teeth Toothpaste",
           "priceINR": 65,
-          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ102338_FOP_2e59bbb6-96c2-4ec9-89b5-e05328b0de72.jpg?v=1776847627"
+          "imageUrl": "https://loremflickr.com/640/640/colgate%2Cstrong%2Cteeth%2Ctoothpaste%2Cbath?lock=1007",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Sensodyne Fresh Mint Toothpaste",
           "priceINR": 180,
-          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/e330d54f-9b1f-4675-ad9c-0971e9395135.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/sensodyne%2Cfresh%2Cmint%2Ctoothpaste%2Cbath?lock=1008",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Listerine Cool Mint Mouthwash",
           "priceINR": 160,
-          "imageUrl": "https://www.jiomart.com/images/product/original/490823636/listerine-cool-mint-mouthwash-500-ml-product-images-o490823636-p490823636-0-202209221923.jpg?im=Resize%3D%281000%2C1000%29",
+          "imageUrl": "https://loremflickr.com/640/640/listerine%2Ccool%2Cmint%2Cmouthwash%2Cbath?lock=1009",
           "galleryImages": [
-            "https://www.jiomart.com/images/product/original/490823636/listerine-cool-mint-mouthwash-500-ml-product-images-o490823636-p490823636-0-202209221923.jpg?im=Resize%3D%281000%2C1000%29"
-          ]
+            "https://loremflickr.com/640/640/listerine%2Ccool%2Cmint%2Cmouthwash%2Cbath?lock=1009"
+          ],
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Nivea Soft Cream",
           "priceINR": 145,
-          "imageUrl": "https://kuludonline.com/cdn/shop/files/66192_f945fc6a-1e1f-4849-a9fa-6f9223020d05.jpg?v=1746785789",
-          "imageSource": "Kulud Online Pharmacy product listing"
+          "imageUrl": "https://loremflickr.com/640/640/nivea%2Csoft%2Ccream%2Cbath%2Cbody?lock=1010",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Vaseline Intensive Care Lotion",
           "priceINR": 180,
-          "imageUrl": "https://manmohni.pk/cdn/shop/files/VaselineDrySkinRepairIntensiveCareLotion200mlOnlineinPakistanonManmohni.webp?v=1722701332",
-          "imageSource": "Manmohni product listing"
+          "imageUrl": "https://loremflickr.com/640/640/vaseline%2Cintensive%2Ccare%2Clotion%2Cbath?lock=1011",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Parachute Coconut Hair Oil",
           "priceINR": 110,
-          "imageUrl": "https://lemon.sa/image/catalog/593473_main.png",
-          "imageSource": "Lemon product listing"
+          "imageUrl": "https://loremflickr.com/640/640/parachute%2Ccoconut%2Chair%2Coil%2Cbath?lock=1012",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -104,64 +113,74 @@
         {
           "name": "Dove Daily Shine Shampoo",
           "priceINR": 180,
-          "imageUrl": "https://images.apollo247.in/pub/media/catalog/product/D/O/DOV0013_1-JULY23_1.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/dove%2Cdaily%2Cshine%2Cshampoo%2Chair?lock=1013",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Head & Shoulders Cool Menthol Shampoo",
           "priceINR": 190,
-          "imageUrl": "https://images.ctfassets.net/j6utfne5ne6b/5CPb4onpUl2590nOdLmU2c/a5da950a50dd44d5281ecdd076354dc0/Banner-1600x1600-GREEN.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/head%2Cshoulders%2Ccool%2Cmenthol%2Cshampoo?lock=1014",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Clinic Plus Strong & Long Shampoo",
           "priceINR": 95,
-          "imageUrl": "https://www.vishalmegamart.com/dw/image/v2/BGHT_PRD/on/demandware.static/-/Sites-vmm-fmcg-master-catalog/default/dw6b71cc21/images/large/1311000992.jpg?sh=900&sw=900"
+          "imageUrl": "https://loremflickr.com/640/640/clinic%2Cplus%2Cstrong%2Clong%2Cshampoo?lock=1015",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "L'Oréal Paris Total Repair Conditioner",
           "priceINR": 220,
-          "imageUrl": "https://glamzy.in/_next/image?q=75&url=https%3A%2F%2Fcdn2.buyeazzy.com%2Ffit-in%2F1500x1500%2Fproduction%2Fab93293095ce525d0e04e5b5e336a5b4%2F61PMTJWD7vL._SL1500_.jpg&w=750"
+          "imageUrl": "https://loremflickr.com/640/640/or%2Cal%2Cparis%2Ctotal%2Crepair?lock=1016",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Dove Intense Repair Conditioner",
           "priceINR": 180,
-          "imageUrl": "https://cdn.sybazzar.com/public/840-840/files/0772665435F4EA1-dove.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/dove%2Cintense%2Crepair%2Cconditioner%2Chair?lock=1017",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Garnier Color Naturals Hair Colour",
           "priceINR": 120,
-          "imageUrl": "https://objectstorage.ap-mumbai-1.oraclecloud.com/n/softlogicbicloud/b/cdn/o/products/600-600/121609--01--1646231009.jpeg"
+          "imageUrl": "https://loremflickr.com/640/640/garnier%2Ccolor%2Cnaturals%2Chair%2Ccolour?lock=1018",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Parachute Advansed Coconut Hair Oil",
           "priceINR": 110,
-          "imageUrl": "https://www.desiclik.com/images/P/parachuteadvanced175-01.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/parachute%2Cadvansed%2Ccoconut%2Chair%2Coil?lock=1019",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Livon Hair Serum",
           "priceINR": 160,
-          "imageUrl": "https://images.apollo247.in/pub/media/catalog/product/L/I/LIV0916_1.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/livon%2Chair%2Cserum?lock=1020",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Set Wet Styling Gel",
           "priceINR": 149,
-          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/e/e/ee71d5dM_8901088062473_1.jpg",
-          "imageSource": "Nykaa product listing"
+          "imageUrl": "https://loremflickr.com/640/640/set%2Cwet%2Cstyling%2Cgel%2Chair?lock=1021",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Philips Hair Dryer",
           "priceINR": 799,
-          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772432402055-45.jpg",
-          "imageSource": "Blinkit product listing"
+          "imageUrl": "https://loremflickr.com/640/640/philips%2Chair%2Cdryer?lock=1022",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Wide Tooth Hair Comb",
           "priceINR": 35,
-          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/5/f/5fec660MAJAB00000084_01.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/wide%2Ctooth%2Chair%2Ccomb?lock=1023",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "U-Shape Hair Clips",
           "priceINR": 60,
-          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40362547_1-gubb-bun-hair-pins-u-shape.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/u%2Cshape%2Chair%2Cclips?lock=1024",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -184,67 +203,74 @@
         {
           "name": "Pond's Super Light Gel",
           "priceINR": 180,
-          "imageUrl": "https://poshakmahal.pk/cdn/shop/files/PONDS-SuperLightGel.webp?v=1687873591"
+          "imageUrl": "https://loremflickr.com/640/640/pond%2Cs%2Csuper%2Clight%2Cgel?lock=1025",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cetaphil Moisturising Cream",
           "priceINR": 499,
-          "imageUrl": "https://www.healthylife.com.au/_next/image?dpl=dpl_8CeXfeF1De7PeZLgG6SuwA7zNypv&q=75&url=https%3A%2F%2Fassets.healthylife.com.au%2Fproduct-images%2F113076.jpg&w=1920"
+          "imageUrl": "https://loremflickr.com/640/640/cetaphil%2Cmoisturising%2Ccream%2Cskin%2Cface?lock=1026",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lakmé Sun Expert SPF 50",
           "priceINR": 249,
-          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ105222_FOP_83414575-d352-4cab-a84f-fd4b318a4989.jpg?v=1776848759&width=990"
+          "imageUrl": "https://loremflickr.com/640/640/lakm%2Csun%2Cexpert%2Cspf%2C50?lock=1027",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Neutrogena UltraSheer Sunscreen",
           "priceINR": 399,
-          "imageUrl": "https://images.ctfassets.net/hpl1ps3eket1/3gvOmpDS45fg0SxzNSd7Ta/6b313d46e5c98599788ffa2cc7ff3222/NTG_086800687900_27315134_UltraSheer_Dry-Touch_Sunscreen_SPF50_00000.jpg?fm=webp&w=3840"
+          "imageUrl": "https://loremflickr.com/640/640/neutrogena%2Cultrasheer%2Csunscreen%2Cskin%2Cface?lock=1028",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Himalaya Neem Face Wash",
           "priceINR": 299,
-          "imageUrl": "https://easydeal.com.bd/public/uploads/all/uZMEP1XJYT4e26BhinCbGEuJ8XqEPrTolV7I83rE.jpg",
-          "imageSource": "Easy Deal product listing"
+          "imageUrl": "https://loremflickr.com/640/640/himalaya%2Cneem%2Cface%2Cwash%2Cskin?lock=1029",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Simple Refreshing Face Wash",
           "priceINR": 299,
-          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/6/3/63d77f7SIMPL00000124_11.jpg?tr=w-500"
+          "imageUrl": "https://loremflickr.com/640/640/simple%2Crefreshing%2Cface%2Cwash%2Cskin?lock=1030",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Garnier Vitamin C Serum",
           "priceINR": 249,
-          "imageUrl": "https://www.nykaa.com/media/catalog/product/g/a/garnier-vitamin-c-serum-product-image.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/garnier%2Cvitamin%2Cc%2Cserum%2Cskin?lock=1031",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Minimalist Niacinamide 10% Serum",
           "priceINR": 399,
-          "imageUrl": "https://www.ohsogo.com/cdn/shop/files/Minimalist_Niacinamide_10_face_serum_30ml.png?v=1781830338"
+          "imageUrl": "https://loremflickr.com/640/640/minimalist%2Cniacinamide%2C10%2Cserum%2Cskin?lock=1032",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Nivea Lip Balm",
           "priceINR": 125,
-          "imageUrl": "https://www.jiomart.com/images/product/original/1018184/nivea-lip-care-balm-original-4-8gm-prod-1018184-0-202403012320.jpg?im=Resize%3D%28600%2C600%29",
-          "imageSource": "JioMart product listing"
+          "imageUrl": "https://loremflickr.com/640/640/nivea%2Clip%2Cbalm%2Cskin%2Cface?lock=1033",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Himalaya Purifying Neem Mask",
           "priceINR": 149,
-          "imageUrl": "https://www.gosupps.com/media/catalog/product/8/1/81DLN2Ink9L.jpg",
-          "imageSource": "GoSupps product listing"
+          "imageUrl": "https://loremflickr.com/640/640/himalaya%2Cpurifying%2Cneem%2Cmask%2Cskin?lock=1034",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Garnier Micellar Water",
           "priceINR": 299,
-          "imageUrl": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w%3A60/947279/DKOO-6bLYj-947279_1.jpg",
-          "imageSource": "Tira"
+          "imageUrl": "https://loremflickr.com/640/640/garnier%2Cmicellar%2Cwater%2Cskin%2Cface?lock=1035",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Gillette Fusion Razor",
           "priceINR": 399,
-          "imageUrl": "https://images.ctfassets.net/7tfi3razjgvb/5kC8T2tigekCeaH8O7B1Zi/822fdc5f709e0f1438fa8305eb8ae2e3/sp_overview_402x.png?fm=webp&q=70&w=1600",
-          "imageSource": "Gillette India official product page"
+          "imageUrl": "https://loremflickr.com/640/640/gillette%2Cfusion%2Crazor%2Cskin%2Cface?lock=1036",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -267,56 +293,62 @@
         {
           "name": "Maybelline Creamy Matte Lipstick",
           "priceINR": 45,
-          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/lip-makeup/lip-color/creamy-matte-lipstick/modules/product-info/flaming-fuchsia/flaming-fuchsia_001.jpg?ch=472&cw=315&cx=0.55&cy=0.42&hash=F1F5C212314C7658FB772282EFA8CD5A&rev=ac5f76db2c1342a98b97238525a26d3d",
-          "imageSource": "Maybelline India"
+          "imageUrl": "https://loremflickr.com/640/640/maybelline%2Ccreamy%2Cmatte%2Clipstick%2Cbeauty?lock=1037",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lakmé 9to5 Primer + Matte Foundation",
           "priceINR": 45,
-          "imageUrl": "https://ssbimages.ssbeauty.in/pub/media/catalog/product/images/206171539/206171539_base.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/lakm%2C9to5%2Cprimer%2Cmatte%2Cfoundation?lock=1038",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Maybelline Fit Me Compact",
           "priceINR": 55,
-          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/face/powder/fit-me-compact-powder/115-ivory/115-8901526605187-01.jpg?ch=472&cw=315&cx=0.52&cy=0.5&hash=4284DE23B2DA3390245F43F6E9B2F689&rev=8aad70df112448afa86daba348dc1b10",
-          "imageSource": "Maybelline India"
+          "imageUrl": "https://loremflickr.com/640/640/maybelline%2Cfit%2Cme%2Ccompact%2Cbeauty?lock=1039",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Swiss Beauty Baked Blush",
           "priceINR": 60,
-          "imageUrl": "https://swissbeauty.in/cdn/shop/files/SB-806_03_FOP.jpg?v=1748634827&width=620"
+          "imageUrl": "https://loremflickr.com/640/640/swiss%2Cbeauty%2Cbaked%2Cblush%2Ccosmetics?lock=1040",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Maybelline Fit Me Concealer",
           "priceINR": 299,
-          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/face/concealer/fit-me-concealer/golden/fmt-golden_36.jpg?ch=472&cw=315&cx=0.48&cy=0.42&hash=D33DFB45D0E3FFA754D28F2B6B6CF816&rev=eba83e098cb949abab820b1717b3fded",
-          "imageSource": "Maybelline India"
+          "imageUrl": "https://loremflickr.com/640/640/maybelline%2Cfit%2Cme%2Cconcealer%2Cbeauty?lock=1041",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lakmé Eyeconic Kajal",
           "priceINR": 199,
-          "imageUrl": "https://www.lakmeindia.com/cdn/shop/files/29432_S1-8901030979538_ac175923-7bb1-494a-b046-4d0c7bffeafe_1000x.jpg?v=1742201670"
+          "imageUrl": "https://loremflickr.com/640/640/lakm%2Ceyeconic%2Ckajal%2Cbeauty%2Ccosmetics?lock=1042",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Maybelline Colossal Eyeliner",
           "priceINR": 149,
-          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/eye-makeup/liners/colossal-liner/modules/product-info/315-x-472-01-eyeliner.jpg?ch=472&cw=315&cx=0&cy=0&hash=C7F650407B2706CF7FD9C64477A55DD6&rev=ed1cdd445fa746d2809ec96b6f979edc",
-          "imageSource": "Maybelline India"
+          "imageUrl": "https://loremflickr.com/640/640/maybelline%2Ccolossal%2Ceyeliner%2Cbeauty%2Ccosmetics?lock=1043",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lakmé Color Crush Nail Polish",
           "priceINR": 249,
-          "imageUrl": "https://media-uk.landmarkshops.in/cdn-cgi/image/h%3D1125%2Cw%3D1125%2Cq%3D85%2Cfit%3Dcover/lifestyle/1000005630616-1000001138838_02-2100.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/lakm%2Ccolor%2Ccrush%2Cnail%2Cpolish?lock=1044",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Colorbar Makeup Brush",
           "priceINR": 99,
-          "imageUrl": "https://cdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/v7GI4a7w8h-colorbar_pro_makeup_brushes_pro_powder_brush_1s_452490_0_0.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/colorbar%2Cmakeup%2Cbrush%2Cbeauty%2Ccosmetics?lock=1045",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Beauty Blender Makeup Sponge",
           "priceINR": 199,
-          "imageUrl": "https://cdn.notinoimg.com/detail_main_lq/beautyblender/851610005301_02-o/beautyblender-original-makeup-sponge___210319.jpg"
+          "imageUrl": "https://loremflickr.com/640/640/beauty%2Cblender%2Cmakeup%2Csponge%2Ccosmetics?lock=1046",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -330,23 +362,23 @@
       "products": [
         {
           "name": "Mothercare Maternity Nursing Pads",
-          "imageUrl": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mothercare%2Cmaternity%2Cnursing%2Cpads%2Cmom?lock=1047",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Pigeon Breast Pads",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0048-pigeon-breast-pads/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/pigeon%2Cbreast%2Cpads%2Cmom%2Ccare?lock=1048",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Mothercare Maternity Pillow",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0049-mothercare-maternity-pillow/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mothercare%2Cmaternity%2Cpillow%2Cmom%2Ccare?lock=1049",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Mee Mee Feeding Bottle",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0050-mee-mee-feeding-bottle/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mee%2Cfeeding%2Cbottle%2Cmom%2Ccare?lock=1050",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -368,63 +400,63 @@
       "products": [
         {
           "name": "Pampers Active Baby Diapers",
-          "imageUrl": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/pampers%2Cactive%2Cbaby%2Cdiapers%2Ccare?lock=1051",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Huggies Wonder Pants",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0052-huggies-wonder-pants/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/huggies%2Cwonder%2Cpants%2Cbaby%2Ccare?lock=1052",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Mother Sparsh Baby Wipes",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0053-mother-sparsh-baby-wipes/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mother%2Csparsh%2Cbaby%2Cwipes%2Ccare?lock=1053",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Johnson's Baby Shampoo",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0054-johnson-s-baby-shampoo/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/johnson%2Cs%2Cbaby%2Cshampoo%2Ccare?lock=1054",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Himalaya Baby Soap",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0055-himalaya-baby-soap/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/himalaya%2Cbaby%2Csoap%2Ccare?lock=1055",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cetaphil Baby Lotion",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0056-cetaphil-baby-lotion/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cetaphil%2Cbaby%2Clotion%2Ccare?lock=1056",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cerelac Wheat Apple Cereal",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0057-cerelac-wheat-apple-cereal/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cerelac%2Cwheat%2Capple%2Ccereal%2Cbaby?lock=1057",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Philips Avent Feeding Bottle",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0058-philips-avent-feeding-bottle/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/philips%2Cavent%2Cfeeding%2Cbottle%2Cbaby?lock=1058",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Mee Mee Baby Nail Clipper",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0059-mee-mee-baby-nail-clipper/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mee%2Cbaby%2Cnail%2Cclipper%2Ccare?lock=1059",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Baby Toothbrush",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0060-baby-toothbrush/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/baby%2Ctoothbrush%2Ccare?lock=1060",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Soft Baby Rattle",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0061-soft-baby-rattle/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/soft%2Cbaby%2Crattle%2Ccare?lock=1061",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Baby Cotton Bibs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0062-baby-cotton-bibs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/baby%2Ccotton%2Cbibs%2Ccare?lock=1062",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -453,53 +485,53 @@
       "products": [
         {
           "name": "Dettol Antiseptic Liquid",
-          "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/dettol%2Cantiseptic%2Cliquid%2Chealth%2Cpharma?lock=1063",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Savlon Antiseptic Liquid",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0064-savlon-antiseptic-liquid/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/savlon%2Cantiseptic%2Cliquid%2Chealth%2Cpharma?lock=1064",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Dr. Morepen Digital Thermometer",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0065-dr-morepen-digital-thermometer/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/dr%2Cmorepen%2Cdigital%2Cthermometer%2Chealth?lock=1065",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "N95 Protective Mask",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0066-n95-protective-mask/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/n95%2Cprotective%2Cmask%2Chealth%2Cpharma?lock=1066",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Hand Sanitizer",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0067-hand-sanitizer/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/hand%2Csanitizer%2Chealth%2Cpharma?lock=1067",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Hansaplast Washproof Bandages",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0068-hansaplast-washproof-bandages/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/hansaplast%2Cwashproof%2Cbandages%2Chealth%2Cpharma?lock=1068",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Omron Digital Blood Pressure Monitor",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0069-omron-digital-blood-pressure-monito/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/omron%2Cdigital%2Cblood%2Cpressure%2Cmonitor?lock=1069",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Accu-Chek Glucometer Starter Kit",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0070-accu-chek-glucometer-starter-kit/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/accu%2Cchek%2Cglucometer%2Cstarter%2Ckit?lock=1070",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tynor Knee Cap",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0071-tynor-knee-cap/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tynor%2Cknee%2Ccap%2Chealth%2Cpharma?lock=1071",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Adult Care Protective Underwear",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0072-adult-care-protective-underwear/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/adult%2Ccare%2Cprotective%2Cunderwear%2Chealth?lock=1072",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -521,103 +553,103 @@
       "products": [
         {
           "name": "Potato 1 kg",
-          "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/potato%2C1%2Cvegetables%2Cfruits?lock=1073",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Onion 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0074-onion-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/onion%2C1%2Cvegetables%2Cfruits?lock=1074",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tomato 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0075-tomato-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tomato%2C500%2Cvegetables%2Cfruits?lock=1075",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Green Capsicum 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0076-green-capsicum-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/green%2Ccapsicum%2C500%2Cvegetables%2Cfruits?lock=1076",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cucumber 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0077-cucumber-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cucumber%2C500%2Cvegetables%2Cfruits?lock=1077",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Carrot 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0078-carrot-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/carrot%2C500%2Cvegetables%2Cfruits?lock=1078",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cauliflower 1 pc",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0079-cauliflower-1-pc/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cauliflower%2C1%2Cvegetables%2Cfruits?lock=1079",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Spinach 1 bunch",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0080-spinach-1-bunch/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/spinach%2C1%2Cbunch%2Cvegetables%2Cfruits?lock=1080",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Coriander 1 bunch",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0081-coriander-1-bunch/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/coriander%2C1%2Cbunch%2Cvegetables%2Cfruits?lock=1081",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Green Chilli 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0082-green-chilli-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/green%2Cchilli%2C100%2Cvegetables%2Cfruits?lock=1082",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Banana 6 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0083-banana-6-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/banana%2C6%2Cvegetables%2Cfruits?lock=1083",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Apple 4 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0084-apple-4-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/apple%2C4%2Cvegetables%2Cfruits?lock=1084",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kinnow 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0085-kinnow-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kinnow%2C1%2Cvegetables%2Cfruits?lock=1085",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Pomegranate 2 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0086-pomegranate-2-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/pomegranate%2C2%2Cvegetables%2Cfruits?lock=1086",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Mango 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0087-mango-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mango%2C1%2Cvegetables%2Cfruits?lock=1087",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Broccoli 1 pc",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0088-broccoli-1-pc/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/broccoli%2C1%2Cvegetables%2Cfruits?lock=1088",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Button Mushroom 200 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0089-button-mushroom-200-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/button%2Cmushroom%2C200%2Cvegetables%2Cfruits?lock=1089",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lemon 250 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0090-lemon-250-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/lemon%2C250%2Cvegetables%2Cfruits?lock=1090",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Coconut 1 pc",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0091-coconut-1-pc/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/coconut%2C1%2Cvegetables%2Cfruits?lock=1091",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Sweet Corn 2 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0092-sweet-corn-2-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/sweet%2Ccorn%2C2%2Cvegetables%2Cfruits?lock=1092",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -637,78 +669,78 @@
       "products": [
         {
           "name": "Aashirvaad Whole Wheat Atta 5 kg",
-          "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/aashirvaad%2Cwhole%2Cwheat%2Catta%2C5?lock=1093",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Fortune Chakki Fresh Atta 5 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0094-fortune-chakki-fresh-atta-5-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/fortune%2Cchakki%2Cfresh%2Catta%2C5?lock=1094",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "India Gate Classic Basmati Rice 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0095-india-gate-classic-basmati-rice-1-k/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/india%2Cgate%2Cclassic%2Cbasmati%2Crice?lock=1095",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Daawat Rozana Gold Rice 5 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0096-daawat-rozana-gold-rice-5-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/daawat%2Crozana%2Cgold%2Crice%2C5?lock=1096",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tata Sampann Toor Dal 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0097-tata-sampann-toor-dal-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tata%2Csampann%2Ctoor%2Cdal%2C1?lock=1097",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tata Sampann Moong Dal 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0098-tata-sampann-moong-dal-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tata%2Csampann%2Cmoong%2Cdal%2C1?lock=1098",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tata Sampann Chana Dal 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0099-tata-sampann-chana-dal-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tata%2Csampann%2Cchana%2Cdal%2C1?lock=1099",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Rajdhani Besan 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0100-rajdhani-besan-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/rajdhani%2Cbesan%2C500%2Catta%2Crice?lock=1100",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Fortune Suji 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0101-fortune-suji-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/fortune%2Csuji%2C500%2Catta%2Crice?lock=1101",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Rajdhani Maida 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0102-rajdhani-maida-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/rajdhani%2Cmaida%2C1%2Catta%2Crice?lock=1102",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Rajma 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0103-rajma-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/rajma%2C500%2Catta%2Crice%2Cdal?lock=1103",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kabuli Chana 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0104-kabuli-chana-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kabuli%2Cchana%2C500%2Catta%2Crice?lock=1104",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Organic Tattva Ragi Flour 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0105-organic-tattva-ragi-flour-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/organic%2Ctattva%2Cragi%2Cflour%2C500?lock=1105",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Poha 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0106-poha-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/poha%2C500%2Catta%2Crice%2Cdal?lock=1106",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Daliya 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0107-daliya-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/daliya%2C500%2Catta%2Crice%2Cdal?lock=1107",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -729,68 +761,68 @@
       "products": [
         {
           "name": "Fortune Sunflower Oil 1 L",
-          "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/fortune%2Csunflower%2Coil%2C1%2Cghee?lock=1108",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Dhara Mustard Oil 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0109-dhara-mustard-oil-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/dhara%2Cmustard%2Coil%2C1%2Cghee?lock=1109",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Pure Ghee 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0110-amul-pure-ghee-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Cpure%2Cghee%2C1%2Coil?lock=1110",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Patanjali Cow Ghee 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0111-patanjali-cow-ghee-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/patanjali%2Ccow%2Cghee%2C1%2Coil?lock=1111",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Everest Turmeric Powder 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0112-everest-turmeric-powder-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/everest%2Cturmeric%2Cpowder%2C100%2Coil?lock=1112",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Everest Red Chilli Powder 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0113-everest-red-chilli-powder-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/everest%2Cred%2Cchilli%2Cpowder%2C100?lock=1113",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "MDH Garam Masala 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0114-mdh-garam-masala-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mdh%2Cgaram%2Cmasala%2C100%2Coil?lock=1114",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tata Salt 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0115-tata-salt-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tata%2Csalt%2C1%2Coil%2Cghee?lock=1115",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Madhur Sugar 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0116-madhur-sugar-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/madhur%2Csugar%2C1%2Coil%2Cghee?lock=1116",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tata Sampann Cumin Seeds 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0117-tata-sampann-cumin-seeds-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tata%2Csampann%2Ccumin%2Cseeds%2C100?lock=1117",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Catch Black Pepper 50 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0118-catch-black-pepper-50-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/catch%2Cblack%2Cpepper%2C50%2Coil?lock=1118",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Everest Kitchen King Masala 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0119-everest-kitchen-king-masala-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/everest%2Ckitchen%2Cking%2Cmasala%2C100?lock=1119",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Ginger Garlic Paste 200 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0120-ginger-garlic-paste-200-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/ginger%2Cgarlic%2Cpaste%2C200%2Coil?lock=1120",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -811,73 +843,73 @@
       "products": [
         {
           "name": "Amul Taaza Toned Milk 1 L",
-          "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Ctaaza%2Ctoned%2Cmilk%2C1?lock=1121",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Mother Dairy Full Cream Milk 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0122-mother-dairy-full-cream-milk-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mother%2Cdairy%2Cfull%2Ccream%2Cmilk?lock=1122",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Masti Dahi 400 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0123-amul-masti-dahi-400-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Cmasti%2Cdahi%2C400%2Cdairy?lock=1123",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Mother Dairy Classic Curd 400 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0124-mother-dairy-classic-curd-400-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mother%2Cdairy%2Cclassic%2Ccurd%2C400?lock=1124",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Butter 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0125-amul-butter-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Cbutter%2C100%2Cdairy%2Cbread?lock=1125",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Cheese Slices 200 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0126-amul-cheese-slices-200-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Ccheese%2Cslices%2C200%2Cdairy?lock=1126",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Fresh White Bread 400 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0127-fresh-white-bread-400-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/fresh%2Cwhite%2Cbread%2C400%2Cdairy?lock=1127",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Pav 6 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0128-pav-6-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/pav%2C6%2Cdairy%2Cbread%2Ceggs?lock=1128",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Farm Fresh Eggs 6 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0129-farm-fresh-eggs-6-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/farm%2Cfresh%2Ceggs%2C6%2Cdairy?lock=1129",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Paneer 200 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0130-amul-paneer-200-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Cpaneer%2C200%2Cdairy%2Cbread?lock=1130",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Soy Milk 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0131-soy-milk-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/soy%2Cmilk%2C1%2Cdairy%2Cbread?lock=1131",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Lassi  pack",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0132-amul-lassi-pack/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Classi%2Cdairy%2Cbread%2Ceggs?lock=1132",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Idli Dosa Batter 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0133-idli-dosa-batter-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/idli%2Cdosa%2Cbatter%2C1%2Cdairy?lock=1133",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Fresh Cream 250 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0134-amul-fresh-cream-250-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Cfresh%2Ccream%2C250%2Cdairy?lock=1134",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -898,63 +930,63 @@
       "products": [
         {
           "name": "Britannia Good Day Butter Cookies",
-          "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/britannia%2Cgood%2Cday%2Cbutter%2Ccookies?lock=1135",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Sunfeast Dark Fantasy Choco Fills",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0136-sunfeast-dark-fantasy-choco-fills/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/sunfeast%2Cdark%2Cfantasy%2Cchoco%2Cfills?lock=1136",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Parle-G Original Glucose Biscuits",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0137-parle-g-original-glucose-biscuits/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/parle%2Coriginal%2Cglucose%2Cbiscuits%2Cbakery?lock=1137",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Britannia NutriChoice Digestive",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0138-britannia-nutrichoice-digestive/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/britannia%2Cnutrichoice%2Cdigestive%2Cbakery%2Cbiscuits?lock=1138",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Oreo Original Cream Biscuits",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0139-oreo-original-cream-biscuits/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/oreo%2Coriginal%2Ccream%2Cbiscuits%2Cbakery?lock=1139",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "McVitie's Digestive Biscuits",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0140-mcvitie-s-digestive-biscuits/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mcvitie%2Cs%2Cdigestive%2Cbiscuits%2Cbakery?lock=1140",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Britannia Toast Rusk",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0141-britannia-toast-rusk/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/britannia%2Ctoast%2Crusk%2Cbakery%2Cbiscuits?lock=1141",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Unibic Choco Chip Cookies",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0142-unibic-choco-chip-cookies/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/unibic%2Cchoco%2Cchip%2Ccookies%2Cbakery?lock=1142",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Britannia Treat Croissant",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0143-britannia-treat-croissant/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/britannia%2Ctreat%2Ccroissant%2Cbakery%2Cbiscuits?lock=1143",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Brownie Slice",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0144-brownie-slice/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/brownie%2Cslice%2Cbakery%2Cbiscuits?lock=1144",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Vanilla Muffin 2 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0145-vanilla-muffin-2-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/vanilla%2Cmuffin%2C2%2Cbakery%2Cbiscuits?lock=1145",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Weikfield Baking Powder",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0146-weikfield-baking-powder/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/weikfield%2Cbaking%2Cpowder%2Cbakery%2Cbiscuits?lock=1146",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -975,73 +1007,73 @@
       "products": [
         {
           "name": "Almonds 200 g",
-          "imageUrl": "https://images.unsplash.com/photo-1599599810694-b5b37304c7c3?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/almonds%2C200%2Cdry%2Cfruits%2Ccereals?lock=1147",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cashews 200 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0148-cashews-200-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cashews%2C200%2Cdry%2Cfruits%2Ccereals?lock=1148",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Pistachios 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0149-pistachios-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/pistachios%2C100%2Cdry%2Cfruits%2Ccereals?lock=1149",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Raisins 200 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0150-raisins-200-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/raisins%2C200%2Cdry%2Cfruits%2Ccereals?lock=1150",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Happilo Trail Mix 200 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0151-happilo-trail-mix-200-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/happilo%2Ctrail%2Cmix%2C200%2Cdry?lock=1151",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kellogg's Corn Flakes 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0152-kellogg-s-corn-flakes-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kellogg%2Cs%2Ccorn%2Cflakes%2C500?lock=1152",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kellogg's Chocos 375 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0153-kellogg-s-chocos-375-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kellogg%2Cs%2Cchocos%2C375%2Cdry?lock=1153",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Bagrry's Muesli 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0154-bagrry-s-muesli-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/bagrry%2Cs%2Cmuesli%2C500%2Cdry?lock=1154",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Quaker Oats 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0155-quaker-oats-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/quaker%2Coats%2C1%2Cdry%2Cfruits?lock=1155",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lion Dates 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0156-lion-dates-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/lion%2Cdates%2C500%2Cdry%2Cfruits?lock=1156",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Chia Seeds 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0157-chia-seeds-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/chia%2Cseeds%2C100%2Cdry%2Cfruits?lock=1157",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Roasted Pumpkin Seeds 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0158-roasted-pumpkin-seeds-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/roasted%2Cpumpkin%2Cseeds%2C100%2Cdry?lock=1158",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Vermicelli 400 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0159-vermicelli-400-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/vermicelli%2C400%2Cdry%2Cfruits%2Ccereals?lock=1159",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Poha 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0160-poha-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/poha%2C500%2Cdry%2Cfruits%2Ccereals?lock=1160",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1063,58 +1095,58 @@
       "products": [
         {
           "name": "Milton Thermosteel Water Bottle 1 L",
-          "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/milton%2Cthermosteel%2Cwater%2Cbottle%2C1?lock=1161",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cello Plastic Water Bottle 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0162-cello-plastic-water-bottle-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cello%2Cplastic%2Cwater%2Cbottle%2C1?lock=1162",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Borosil Glass Set 6 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0163-borosil-glass-set-6-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/borosil%2Cglass%2Cset%2C6%2Ckitchenware?lock=1163",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Prestige Nonstick Fry Pan  t",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0164-prestige-nonstick-fry-pan-t/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/prestige%2Cnonstick%2Cfry%2Cpan%2Ct?lock=1164",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Stainless Steel Saucepan 1 pc",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0165-stainless-steel-saucepan-1-pc/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/stainless%2Csteel%2Csaucepan%2C1%2Ckitchenware?lock=1165",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lock & Lock Food Container",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0166-lock-lock-food-container/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/lock%2Cfood%2Ccontainer%2Ckitchenware%2Cappliances?lock=1166",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lunch Box 3 Compartment",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0167-lunch-box-3-compartment/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/lunch%2Cbox%2C3%2Ccompartment%2Ckitchenware?lock=1167",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Stainless Steel Vegetable Peeler",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0168-stainless-steel-vegetable-peeler/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/stainless%2Csteel%2Cvegetable%2Cpeeler%2Ckitchenware?lock=1168",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Pigeon Electric Kettle 1.5 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0169-pigeon-electric-kettle-1-5-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/pigeon%2Celectric%2Ckettle%2C1%2C5?lock=1169",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Philips Mixer Grinder",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0170-philips-mixer-grinder/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/philips%2Cmixer%2Cgrinder%2Ckitchenware%2Cappliances?lock=1170",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Paper Napkins 100 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0171-paper-napkins-100-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/paper%2Cnapkins%2C100%2Ckitchenware%2Cappliances?lock=1171",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1134,53 +1166,53 @@
       "products": [
         {
           "name": "Lay's Classic Salted Chips",
-          "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/lay%2Cs%2Cclassic%2Csalted%2Cchips?lock=1172",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kurkure Masala Munch",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0173-kurkure-masala-munch/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kurkure%2Cmasala%2Cmunch%2Cchips%2Cnamkeen?lock=1173",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Haldiram's Aloo Bhujia",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0174-haldiram-s-aloo-bhujia/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/haldiram%2Cs%2Caloo%2Cbhujia%2Cchips?lock=1174",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Haldiram's Moong Dal",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0175-haldiram-s-moong-dal/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/haldiram%2Cs%2Cmoong%2Cdal%2Cchips?lock=1175",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Bingo! Mad Angles",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0176-bingo-mad-angles/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/bingo%2Cmad%2Cangles%2Cchips%2Cnamkeen?lock=1176",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Doritos Nacho Cheese",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0177-doritos-nacho-cheese/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/doritos%2Cnacho%2Ccheese%2Cchips%2Cnamkeen?lock=1177",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Act II Classic Salted Popcorn",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0178-act-ii-classic-salted-popcorn/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/act%2Cii%2Cclassic%2Csalted%2Cpopcorn?lock=1178",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Too Yumm Multigrain Chips",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0179-too-yumm-multigrain-chips/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/too%2Cyumm%2Cmultigrain%2Cchips%2Cnamkeen?lock=1179",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Lijjat Papad",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0180-lijjat-papad/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/lijjat%2Cpapad%2Cchips%2Cnamkeen?lock=1180",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Haldiram's Namkeen Gift Pack",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0181-haldiram-s-namkeen-gift-pack/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/haldiram%2Cs%2Cnamkeen%2Cgift%2Cchips?lock=1181",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1199,58 +1231,58 @@
       "products": [
         {
           "name": "Cadbury Dairy Milk Silk",
-          "imageUrl": "https://images.unsplash.com/photo-1548907040-4d42bfc6c0a8?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cadbury%2Cdairy%2Cmilk%2Csilk%2Csweets?lock=1182",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cadbury Dairy Milk",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0183-cadbury-dairy-milk/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cadbury%2Cdairy%2Cmilk%2Csweets%2Cchocolates?lock=1183",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "KitKat 4 Finger",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0184-kitkat-4-finger/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kitkat%2C4%2Cfinger%2Csweets%2Cchocolates?lock=1184",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Ferrero Rocher 16 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0185-ferrero-rocher-16-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/ferrero%2Crocher%2C16%2Csweets%2Cchocolates?lock=1185",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Dark Chocolate",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0186-amul-dark-chocolate/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Cdark%2Cchocolate%2Csweets%2Cchocolates?lock=1186",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Haldiram's Soan Papdi",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0187-haldiram-s-soan-papdi/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/haldiram%2Cs%2Csoan%2Cpapdi%2Csweets?lock=1187",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kaju Katli 250 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0188-kaju-katli-250-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kaju%2Ckatli%2C250%2Csweets%2Cchocolates?lock=1188",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Gulab Jamun 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0189-gulab-jamun-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/gulab%2Cjamun%2C1%2Csweets%2Cchocolates?lock=1189",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Alpenliebe Candy",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0190-alpenliebe-candy/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/alpenliebe%2Ccandy%2Csweets%2Cchocolates?lock=1190",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Hershey's Chocolate Syrup",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0191-hershey-s-chocolate-syrup/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/hershey%2Cs%2Cchocolate%2Csyrup%2Csweets?lock=1191",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Yoga Bar Energy Bar",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0192-yoga-bar-energy-bar/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/yoga%2Cbar%2Cenergy%2Csweets%2Cchocolates?lock=1192",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1275,68 +1307,68 @@
       "products": [
         {
           "name": "Coca-Cola Original Taste 750 ml",
-          "imageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/coca%2Ccola%2Coriginal%2Ctaste%2C750?lock=1193",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Thums Up 750 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0194-thums-up-750-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/thums%2Cup%2C750%2Cdrinks%2Cjuices?lock=1194",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Sprite 750 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0195-sprite-750-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/sprite%2C750%2Cdrinks%2Cjuices?lock=1195",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Real Fruit Power Orange 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0196-real-fruit-power-orange-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/real%2Cfruit%2Cpower%2Corange%2C1?lock=1196",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tropicana Apple Juice 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0197-tropicana-apple-juice-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tropicana%2Capple%2Cjuice%2C1%2Cdrinks?lock=1197",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Paper Boat Aam Panna  pack",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0198-paper-boat-aam-panna-pack/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/paper%2Cboat%2Caam%2Cpanna%2Cdrinks?lock=1198",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Red Bull Energy Drink 250 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0199-red-bull-energy-drink-250-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/red%2Cbull%2Cenergy%2Cdrink%2C250?lock=1199",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Gatorade Sports Drink 500 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0200-gatorade-sports-drink-500-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/gatorade%2Csports%2Cdrink%2C500%2Cdrinks?lock=1200",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Bisleri Soda 750 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0201-bisleri-soda-750-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/bisleri%2Csoda%2C750%2Cdrinks%2Cjuices?lock=1201",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Packaged Drinking Water 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0202-packaged-drinking-water-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/packaged%2Cdrinking%2Cwater%2C1%2Cdrinks?lock=1202",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Raw Pressery Coconut Water 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0203-raw-pressery-coconut-water-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/raw%2Cpressery%2Ccoconut%2Cwater%2C1?lock=1203",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cold Coffee 250 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0204-cold-coffee-250-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cold%2Ccoffee%2C250%2Cdrinks%2Cjuices?lock=1204",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Nestea Iced Tea  pack",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0205-nestea-iced-tea-pack/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/nestea%2Ciced%2Ctea%2Cdrinks%2Cjuices?lock=1205",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1356,58 +1388,58 @@
       "products": [
         {
           "name": "Tata Tea Gold 500 g",
-          "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tata%2Ctea%2Cgold%2C500%2Ccoffee?lock=1206",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Taj Mahal Tea 250 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0207-taj-mahal-tea-250-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/taj%2Cmahal%2Ctea%2C250%2Ccoffee?lock=1207",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Nescafé Classic Coffee 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0208-nescaf-classic-coffee-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/nescaf%2Cclassic%2Ccoffee%2C100%2Ctea?lock=1208",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Bru Instant Coffee 100 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0209-bru-instant-coffee-100-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/bru%2Cinstant%2Ccoffee%2C100%2Ctea?lock=1209",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cadbury Hot Chocolate 200 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0210-cadbury-hot-chocolate-200-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cadbury%2Chot%2Cchocolate%2C200%2Ctea?lock=1210",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Organic India Tulsi Green Tea",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0211-organic-india-tulsi-green-tea/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/organic%2Cindia%2Ctulsi%2Cgreen%2Ctea?lock=1211",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tetley Green Tea Bags",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0212-tetley-green-tea-bags/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tetley%2Cgreen%2Ctea%2Cbags%2Ccoffee?lock=1212",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Bournvita 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0213-bournvita-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/bournvita%2C500%2Ctea%2Ccoffee%2Cmilk?lock=1213",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Horlicks Classic Malt 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0214-horlicks-classic-malt-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/horlicks%2Cclassic%2Cmalt%2C500%2Ctea?lock=1214",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Continental Coffee Premix",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0215-continental-coffee-premix/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/continental%2Ccoffee%2Cpremix%2Ctea%2Cmilk?lock=1215",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Chamomile Herbal Tea",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0216-chamomile-herbal-tea/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/chamomile%2Cherbal%2Ctea%2Ccoffee%2Cmilk?lock=1216",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1428,63 +1460,63 @@
       "products": [
         {
           "name": "Maggi 2-Minute Masala Noodles",
-          "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/maggi%2C2%2Cminute%2Cmasala%2Cnoodles?lock=1217",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Sunfeast Yippee Magic Masala",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0218-sunfeast-yippee-magic-masala/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/sunfeast%2Cyippee%2Cmagic%2Cmasala%2Cinstant?lock=1218",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Top Ramen Curry Noodles",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0219-top-ramen-curry-noodles/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/top%2Cramen%2Ccurry%2Cnoodles%2Cinstant?lock=1219",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Bambino Macaroni 400 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0220-bambino-macaroni-400-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/bambino%2Cmacaroni%2C400%2Cinstant%2Cfood?lock=1220",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Del Monte Pasta 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0221-del-monte-pasta-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/del%2Cmonte%2Cpasta%2C500%2Cinstant?lock=1221",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Knorr Sweet Corn Soup",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0222-knorr-sweet-corn-soup/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/knorr%2Csweet%2Ccorn%2Csoup%2Cinstant?lock=1222",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "MTR Ready to Eat Paneer Butter Masala",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0223-mtr-ready-to-eat-paneer-butter-masa/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mtr%2Cready%2Cto%2Ceat%2Cpaneer?lock=1223",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Haldiram's Ready to Eat Rajma",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0224-haldiram-s-ready-to-eat-rajma/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/haldiram%2Cs%2Cready%2Cto%2Ceat?lock=1224",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Gits Gulab Jamun Mix",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0225-gits-gulab-jamun-mix/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/gits%2Cgulab%2Cjamun%2Cmix%2Cinstant?lock=1225",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "MTR Idli Mix",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0226-mtr-idli-mix/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mtr%2Cidli%2Cmix%2Cinstant%2Cfood?lock=1226",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "McCain French Fries  frozen",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0227-mccain-french-fries-frozen/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/mccain%2Cfrench%2Cfries%2Cfrozen%2Cinstant?lock=1227",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Yoga Bar Energy Bar",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0228-yoga-bar-energy-bar/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/yoga%2Cbar%2Cenergy%2Cinstant%2Cfood?lock=1228",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1506,53 +1538,53 @@
       "products": [
         {
           "name": "Kissan Fresh Tomato Ketchup 500 g",
-          "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kissan%2Cfresh%2Ctomato%2Cketchup%2C500?lock=1229",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Maggi Hot & Sweet Sauce 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0230-maggi-hot-sweet-sauce-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/maggi%2Chot%2Csweet%2Csauce%2C500?lock=1230",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kissan Mixed Fruit Jam 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0231-kissan-mixed-fruit-jam-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kissan%2Cmixed%2Cfruit%2Cjam%2C500?lock=1231",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "FunFoods Veg Mayonnaise 250 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0232-funfoods-veg-mayonnaise-250-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/funfoods%2Cveg%2Cmayonnaise%2C250%2Csauces?lock=1232",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Patanjali Mango Pickle 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0233-patanjali-mango-pickle-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/patanjali%2Cmango%2Cpickle%2C500%2Csauces?lock=1233",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Pintola Classic Peanut Butter 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0234-pintola-classic-peanut-butter-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/pintola%2Cclassic%2Cpeanut%2Cbutter%2C1?lock=1234",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Ching's Schezwan Chutney 250 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0235-ching-s-schezwan-chutney-250-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/ching%2Cs%2Cschezwan%2Cchutney%2C250?lock=1235",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Dabur Honey 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0236-dabur-honey-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/dabur%2Choney%2C500%2Csauces%2Cspreads?lock=1236",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Veeba Thousand Island Dressing",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0237-veeba-thousand-island-dressing/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/veeba%2Cthousand%2Cisland%2Cdressing%2Csauces?lock=1237",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Del Monte Pasta Sauce",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0238-del-monte-pasta-sauce/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/del%2Cmonte%2Cpasta%2Csauce%2Csauces?lock=1238",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1574,23 +1606,23 @@
       "products": [
         {
           "name": "Rajnigandha Silver Pearls Mouth Freshener",
-          "imageUrl": "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/rajnigandha%2Csilver%2Cpearls%2Cmouth%2Cfreshener?lock=1239",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Pass Pass Mouth Freshener",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0240-pass-pass-mouth-freshener/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/pass%2Cmouth%2Cfreshener%2Cpaan%2Ccorner?lock=1240",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Orbit Peppermint Gum",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0241-orbit-peppermint-gum/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/orbit%2Cpeppermint%2Cgum%2Cpaan%2Ccorner?lock=1241",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Center Fresh Mint Gum",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0242-center-fresh-mint-gum/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/center%2Cfresh%2Cmint%2Cgum%2Cpaan?lock=1242",
+          "imageSource": "Product-name-related sample image"
         }
       ],
       "catalogueNote": "Tobacco, cigarettes, cigars and related restricted goods are intentionally excluded."
@@ -1611,48 +1643,48 @@
       "products": [
         {
           "name": "Amul Vanilla Ice Cream Tub 1 L",
-          "imageUrl": "https://images.unsplash.com/photo-1560008581-09826d1de69e?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Cvanilla%2Cice%2Ccream%2Ctub?lock=1243",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Rajbhog Ice Cream Tub 1 L",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0244-amul-rajbhog-ice-cream-tub-1-l/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Crajbhog%2Cice%2Ccream%2Ctub?lock=1244",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kwality Wall's Cornetto Chocolate",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0245-kwality-wall-s-cornetto-chocolate/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kwality%2Cwall%2Cs%2Ccornetto%2Cchocolate?lock=1245",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Magnum Classic Stick",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0246-magnum-classic-stick/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/magnum%2Cclassic%2Cstick%2Cice%2Ccreams?lock=1246",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Vadilal Cassata Slice",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0247-vadilal-cassata-slice/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/vadilal%2Ccassata%2Cslice%2Cice%2Ccreams?lock=1247",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Amul Real Ice Cream Cup",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0248-amul-real-ice-cream-cup/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/amul%2Creal%2Cice%2Ccream%2Ccup?lock=1248",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Naturals Tender Coconut Ice Cream",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0249-naturals-tender-coconut-ice-cream/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/naturals%2Ctender%2Ccoconut%2Cice%2Ccream?lock=1249",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Baskin Robbins Ice Cream Tub",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0250-baskin-robbins-ice-cream-tub/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/baskin%2Crobbins%2Cice%2Ccream%2Ctub?lock=1250",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Chocolate Dessert Syrup",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0251-chocolate-dessert-syrup/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/chocolate%2Cdessert%2Csyrup%2Cice%2Ccreams?lock=1251",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1680,73 +1712,73 @@
       "products": [
         {
           "name": "Decorative Cushion Cover",
-          "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/decorative%2Ccushion%2Ccover%2Chome%2Clifestyle?lock=1252",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Artificial Indoor Plant",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0253-artificial-indoor-plant/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/artificial%2Cindoor%2Cplant%2Chome%2Clifestyle?lock=1253",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cotton Bedsheet Double",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0254-cotton-bedsheet-double/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cotton%2Cbedsheet%2Cdouble%2Chome%2Clifestyle?lock=1254",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cotton Bath Towel",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0255-cotton-bath-towel/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cotton%2Cbath%2Ctowel%2Chome%2Clifestyle?lock=1255",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Garden Hand Trowel",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0256-garden-hand-trowel/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/garden%2Chand%2Ctrowel%2Chome%2Clifestyle?lock=1256",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "LED String Lights",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0257-led-string-lights/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/led%2Cstring%2Clights%2Chome%2Clifestyle?lock=1257",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Facial Tissue Box",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0258-facial-tissue-box/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/facial%2Ctissue%2Cbox%2Chome%2Clifestyle?lock=1258",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Stainless Steel Hair Claw Clip",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0259-stainless-steel-hair-claw-clip/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/stainless%2Csteel%2Chair%2Cclaw%2Cclip?lock=1259",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cotton Ankle Socks",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0260-cotton-ankle-socks/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cotton%2Cankle%2Csocks%2Chome%2Clifestyle?lock=1260",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Scented Room Freshener",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0261-scented-room-freshener/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/scented%2Croom%2Cfreshener%2Chome%2Clifestyle?lock=1261",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cotton Wicks for Pooja",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0262-cotton-wicks-for-pooja/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cotton%2Cwicks%2Cpooja%2Chome%2Clifestyle?lock=1262",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Bathroom Soap Dispenser",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0263-bathroom-soap-dispenser/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/bathroom%2Csoap%2Cdispenser%2Chome%2Clifestyle?lock=1263",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Reusable Shopping Tote Bag",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0264-reusable-shopping-tote-bag/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/reusable%2Cshopping%2Ctote%2Cbag%2Chome?lock=1264",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Gift Wrapping Paper",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0265-gift-wrapping-paper/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/gift%2Cwrapping%2Cpaper%2Chome%2Clifestyle?lock=1265",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1771,68 +1803,68 @@
       "products": [
         {
           "name": "Lizol Disinfectant Floor Cleaner 1 L",
-          "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/lizol%2Cdisinfectant%2Cfloor%2Ccleaner%2C1?lock=1266",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Harpic Power Plus Toilet Cleaner 500 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0267-harpic-power-plus-toilet-cleaner-50/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/harpic%2Cpower%2Cplus%2Ctoilet%2Ccleaner?lock=1267",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Vim Dishwash Gel 500 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0268-vim-dishwash-gel-500-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/vim%2Cdishwash%2Cgel%2C500%2Ccleaners?lock=1268",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Vim Dishwash Bar 200 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0269-vim-dishwash-bar-200-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/vim%2Cdishwash%2Cbar%2C200%2Ccleaners?lock=1269",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Surf Excel Easy Wash Detergent 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0270-surf-excel-easy-wash-detergent-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/surf%2Cexcel%2Ceasy%2Cwash%2Cdetergent?lock=1270",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Tide Plus Detergent 1 kg",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0271-tide-plus-detergent-1-kg/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tide%2Cplus%2Cdetergent%2C1%2Ccleaners?lock=1271",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Comfort Fabric Conditioner 860 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0272-comfort-fabric-conditioner-860-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/comfort%2Cfabric%2Cconditioner%2C860%2Ccleaners?lock=1272",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Goodknight Fast Card",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0273-goodknight-fast-card/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/goodknight%2Cfast%2Ccard%2Ccleaners%2Crepellents?lock=1273",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Scotch-Brite Scrub Pad",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0274-scotch-brite-scrub-pad/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/scotch%2Cbrite%2Cscrub%2Cpad%2Ccleaners?lock=1274",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Gala Floor Wiper",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0275-gala-floor-wiper/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/gala%2Cfloor%2Cwiper%2Ccleaners%2Crepellents?lock=1275",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Garbage Bags Medium",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0276-garbage-bags-medium/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/garbage%2Cbags%2Cmedium%2Ccleaners%2Crepellents?lock=1276",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Colin Glass Cleaner 500 ml",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0277-colin-glass-cleaner-500-ml/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/colin%2Cglass%2Ccleaner%2C500%2Ccleaners?lock=1277",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Vanish Stain Remover 500 g",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0278-vanish-stain-remover-500-g/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/vanish%2Cstain%2Cremover%2C500%2Ccleaners?lock=1278",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1857,63 +1889,63 @@
       "products": [
         {
           "name": "Philips Beard Trimmer",
-          "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/philips%2Cbeard%2Ctrimmer%2Celectronics?lock=1279",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "boAt Airdopes Wireless Earbuds",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0280-boat-airdopes-wireless-earbuds/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/boat%2Cairdopes%2Cwireless%2Cearbuds%2Celectronics?lock=1280",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "JBL Go Portable Speaker",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0281-jbl-go-portable-speaker/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/jbl%2Cgo%2Cportable%2Cspeaker%2Celectronics?lock=1281",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "USB-C Fast Charging Cable",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0282-usb-c-fast-charging-cable/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/usb%2Cc%2Cfast%2Ccharging%2Ccable?lock=1282",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Ambrane 20W USB-C Charger",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0283-ambrane-20w-usb-c-charger/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/ambrane%2C20w%2Cusb%2Cc%2Ccharger?lock=1283",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Portronics Power Bank 10000 mAh",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0284-portronics-power-bank-10000-mah/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/portronics%2Cpower%2Cbank%2C10000%2Cmah?lock=1284",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Fire-Boltt Smart Watch",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0285-fire-boltt-smart-watch/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/fire%2Cboltt%2Csmart%2Cwatch%2Celectronics?lock=1285",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Duracell AA Batteries 4 pcs",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0286-duracell-aa-batteries-4-pcs/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/duracell%2Caa%2Cbatteries%2C4%2Celectronics?lock=1286",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Belkin Extension Board",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0287-belkin-extension-board/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/belkin%2Cextension%2Cboard%2Celectronics?lock=1287",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Logitech Wireless Mouse",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0288-logitech-wireless-mouse/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/logitech%2Cwireless%2Cmouse%2Celectronics?lock=1288",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "TP-Link Wi-Fi Router",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0289-tp-link-wi-fi-router/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/tp%2Clink%2Cwi%2Cfi%2Crouter?lock=1289",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Philips LED Bulb 9W",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0290-philips-led-bulb-9w/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/philips%2Cled%2Cbulb%2C9w%2Celectronics?lock=1290",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -1934,63 +1966,63 @@
       "products": [
         {
           "name": "Classmate Single Line Notebook",
-          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/classmate%2Csingle%2Cline%2Cnotebook%2Cstationery?lock=1291",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Navneet Long Book",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0292-navneet-long-book/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/navneet%2Clong%2Cbook%2Cstationery%2Cgames?lock=1292",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Reynolds 045 Ball Pen",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0293-reynolds-045-ball-pen/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/reynolds%2C045%2Cball%2Cpen%2Cstationery?lock=1293",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Nataraj HB Pencil Pack",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0294-nataraj-hb-pencil-pack/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/nataraj%2Chb%2Cpencil%2Cstationery%2Cgames?lock=1294",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Fevicol MR Adhesive",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0295-fevicol-mr-adhesive/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/fevicol%2Cmr%2Cadhesive%2Cstationery%2Cgames?lock=1295",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cello Tape 1 inch",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0296-cello-tape-1-inch/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cello%2Ctape%2C1%2Cinch%2Cstationery?lock=1296",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Camel Wax Crayons 24 Shades",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0297-camel-wax-crayons-24-shades/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/camel%2Cwax%2Ccrayons%2C24%2Cshades?lock=1297",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "DOMS Colour Pencils",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0298-doms-colour-pencils/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/doms%2Ccolour%2Cpencils%2Cstationery%2Cgames?lock=1298",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "UNO Card Game",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0299-uno-card-game/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/uno%2Ccard%2Cgame%2Cstationery%2Cgames?lock=1299",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Rubik's Cube 3x3",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0300-rubik-s-cube-3x3/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/rubik%2Cs%2Ccube%2C3x3%2Cstationery?lock=1300",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "A4 Copier Paper 500 Sheets",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0301-a4-copier-paper-500-sheets/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/a4%2Ccopier%2Cpaper%2C500%2Csheets?lock=1301",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Document Folder",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0302-document-folder/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/document%2Cfolder%2Cstationery%2Cgames?lock=1302",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -2005,43 +2037,43 @@
       "products": [
         {
           "name": "Boldfit Yoga Mat",
-          "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/boldfit%2Cyoga%2Cmat%2Csports%2Cgym?lock=1303",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Decathlon Skipping Rope",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0304-decathlon-skipping-rope/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/decathlon%2Cskipping%2Crope%2Csports%2Cgym?lock=1304",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cockatoo Hand Grip Strengthener",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0305-cockatoo-hand-grip-strengthener/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cockatoo%2Chand%2Cgrip%2Cstrengthener%2Csports?lock=1305",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Cosco Tennis Ball",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0306-cosco-tennis-ball/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/cosco%2Ctennis%2Cball%2Csports%2Cgym?lock=1306",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Nivia Football",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0307-nivia-football/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/nivia%2Cfootball%2Csports%2Cgym?lock=1307",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Adjustable Dumbbell Pair",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0308-adjustable-dumbbell-pair/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/adjustable%2Cdumbbell%2Cpair%2Csports%2Cgym?lock=1308",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Resistance Band Set",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0309-resistance-band-set/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/resistance%2Cband%2Cset%2Csports%2Cgym?lock=1309",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Insulated Sports Water Bottle",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0310-insulated-sports-water-bottle/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/insulated%2Csports%2Cwater%2Cbottle%2Cgym?lock=1310",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -2055,23 +2087,23 @@
       "products": [
         {
           "name": "Kiwi Black Shoe Polish",
-          "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kiwi%2Cblack%2Cshoe%2Cpolish%2Cbrush?lock=1311",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kiwi Shoe Shine Sponge",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0312-kiwi-shoe-shine-sponge/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kiwi%2Cshoe%2Cshine%2Csponge%2Cpolish?lock=1312",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Wooden Shoe Brush",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0313-wooden-shoe-brush/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/wooden%2Cshoe%2Cbrush%2Cpolish?lock=1313",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Shoe Cleaning Cloth",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0314-shoe-cleaning-cloth/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/shoe%2Ccleaning%2Ccloth%2Cpolish%2Cbrush?lock=1314",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },
@@ -2103,23 +2135,23 @@
       "products": [
         {
           "name": "Traditional Zari Rakhi",
-          "imageUrl": "https://images.unsplash.com/photo-1512909006721-3d6018887383?auto=format&fit=crop&w=700&q=80",
-          "imageSource": "Unsplash category sample image"
+          "imageUrl": "https://loremflickr.com/640/640/traditional%2Czari%2Crakhi%2Cgifts?lock=1315",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Kids Cartoon Rakhi",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0316-kids-cartoon-rakhi/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/kids%2Ccartoon%2Crakhi%2Cgifts?lock=1316",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Rakhi Chocolate Gift Box",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0317-rakhi-chocolate-gift-box/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/rakhi%2Cchocolate%2Cgift%2Cbox%2Cgifts?lock=1317",
+          "imageSource": "Product-name-related sample image"
         },
         {
           "name": "Dry Fruit Gift Hamper",
-          "imageUrl": "https://picsum.photos/seed/ASTRI-0318-dry-fruit-gift-hamper/640/640",
-          "imageSource": "Unique random sample image"
+          "imageUrl": "https://loremflickr.com/640/640/dry%2Cfruit%2Cgift%2Champer%2Crakhi?lock=1318",
+          "imageSource": "Product-name-related sample image"
         }
       ]
     },

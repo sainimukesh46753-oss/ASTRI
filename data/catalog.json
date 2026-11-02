@@ -1088,6 +1088,262 @@
         "Brand Gift Cards"
       ],
       "products": []
+    },
+    {
+      "name": "Pet Supplies",
+      "subcategories": [
+        "Dog Food",
+        "Cat Food",
+        "Pet Treats",
+        "Pet Grooming",
+        "Pet Toys",
+        "Pet Cleaning"
+      ],
+      "products": []
+    },
+    {
+      "name": "Pooja & Spiritual",
+      "subcategories": [
+        "Pooja Essentials",
+        "Incense & Dhoop",
+        "Diyas & Candles",
+        " पूजा Thalis",
+        "Festive Decor"
+      ],
+      "products": []
+    },
+    {
+      "name": "Toys & Games",
+      "subcategories": [
+        "Soft Toys",
+        "Board Games",
+        "Outdoor Toys",
+        "Learning Toys",
+        "Puzzles"
+      ],
+      "products": []
+    },
+    {
+      "name": "Books & Stationery",
+      "subcategories": [
+        "Books",
+        "Notebooks",
+        "Pens & Pencils",
+        "Art Supplies",
+        "Office Essentials"
+      ],
+      "products": []
+    },
+    {
+      "name": "Mobile Accessories",
+      "subcategories": [
+        "Chargers",
+        "Cables",
+        "Cases & Covers",
+        "Screen Guards",
+        "Power Banks",
+        "Earphones"
+      ],
+      "products": []
+    },
+    {
+      "name": "Computer Accessories",
+      "subcategories": [
+        "Keyboards & Mouse",
+        "Laptop Accessories",
+        "Storage Devices",
+        "Webcams",
+        "Networking"
+      ],
+      "products": []
+    },
+    {
+      "name": "Home Decor",
+      "subcategories": [
+        "Wall Decor",
+        "Lamps & Lighting",
+        "Clocks",
+        "Photo Frames",
+        "Artificial Plants"
+      ],
+      "products": []
+    },
+    {
+      "name": "Kitchen & Dining",
+      "subcategories": [
+        "Cookware",
+        "Serveware",
+        "Kitchen Tools",
+        "Bottles & Flasks",
+        "Food Storage"
+      ],
+      "products": []
+    },
+    {
+      "name": "Home Organisation",
+      "subcategories": [
+        "Storage Boxes",
+        "Organisers",
+        "Hangers",
+        "Bathroom Storage",
+        "Cleaning Tools"
+      ],
+      "products": []
+    },
+    {
+      "name": "Laundry Care",
+      "subcategories": [
+        "Detergents",
+        "Fabric Conditioners",
+        "Stain Removers",
+        "Laundry Accessories"
+      ],
+      "products": []
+    },
+    {
+      "name": "Car & Bike Care",
+      "subcategories": [
+        "Car Cleaning",
+        "Bike Cleaning",
+        "Air Fresheners",
+        "Vehicle Accessories"
+      ],
+      "products": []
+    },
+    {
+      "name": "Travel Essentials",
+      "subcategories": [
+        "Luggage",
+        "Travel Organisers",
+        "Travel Bottles",
+        "Travel Accessories"
+      ],
+      "products": []
+    },
+    {
+      "name": "Baby Feeding",
+      "subcategories": [
+        "Feeding Bottles",
+        "Sippers",
+        "Baby Food",
+        "Diapers & Wipes",
+        "Baby Accessories"
+      ],
+      "products": []
+    },
+    {
+      "name": "Health Devices",
+      "subcategories": [
+        "Thermometers",
+        "BP Monitors",
+        "Oximeters",
+        "First Aid",
+        "Health Accessories"
+      ],
+      "products": []
+    },
+    {
+      "name": "Fitness & Sports",
+      "subcategories": [
+        "Sports Accessories",
+        "Yoga",
+        "Gym Accessories",
+        "Outdoor Sports",
+        "Fitness Equipment"
+      ],
+      "products": []
+    },
+    {
+      "name": "Organic & Healthy Foods",
+      "subcategories": [
+        "Organic Staples",
+        "Millets",
+        "Healthy Snacks",
+        "Natural Sweeteners"
+      ],
+      "products": []
+    },
+    {
+      "name": "Frozen Foods",
+      "subcategories": [
+        "Frozen Snacks",
+        "Frozen Vegetables",
+        "Frozen Desserts",
+        "Ready-to-Cook Frozen"
+      ],
+      "products": []
+    },
+    {
+      "name": "Ready to Cook",
+      "subcategories": [
+        "Instant Mixes",
+        "Ready Meals",
+        "Pasta & Noodles",
+        "Breakfast Mixes"
+      ],
+      "products": []
+    },
+    {
+      "name": "Gourmet & International",
+      "subcategories": [
+        "Imported Snacks",
+        "International Sauces",
+        "Gourmet Staples",
+        "Speciality Foods"
+      ],
+      "products": []
+    },
+    {
+      "name": "Party & Celebration",
+      "subcategories": [
+        "Party Supplies",
+        "Decorations",
+        "Disposable Tableware",
+        "Balloons"
+      ],
+      "products": []
+    },
+    {
+      "name": "Gifts & Hampers",
+      "subcategories": [
+        "Gift Hampers",
+        "Personalised Gifts",
+        "Greeting Cards",
+        "Celebration Combos"
+      ],
+      "products": []
+    },
+    {
+      "name": "Personal Accessories",
+      "subcategories": [
+        "Wallets",
+        "Belts",
+        "Sunglasses",
+        "Watches",
+        "Fashion Accessories"
+      ],
+      "products": []
+    },
+    {
+      "name": "Footwear Care",
+      "subcategories": [
+        "Shoe Cleaners",
+        "Shoe Polish",
+        "Insoles",
+        "Shoe Accessories"
+      ],
+      "products": []
+    },
+    {
+      "name": "Electrical & Lighting",
+      "subcategories": [
+        "Bulbs",
+        "Extension Boards",
+        "Batteries",
+        "Torches",
+        "Electrical Accessories"
+      ],
+      "products": []
     }
   ]
 }

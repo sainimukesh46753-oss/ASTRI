@@ -27,31 +27,38 @@
         },
         {
           "name": "Pears Pure & Gentle Soap",
-          "priceINR": 45
+          "priceINR": 45,
+          "imageUrl": "https://www.jiomart.com/images/product/600x600/491633896/pears-pure-gentle-soap-60-g-product-images-o491633896-p590120593-1-202209081118.jpg"
         },
         {
           "name": "Lifebuoy Total Soap",
-          "priceINR": 30
+          "priceINR": 30,
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/266814_2-lifebuoy-bathing-soap-total.jpg"
         },
         {
           "name": "Nivea Shower Gel",
-          "priceINR": 125
+          "priceINR": 125,
+          "imageUrl": "https://assets.icanet.se/image/upload/v1725354685/1073165_1.webp"
         },
         {
           "name": "Fiama Shower Gel",
-          "priceINR": 110
+          "priceINR": 110,
+          "imageUrl": "https://cdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/OnbSaHE69h-fiama_cooling_shower_gel_menthol_magnolia_250_ml_636652_0_0.jpg"
         },
         {
           "name": "Dettol Handwash",
-          "priceINR": 99
+          "priceINR": 99,
+          "imageUrl": "https://static.oxinis.com/healthmug/image/product/140605-1-800.webp"
         },
         {
           "name": "Colgate Strong Teeth Toothpaste",
-          "priceINR": 65
+          "priceINR": 65,
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ102338_FOP_2e59bbb6-96c2-4ec9-89b5-e05328b0de72.jpg?v=1776847627"
         },
         {
           "name": "Sensodyne Fresh Mint Toothpaste",
-          "priceINR": 180
+          "priceINR": 180,
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/e330d54f-9b1f-4675-ad9c-0971e9395135.jpg"
         },
         {
           "name": "Listerine Cool Mint Mouthwash",

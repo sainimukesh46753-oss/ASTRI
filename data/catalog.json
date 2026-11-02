@@ -155,11 +155,13 @@
         },
         {
           "name": "Wide Tooth Hair Comb",
-          "priceINR": 35
+          "priceINR": 35,
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/5/f/5fec660MAJAB00000084_01.jpg"
         },
         {
           "name": "U-Shape Hair Clips",
-          "priceINR": 60
+          "priceINR": 60,
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40362547_1-gubb-bun-hair-pins-u-shape.jpg"
         }
       ]
     },
@@ -300,15 +302,18 @@
         },
         {
           "name": "Lakmé Color Crush Nail Polish",
-          "priceINR": 249
+          "priceINR": 249,
+          "imageUrl": "https://media-uk.landmarkshops.in/cdn-cgi/image/h%3D1125%2Cw%3D1125%2Cq%3D85%2Cfit%3Dcover/lifestyle/1000005630616-1000001138838_02-2100.jpg"
         },
         {
           "name": "Colorbar Makeup Brush",
-          "priceINR": 99
+          "priceINR": 99,
+          "imageUrl": "https://cdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/v7GI4a7w8h-colorbar_pro_makeup_brushes_pro_powder_brush_1s_452490_0_0.jpg"
         },
         {
           "name": "Beauty Blender Makeup Sponge",
-          "priceINR": 199
+          "priceINR": 199,
+          "imageUrl": "https://cdn.notinoimg.com/detail_main_lq/beautyblender/851610005301_02-o/beautyblender-original-makeup-sponge___210319.jpg"
         }
       ]
     },
@@ -331,7 +336,8 @@
         },
         {
           "name": "Stayfree Secure Cottony Soft Pads",
-          "priceINR": 199
+          "priceINR": 199,
+          "imageUrl": "https://rigmeds-main.s3.ap-south-1.amazonaws.com/39286/Stayfree-Secure-Cottony-Soft-Regular-With-Wings-20-pad-1.jpg"
         },
         {
           "name": "Sofy Antibacteria Pads",
@@ -341,7 +347,8 @@
         },
         {
           "name": "Sirona Menstrual Cup",
-          "priceINR": 99
+          "priceINR": 99,
+          "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D85%2Cmetadata%3Dnone%2Cw%3D480%2Ch%3D480/app/assets/products/large_images/jpeg/7e45c5bf-50d9-4f37-bc7c-bd1c1707931b.jpg"
         },
         "Pee Safe Intimate Wash",
         "Veet Hair Removal Cream"

@@ -58,6 +58,51 @@ header{background:rgba(255,255,255,.94);border-bottom:1px solid #e4eaf2;box-shad
 .location-actions .primary{background:#1769e0;color:#fff;border-color:#1769e0}
 @media(max-width:650px){.top{height:auto;padding:13px 0}.hero{padding:28px 23px;min-height:230px;border-radius:20px}.hero h1{font-size:36px}.category-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}.category-photo{height:104px}.products{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.product{padding:9px;border-radius:15px}.photo{height:130px}.product h3{font-size:12px}.product .price{font-size:15px}}
 
+
+/* ASTRI COSMIC IDENTITY — customer storefront */
+:root{--navy:#07142d;--blue:#36baff;--ice:#050b1b;--ink:#f3f7ff;--muted:#a9b8d2;--line:#24436f}
+html{scroll-behavior:smooth;color-scheme:dark}
+body{background:#050b1b;color:#f3f7ff;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;background-image:radial-gradient(ellipse at 15% 4%,#15396b55,transparent 34%),radial-gradient(ellipse at 90% 38%,#32145b33,transparent 32%),linear-gradient(180deg,#050b1b,#07142b 58%,#030815)}
+header{background:rgba(4,10,25,.9);border-bottom:1px solid #25456f;box-shadow:0 10px 35px #0006}
+.brand{color:#fff;font-size:31px;letter-spacing:4px;text-shadow:0 0 20px #36baff55}
+.brand span{color:#48c2ff}
+.delivery{color:#9fb3d2}.delivery button{color:#f3f7ff}
+.search{background:#0b1932;color:#f3f7ff;border:1px solid #294a78;border-radius:13px}
+.search:focus{outline:none;border-color:#48c2ff;box-shadow:0 0 0 3px #36baff25}
+.action{background:linear-gradient(120deg,#1477d5,#36baff);color:#031126;border:1px solid #69ceff;border-radius:11px;box-shadow:0 7px 24px #168be955;font-weight:850}
+.action:hover{filter:brightness(1.12);transform:translateY(-1px)}
+.hero{margin:28px auto 34px;min-height:300px;padding:clamp(28px,5vw,56px);border:1px solid #2b68a2;border-radius:26px;background:radial-gradient(ellipse at 78% 42%,#287fdc66 0%,transparent 28%),radial-gradient(ellipse at 76% 110%,#7140b866 0%,transparent 35%),radial-gradient(ellipse at 10% 0%,#123b74 0%,transparent 42%),linear-gradient(115deg,#030918 0%,#0a1d3c 52%,#101438 100%);box-shadow:0 24px 65px #0008,inset 0 0 55px #238be21c;isolation:isolate}
+.hero:before{content:"";position:absolute;z-index:-1;width:260px;height:260px;right:9%;top:50%;transform:translateY(-38%);border-radius:50%;background:radial-gradient(circle at 34% 28%,#b8e8ff 0%,#4d9de0 13%,#244c91 38%,#101a49 67%,#060b1d 74%);box-shadow:0 0 45px #36baff77,0 0 100px #397bff55}
+.hero:after{content:"";position:absolute;width:390px;height:115px;right:4%;top:49%;transform:translateY(-50%) rotate(-18deg);border:2px solid #9adfff88;border-radius:50%;box-shadow:0 0 22px #36baff55}
+.hero h1{color:#fff;font-size:clamp(34px,5vw,60px);letter-spacing:-.045em;text-shadow:0 5px 25px #0008}
+.hero p{color:#d1e7ff}.pill{background:#ffffff0d;border:1px solid #78caff66;color:#bdeaff;letter-spacing:.09em;font-weight:800}
+.quick-links a{background:#0b1b35;border:1px solid #254a78;color:#c7e8ff;border-radius:12px;box-shadow:0 5px 18px #0004}
+.section h2{color:#f3f7ff;font-size:25px;letter-spacing:-.03em}
+.meta{color:#9aacc8}
+.category-card{background:linear-gradient(150deg,#102443,#09162d);border:1px solid #24466f;color:#f3f7ff;box-shadow:0 8px 25px #0005}
+.category-card:hover,.category-card.active{border-color:#48c2ff;box-shadow:0 0 0 1px #48c2ff44,0 12px 30px #087cff2a}
+.category-photo{background:radial-gradient(circle at 50% 32%,#244d7b,#0a1730 72%);color:#bddcff}
+.category-card small{color:#9fb3d2}
+.product{background:linear-gradient(155deg,#102443,#09162d);border:1px solid #24466f;color:#f3f7ff;box-shadow:0 8px 25px #0005}
+.product:hover{border-color:#48c2ff;box-shadow:0 0 0 1px #48c2ff33,0 14px 30px #0007}
+.photo{background:linear-gradient(145deg,#142b4a,#09172d);color:#b4c8e5}
+.photo img,.category-photo img{background:#fff;border-radius:8px}
+.product h3{color:#f3f7ff}.product .price,.detail-panel .price{color:#70ccff;font-size:17px;font-weight:900}
+.product button{background:#0c2747;border:1px solid #3aaeff;color:#83d4ff;border-radius:10px}
+.product button:hover{background:#36baff;color:#041329;border-color:#36baff}
+.back-categories{background:#0b1b35;border:1px solid #31557f;color:#c7e8ff}
+.empty{background:#0b1b35;color:#b1c3dc;border:1px dashed #31557f}
+.product-detail{background:#010611cc;backdrop-filter:blur(9px)}
+.detail-panel{background:#0a1932;color:#f3f7ff;border:1px solid #31557f;box-shadow:0 28px 90px #000c}
+.detail-panel h2{color:#fff}.detail-close{background:#142b4b;color:#eaf6ff;border:1px solid #31557f}
+.detail-thumb{border-color:#31557f}
+.footer{background:#030817;color:#c6dcf6;border-top:1px solid #24466f}
+.location-panel{background:#0a1932;color:#f3f7ff;border:1px solid #31557f}
+.location-panel p{color:#a9b8d2}.location-panel input{background:#061127;color:#fff;border:1px solid #31557f}
+.location-actions button{background:#122847;color:#eaf6ff;border-color:#31557f}
+.location-actions .primary{background:#168be8;color:#041329;border-color:#36baff}
+@media(max-width:650px){.hero{min-height:270px;padding:27px 22px;overflow:hidden}.hero:before{width:155px;height:155px;right:-7%;top:70%;opacity:.72}.hero:after{width:230px;height:70px;right:-12%;top:72%}.hero h1{font-size:35px}.category-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.products{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
 </style></head><body><header><div class="wrap top"><div class="brand">ASTR<span>I</span></div><div class="delivery"><b>Delivery in Minutes</b><button id="locationOpen" type="button">Choose location</button></div><input id="search" class="search" placeholder="Search milk, chips, fruits..." aria-label="Search products"><button class="action" id="cart">My Cart (0)</button></div></header><div class="location-overlay" id="locationModal" role="dialog" aria-modal="true" aria-label="Choose delivery location"><div class="location-panel"><h2>Choose your location</h2><p>Enter your delivery address or use your current location.</p><input id="locationInput" placeholder="Search area, street, building..." autocomplete="street-address"><div class="location-actions"><button class="primary" id="saveLocation">Save location</button><button id="useLocation">Use my current location</button><button id="closeLocation">Cancel</button></div><p id="locationMessage" aria-live="polite"></p></div></div><div class="product-detail" id="productDetail" role="dialog" aria-modal="true"><div class="detail-panel"><button class="detail-close" id="detailClose">Close ✕</button><div id="detailContent"></div></div></div><main class="wrap"><section class="hero"><div><span class="pill">DELIVERY IN MINUTES · YOUR WORLD. ONE DESTINATION.</span><h1>Everything you need.<br>Right on time.</h1><p>Daily essentials, fresh picks and more — delivered fast.</p><button class="action" onclick="document.getElementById('categorySection').scrollIntoView({behavior:'smooth'})">Explore products →</button></div><div style="font-size:76px;opacity:.9">✦</div></section><nav class="quick-links"><a href="/checkout.html">Checkout</a><a href="/track.html">Track an order</a><a href="#catalogue">Shop all products</a></nav><section class="section" id="featuredSection"><div class="bar"><h2>Popular products</h2><span class="meta">Explore customer favourites</span></div><div class="products" id="featuredProducts"></div></section><section class="section" id="categorySection"><div class="bar"><h2>Shop by category</h2><span class="meta" id="categoryCount"></span></div><div class="category-grid" id="categoryGrid"></div></section><section class="section" id="catalogue" style="display:none"><div class="bar"><div><button class="back-categories" id="backCategories">← All categories</button><h2 id="heading">Popular picks</h2></div><span class="meta" id="count"></span></div><div class="products" id="products"></div><div style="text-align:center;margin-top:18px"><button class="back-categories" id="loadMore" type="button" style="display:none">Load more products ↓</button></div></section></main><footer class="footer"><div class="wrap"><b>ASTRI</b> · Your World. One Destination. <span style="float:right">Fast essentials, thoughtfully delivered.</span></div></footer><script>
 let all=[],active='All',cart=0,visibleLimit=24;document.addEventListener('error',e=>{if(e.target&&e.target.tagName==='IMG'){const box=e.target.parentElement;if(box)box.textContent='Photo being verified';}},true);const $=id=>document.getElementById(id);let deliveryLocation='';const openLocation=()=>{$('locationModal').style.display='flex';$('locationInput').focus()};$('locationOpen').onclick=openLocation;$('closeLocation').onclick=()=>$('locationModal').style.display='none';$('saveLocation').onclick=()=>{const v=$('locationInput').value.trim();if(!v){$('locationMessage').textContent='Please enter an address.';return}deliveryLocation=v;$('locationOpen').textContent=v;$('locationMessage').textContent='Location saved on this page.';$('locationModal').style.display='none'};$('useLocation').onclick=()=>{if(!navigator.geolocation){$('locationMessage').textContent='Location is not supported in this browser. Enter your address instead.';return}$('locationMessage').textContent='Finding your location…';navigator.geolocation.getCurrentPosition(async p=>{try{const url='https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat='+p.coords.latitude+'&lon='+p.coords.longitude;const res=await fetch(url);const data=await res.json();deliveryLocation=data.display_name||p.coords.latitude.toFixed(4)+', '+p.coords.longitude.toFixed(4);$('locationOpen').textContent=deliveryLocation;$('locationModal').style.display='none'}catch(e){$('locationMessage').textContent='Could not get the address. Please enter it manually.'}},()=>{$('locationMessage').textContent='Location permission denied or unavailable. Please enter your address.'},{enableHighAccuracy:true,timeout:10000});};$('locationModal').addEventListener('click',e=>{if(e.target===$('locationModal'))$('locationModal').style.display='none'});
 function esc(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}

@@ -2,43 +2,1116 @@
   "brand": "ASTRI",
   "currency": "INR",
   "catalogueType": "starter-curated",
-  "note": "Representative starter catalogue. Product names are examples; verify local availability, pack size, price, and image licensing before publishing. No prices or image URLs are fabricated.",
+  "note": "First 50 products have indicative planning prices in INR, not verified live store prices. Confirm exact pack size, local availability and selling price before accepting orders. Product photos are added only after the exact product/pack image and usage rights are verified.",
   "categories": [
-    {"name":"Bath & Body","subcategories":["Bathing Soaps","Shower Gels & Scrubs","Oral Care","Handwash","Fragrance & Talc","Bath Accessories","Shampoo","Conditioner","Face Cleaning","Body Lotions & Oils","Body Treatment & Roll On","Bath & Beauty Gifts"],"products":["Dove Cream Beauty Bathing Bar","Pears Pure & Gentle Soap","Lifebuoy Total Soap","Nivea Shower Gel","Fiama Shower Gel","Dettol Handwash","Colgate Strong Teeth Toothpaste","Sensodyne Fresh Mint Toothpaste","Listerine Cool Mint Mouthwash","Nivea Soft Cream","Vaseline Intensive Care Lotion","Parachute Coconut Hair Oil"]},
-    {"name":"Hair","subcategories":["Shampoo","Conditioner","Hair Colour","Hair Oil & Cream","Hair Serums","Hair Styling","Appliances","Hair Accessories"],"products":["Dove Daily Shine Shampoo","Head & Shoulders Cool Menthol Shampoo","Clinic Plus Strong & Long Shampoo","L'Oréal Paris Total Repair Conditioner","Dove Intense Repair Conditioner","Garnier Color Naturals Hair Colour","Parachute Advansed Coconut Hair Oil","Livon Hair Serum","Set Wet Styling Gel","Philips Hair Dryer","Wide Tooth Hair Comb","U-Shape Hair Clips"]},
-    {"name":"Skin & Face","subcategories":["Face Moisturisers","Body Lotions & Oils","Sunscreen","Face Cleaning","Face Oil, Serum & Essence","Lip & Eye Care","Face Masks & Packs","Toners & Mists","Acne & Blackhead Fixers","Men's Grooming","Women's Grooming"],"products":["Pond's Super Light Gel","Cetaphil Moisturising Cream","Lakmé Sun Expert SPF 50","Neutrogena UltraSheer Sunscreen","Himalaya Neem Face Wash","Simple Refreshing Face Wash","Garnier Vitamin C Serum","Minimalist Niacinamide 10% Serum","Nivea Lip Balm","Himalaya Purifying Neem Mask","Garnier Micellar Water","Gillette Fusion Razor"]},
-    {"name":"Beauty & Cosmetics","subcategories":["Lipstick & Gloss","Cleansers & Toners","Foundation & Compact","Blush & Highlighter","Primer & Concealer","Kajal & Eyeliners","Bindi, Bangles & Others","Nail Paints & Accessories","Beauty Accessories","Bath & Beauty Gifts","Beauty E-Card"],"products":["Maybelline Creamy Matte Lipstick","Lakmé 9to5 Primer + Matte Foundation","Maybelline Fit Me Compact","Swiss Beauty Baked Blush","Maybelline Fit Me Concealer","Lakmé Eyeconic Kajal","Maybelline Colossal Eyeliner","Lakmé Color Crush Nail Polish","Colorbar Makeup Brush","Beauty Blender Makeup Sponge"]},
-    {"name":"Feminine Hygiene","subcategories":["Sanitary Pads","Tampons & Menstrual Cups","Period Panty","Period Pain Relief","Intimate Wash & Wipes","Hair Removal"],"products":["Whisper Ultra Clean Sanitary Pads","Stayfree Secure Cottony Soft Pads","Sofy Antibacteria Pads","Sirona Menstrual Cup","Pee Safe Intimate Wash","Veet Hair Removal Cream"]},
-    {"name":"Mom Care","subcategories":["Pregnancy Care","Maternity Essentials","Postnatal Care"],"products":["Mothercare Maternity Nursing Pads","Pigeon Breast Pads","Mothercare Maternity Pillow","Mee Mee Feeding Bottle"]},
-    {"name":"Baby Care","subcategories":["Diaper & Wipes","Baby Food","Baby Shampoo & Soaps","Skin & Hair Care","Feeding Essentials","Clothes & Accessories","Health & Hygiene","Baby Oral Care","Baby Toys & Gifts","Baby Gear","Mom Care Needs"],"products":["Pampers Active Baby Diapers","Huggies Wonder Pants","Mother Sparsh Baby Wipes","Johnson's Baby Shampoo","Himalaya Baby Soap","Cetaphil Baby Lotion","Cerelac Wheat Apple Cereal","Philips Avent Feeding Bottle","Mee Mee Baby Nail Clipper","Baby Toothbrush","Soft Baby Rattle","Baby Cotton Bibs"]},
-    {"name":"Health & Pharma","subcategories":["Fever & Pain Relief","Cough, Cold & Flu","Masks & Sanitizers","Stomach & Digestive Care","Protein Supplements","Vitamins & Supplements","Derma Medicines","Bandaid & Wound Care","Eye & Ear Care","Adult Diapers","Health & Ortho Supports","Gynaecology Medicines","Oral Care","Diabetes Medicines","Heart Medicines","Neuro Medicines","Hangover Cure","Health & Wellness E-Cards"],"products":["Dettol Antiseptic Liquid","Savlon Antiseptic Liquid","Dr. Morepen Digital Thermometer","N95 Protective Mask","Hand Sanitizer","Hansaplast Washproof Bandages","Omron Digital Blood Pressure Monitor","Accu-Chek Glucometer Starter Kit","Tynor Knee Cap","Adult Care Protective Underwear"]},
-    {"name":"Sexual Wellness","subcategories":["Massagers","Condoms","Lubricants","Enhancers","Adult Games","Test Kits","Medicines"],"products":[],"catalogueNote":"Age-restricted and regulated products are not included in this starter catalogue."},
-    {"name":"Vegetables & Fruits","subcategories":["All","Fresh Vegetables","Fresh Fruits","Exotics","Coriander & Others","Freshly Cut & Sprouts","Trusted Organics","Flowers & Leaves","Seasonal","Frozen Veg","Hydroponic"],"products":["Potato 1 kg","Onion 1 kg","Tomato 500 g","Green Capsicum 500 g","Cucumber 500 g","Carrot 500 g","Cauliflower 1 pc","Spinach 1 bunch","Coriander 1 bunch","Green Chilli 100 g","Banana 6 pcs","Apple 4 pcs","Kinnow 1 kg","Pomegranate 2 pcs","Mango 1 kg","Broccoli 1 pc","Button Mushroom 200 g","Lemon 250 g","Coconut 1 pc","Sweet Corn 2 pcs"]},
-    {"name":"Atta, Rice & Dal","subcategories":["Atta","Rice","Dal","Besan, Sooji & Maida","Rajma, Chhole & Others","Millet & Other Flours","Organic","Poha, Daliya & Other Grains","Summer Specials"],"products":["Aashirvaad Whole Wheat Atta 5 kg","Fortune Chakki Fresh Atta 5 kg","India Gate Classic Basmati Rice 1 kg","Daawat Rozana Gold Rice 5 kg","Tata Sampann Toor Dal 1 kg","Tata Sampann Moong Dal 1 kg","Tata Sampann Chana Dal 1 kg","Rajdhani Besan 500 g","Fortune Suji 500 g","Rajdhani Maida 1 kg","Rajma 500 g","Kabuli Chana 500 g","Organic Tattva Ragi Flour 500 g","Poha 500 g","Daliya 500 g"]},
-    {"name":"Oil, Ghee & Masala","subcategories":["Oil","Desi Ghee","Cow Ghee","Powdered Spices","Non Veg Spices","Salt, Sugar & Jaggery","Whole Spices","Gravy Mixes & Pastes","Herbs & Seasoning","Organic"],"products":["Fortune Sunflower Oil 1 L","Dhara Mustard Oil 1 L","Amul Pure Ghee 1 L","Patanjali Cow Ghee 1 L","Everest Turmeric Powder 100 g","Everest Red Chilli Powder 100 g","MDH Garam Masala 100 g","Tata Salt 1 kg","Madhur Sugar 1 kg","Tata Sampann Cumin Seeds 100 g","Catch Black Pepper 50 g","Everest Kitchen King Masala 100 g","Ginger Garlic Paste 200 g"]},
-    {"name":"Dairy, Bread & Eggs","subcategories":["Milk","Bread & Pav","Eggs","Curd & Yogurt","Cheese & Butter","Batter","Paneer & Tofu","Soy Milk & More","Lassi & Milkshakes","Cream & Whitener"],"products":["Amul Taaza Toned Milk 1 L","Mother Dairy Full Cream Milk 1 L","Amul Masti Dahi 400 g","Mother Dairy Classic Curd 400 g","Amul Butter 100 g","Amul Cheese Slices 200 g","Fresh White Bread 400 g","Pav 6 pcs","Farm Fresh Eggs 6 pcs","Amul Paneer 200 g","Soy Milk 1 L","Amul Lassi  pack","Idli Dosa Batter 1 kg","Amul Fresh Cream 250 ml"]},
-    {"name":"Bakery & Biscuits","subcategories":["Cookies","Cream Biscuits","Healthy & Digestive","Sweet & Salty","Glucose & Marie","Rusks & Wafers","Cakes & Rolls","Baking Ingredients","Gourmet Bakery","Biscuit Gift Pack"],"products":["Britannia Good Day Butter Cookies","Sunfeast Dark Fantasy Choco Fills","Parle-G Original Glucose Biscuits","Britannia NutriChoice Digestive","Oreo Original Cream Biscuits","McVitie's Digestive Biscuits","Britannia Toast Rusk","Unibic Choco Chip Cookies","Britannia Treat Croissant","Brownie Slice","Vanilla Muffin 2 pcs","Weikfield Baking Powder"]},
-    {"name":"Dry Fruits & Cereals","subcategories":["Dry Fruits","Dry Fruits Snacks","Corn Flakes & Kids Cereals","Muesli & Granola","Oats & Daliya","Dates","Seeds","Vermicelli & Poha","Organic & Premium","Dry Fruit Gift Packs"],"products":["Almonds 200 g","Cashews 200 g","Pistachios 100 g","Raisins 200 g","Happilo Trail Mix 200 g","Kellogg's Corn Flakes 500 g","Kellogg's Chocos 375 g","Bagrry's Muesli 500 g","Quaker Oats 1 kg","Lion Dates 500 g","Chia Seeds 100 g","Roasted Pumpkin Seeds 100 g","Vermicelli 400 g","Poha 500 g"]},
-    {"name":"Chicken, Meat & Fish","subcategories":["Chicken","Fresh Meat","Fish & Seafood","Mutton","Frozen Non-Veg Snacks","Non Veg Spices","Sausage, Salami & Ham","Exotic Meat","Fresh Marinades","Plant Based Meat","Eggs"],"products":["Fresh Chicken Curry Cut 500 g","Chicken Breast Boneless 500 g","Chicken Drumsticks 500 g","Rohu Fish Curry Cut 500 g","Prawns Medium 250 g","Fresh Mutton Curry Cut 500 g","Frozen Chicken Nuggets 400 g","Chicken Seekh Kebab 250 g","Plant-Based Nuggets 250 g"],"catalogueNote":"Fresh meat and seafood require verified cold-chain sourcing and local availability."},
-    {"name":"Kitchenware & Appliances","subcategories":["Bottles & Flasks","Kitchen Accessories","Mugs & Glasses","Cookware & Sets","Storage & Containers","Barware","Lunch Boxes","Cutting & Chopping","Dining & Serveware","Kitchen Appliances","Tissues & Disposables"],"products":["Milton Thermosteel Water Bottle 1 L","Cello Plastic Water Bottle 1 L","Borosil Glass Set 6 pcs","Prestige Nonstick Fry Pan  t","Stainless Steel Saucepan 1 pc","Lock & Lock Food Container","Lunch Box 3 Compartment","Stainless Steel Vegetable Peeler","Pigeon Electric Kettle 1.5 L","Philips Mixer Grinder","Paper Napkins 100 pcs"]},
-    {"name":"Chips & Namkeen","subcategories":["Chips & Wafers","Bhujia & Mixtures","Namkeen Snacks","Nachos","Healthy Snacks","Popcorn","Papad & Fryums","Premium","Gift Packs"],"products":["Lay's Classic Salted Chips","Kurkure Masala Munch","Haldiram's Aloo Bhujia","Haldiram's Moong Dal","Bingo! Mad Angles","Doritos Nacho Cheese","Act II Classic Salted Popcorn","Too Yumm Multigrain Chips","Lijjat Papad","Haldiram's Namkeen Gift Pack"]},
-    {"name":"Sweets & Chocolates","subcategories":["Chocolates","Chocolate Packs","Chocolate Gift Pack","Indian Sweets","Candies & Gum","Premium","Energy Bars","Syrups"],"products":["Cadbury Dairy Milk Silk","Cadbury Dairy Milk","KitKat 4 Finger","Ferrero Rocher 16 pcs","Amul Dark Chocolate","Haldiram's Soan Papdi","Kaju Katli 250 g","Gulab Jamun 1 kg","Alpenliebe Candy","Hershey's Chocolate Syrup","Yoga Bar Energy Bar"]},
-    {"name":"Drinks & Juices","subcategories":["Soft Drinks","Fruit Juices","Zero Sugar Drinks","Caffeinated Drinks","Hydration Drinks","Soda & Mixers","Water & Ice Cubes","Mango Drinks","Soy Milk & More","Cold Coffee & Ice Tea","Coconut Water","Concentrates & Syrups","Premium","Beverages Gift Packs"],"products":["Coca-Cola Original Taste 750 ml","Thums Up 750 ml","Sprite 750 ml","Real Fruit Power Orange 1 L","Tropicana Apple Juice 1 L","Paper Boat Aam Panna  pack","Red Bull Energy Drink 250 ml","Gatorade Sports Drink 500 ml","Bisleri Soda 750 ml","Packaged Drinking Water 1 L","Raw Pressery Coconut Water 1 L","Cold Coffee 250 ml","Nestea Iced Tea  pack"]},
-    {"name":"Tea, Coffee & Milk Drinks","subcategories":["Tea","Coffee","Hot Chocolate","Green Tea","Milk Drinks","Cold Coffee & Ice Tea","Bags & Premixes","Premium","Herbal Infusion"],"products":["Tata Tea Gold 500 g","Taj Mahal Tea 250 g","Nescafé Classic Coffee 100 g","Bru Instant Coffee 100 g","Cadbury Hot Chocolate 200 g","Organic India Tulsi Green Tea","Tetley Green Tea Bags","Bournvita 500 g","Horlicks Classic Malt 500 g","Continental Coffee Premix","Chamomile Herbal Tea"]},
-    {"name":"Instant Food","subcategories":["Noodles","Frozen Veg Snacks","Pasta","Frozen Non-Veg Snacks","Soup","Ready to Eat","Idli & Dosa Batter","Dessert & Cake Mixes","Organic & Premium","Energy Bars"],"products":["Maggi 2-Minute Masala Noodles","Sunfeast Yippee Magic Masala","Top Ramen Curry Noodles","Bambino Macaroni 400 g","Del Monte Pasta 500 g","Knorr Sweet Corn Soup","MTR Ready to Eat Paneer Butter Masala","Haldiram's Ready to Eat Rajma","Gits Gulab Jamun Mix","MTR Idli Mix","McCain French Fries  frozen","Yoga Bar Energy Bar"]},
-    {"name":"Sauces & Spreads","subcategories":["Tomato Ketchup","Jam & Spreads","Mayonnaise","Chutney & Pickle","Peanut Butter","Asian Sauces","Chyawanprash & Honey","Syrups","Dips & Salad Dressings","Cooking Sauces","Premium"],"products":["Kissan Fresh Tomato Ketchup 500 g","Maggi Hot & Sweet Sauce 500 g","Kissan Mixed Fruit Jam 500 g","FunFoods Veg Mayonnaise 250 g","Patanjali Mango Pickle 500 g","Pintola Classic Peanut Butter 1 kg","Ching's Schezwan Chutney 250 g","Dabur Honey 500 g","Veeba Thousand Island Dressing","Del Monte Pasta Sauce"]},
-    {"name":"Paan Corner","subcategories":["Cigarettes","Lighters","Cigar","Rolling Needs","Hookah Needs","Rolling Tobacco","Paan Masala","Ashtrays","Mouth Fresheners & Gums","Non-Tobacco Blends","Smoking Cessation"],"products":["Rajnigandha Silver Pearls Mouth Freshener","Pass Pass Mouth Freshener","Orbit Peppermint Gum","Center Fresh Mint Gum"],"catalogueNote":"Tobacco, cigarettes, cigars and related restricted goods are intentionally excluded."},
-    {"name":"Ice Creams & More","subcategories":["Tubs","Sticks","Cones","Cassata & Sandwich","Single Serve Cups","Cakes & Others","Guilt-Free","Gourmet","Syrups"],"products":["Amul Vanilla Ice Cream Tub 1 L","Amul Rajbhog Ice Cream Tub 1 L","Kwality Wall's Cornetto Chocolate","Magnum Classic Stick","Vadilal Cassata Slice","Amul Real Ice Cream Cup","Naturals Tender Coconut Ice Cream","Baskin Robbins Ice Cream Tub","Chocolate Dessert Syrup"]},
-    {"name":"Home & Lifestyle","subcategories":["Home Decor","Plants & Bouquets","Bedsheets & Towels","Gardening","Decorative Lights","Home Needs","Tissues & Disposables","Jewellery","Innerwear","Lifestyle Accessories","Party & Festive Needs","Socks & Handkerchiefs","Fresheners","Pooja Needs","Bathroom Essentials","Bags","E-Gift Cards"],"products":["Decorative Cushion Cover","Artificial Indoor Plant","Cotton Bedsheet Double","Cotton Bath Towel","Garden Hand Trowel","LED String Lights","Facial Tissue Box","Stainless Steel Hair Claw Clip","Cotton Ankle Socks","Scented Room Freshener","Cotton Wicks for Pooja","Bathroom Soap Dispenser","Reusable Shopping Tote Bag","Gift Wrapping Paper"]},
-    {"name":"Cleaners & Repellents","subcategories":["Repellents & Disinfectants","Detergent Powder & Bars","Liquid Detergents","Laundry Additives","Dishwashing Gels & Bars","Dishwashing Accessories","Toilet Cleaners","Floor Cleaners","Cleaning Tools","Garbage Bags","Glass, Metal Cleaners & Others","Shoe Care","Machine & Car Care","Household Appliance Cleaners"],"products":["Lizol Disinfectant Floor Cleaner 1 L","Harpic Power Plus Toilet Cleaner 500 ml","Vim Dishwash Gel 500 ml","Vim Dishwash Bar 200 g","Surf Excel Easy Wash Detergent 1 kg","Tide Plus Detergent 1 kg","Comfort Fabric Conditioner 860 ml","Goodknight Fast Card","Scotch-Brite Scrub Pad","Gala Floor Wiper","Garbage Bags Medium","Colin Glass Cleaner 500 ml","Vanish Stain Remover 500 g"]},
-    {"name":"Electronics","subcategories":["Trimmers & Hair Appliances","Earphones & Headsets","Speakers","Mobile & Computer","Decorative Lights","Chargers & Cables","Smart Watches","Kitchen Appliances","Laptop & Mobile Phones","Batteries","Extension Cables & Accessories","Home Appliances","Music Instruments & Accessories","Electronics E-Card"],"products":["Philips Beard Trimmer","boAt Airdopes Wireless Earbuds","JBL Go Portable Speaker","USB-C Fast Charging Cable","Ambrane 20W USB-C Charger","Portronics Power Bank 10000 mAh","Fire-Boltt Smart Watch","Duracell AA Batteries 4 pcs","Belkin Extension Board","Logitech Wireless Mouse","TP-Link Wi-Fi Router","Philips LED Bulb 9W"]},
-    {"name":"Stationery & Games","subcategories":["Notebooks & Diaries","Pens & Pencils","Toys & Games","Glue & Tape","Books & Magazines","Bags & School Needs","Children's Books","Arts & Crafts","Files & Office Needs","Gift Wraps & Bags"],"products":["Classmate Single Line Notebook","Navneet Long Book","Reynolds 045 Ball Pen","Nataraj HB Pencil Pack","Fevicol MR Adhesive","Cello Tape 1 inch","Camel Wax Crayons 24 Shades","DOMS Colour Pencils","UNO Card Game","Rubik's Cube 3x3","A4 Copier Paper 500 Sheets","Document Folder"]},
-    {"name":"Sports & Gym","subcategories":["Fitness Accessories","Gym Equipment","Sports Gear","Outdoor Games"],"products":["Boldfit Yoga Mat","Decathlon Skipping Rope","Cockatoo Hand Grip Strengthener","Cosco Tennis Ball","Nivia Football","Adjustable Dumbbell Pair","Resistance Band Set","Insulated Sports Water Bottle"]},
-    {"name":"Shoe Polish & Brush","subcategories":["Shoe Polish","Shoe Brushes","Shoe Care Accessories"],"products":["Kiwi Black Shoe Polish","Kiwi Shoe Shine Sponge","Wooden Shoe Brush","Shoe Cleaning Cloth"]},
-    {"name":"Stores","subcategories":["Featured Stores","Brand Stores","Local Favourites"],"products":[]},
-    {"name":"Print Store","subcategories":["Photo Prints","Custom Gifts","Business Printing"],"products":[]},
-    {"name":"Rakhi Gifts","subcategories":["Rakhi","Rakhi Gift Hampers","Return Gifts"],"products":["Traditional Zari Rakhi","Kids Cartoon Rakhi","Rakhi Chocolate Gift Box","Dry Fruit Gift Hamper"]},
-    {"name":"E-Cards","subcategories":["Birthday E-Cards","Anniversary E-Cards","Festive E-Cards"],"products":[]},
-    {"name":"E-Gift Cards","subcategories":["Digital Gift Cards","Brand Gift Cards"],"products":[]}
+    {
+      "name": "Bath & Body",
+      "subcategories": [
+        "Bathing Soaps",
+        "Shower Gels & Scrubs",
+        "Oral Care",
+        "Handwash",
+        "Fragrance & Talc",
+        "Bath Accessories",
+        "Shampoo",
+        "Conditioner",
+        "Face Cleaning",
+        "Body Lotions & Oils",
+        "Body Treatment & Roll On",
+        "Bath & Beauty Gifts"
+      ],
+      "products": [
+        {
+          "name": "Dove Cream Beauty Bathing Bar",
+          "priceINR": 45,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Pears Pure & Gentle Soap",
+          "priceINR": 45,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Lifebuoy Total Soap",
+          "priceINR": 30,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Nivea Shower Gel",
+          "priceINR": 125,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Fiama Shower Gel",
+          "priceINR": 110,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Dettol Handwash",
+          "priceINR": 99,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Colgate Strong Teeth Toothpaste",
+          "priceINR": 65,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Sensodyne Fresh Mint Toothpaste",
+          "priceINR": 180,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Listerine Cool Mint Mouthwash",
+          "priceINR": 160,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Nivea Soft Cream",
+          "priceINR": 145,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Vaseline Intensive Care Lotion",
+          "priceINR": 180,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Parachute Coconut Hair Oil",
+          "priceINR": 110,
+          "priceType": "indicative"
+        }
+      ]
+    },
+    {
+      "name": "Hair",
+      "subcategories": [
+        "Shampoo",
+        "Conditioner",
+        "Hair Colour",
+        "Hair Oil & Cream",
+        "Hair Serums",
+        "Hair Styling",
+        "Appliances",
+        "Hair Accessories"
+      ],
+      "products": [
+        {
+          "name": "Dove Daily Shine Shampoo",
+          "priceINR": 180,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Head & Shoulders Cool Menthol Shampoo",
+          "priceINR": 190,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Clinic Plus Strong & Long Shampoo",
+          "priceINR": 95,
+          "priceType": "indicative"
+        },
+        {
+          "name": "L'Oréal Paris Total Repair Conditioner",
+          "priceINR": 220,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Dove Intense Repair Conditioner",
+          "priceINR": 180,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Garnier Color Naturals Hair Colour",
+          "priceINR": 120,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Parachute Advansed Coconut Hair Oil",
+          "priceINR": 110,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Livon Hair Serum",
+          "priceINR": 160,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Set Wet Styling Gel",
+          "priceINR": 149,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Philips Hair Dryer",
+          "priceINR": 799,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Wide Tooth Hair Comb",
+          "priceINR": 35,
+          "priceType": "indicative"
+        },
+        {
+          "name": "U-Shape Hair Clips",
+          "priceINR": 60,
+          "priceType": "indicative"
+        }
+      ]
+    },
+    {
+      "name": "Skin & Face",
+      "subcategories": [
+        "Face Moisturisers",
+        "Body Lotions & Oils",
+        "Sunscreen",
+        "Face Cleaning",
+        "Face Oil, Serum & Essence",
+        "Lip & Eye Care",
+        "Face Masks & Packs",
+        "Toners & Mists",
+        "Acne & Blackhead Fixers",
+        "Men's Grooming",
+        "Women's Grooming"
+      ],
+      "products": [
+        {
+          "name": "Pond's Super Light Gel",
+          "priceINR": 180,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Cetaphil Moisturising Cream",
+          "priceINR": 499,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Lakmé Sun Expert SPF 50",
+          "priceINR": 249,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Neutrogena UltraSheer Sunscreen",
+          "priceINR": 399,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Himalaya Neem Face Wash",
+          "priceINR": 299,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Simple Refreshing Face Wash",
+          "priceINR": 299,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Garnier Vitamin C Serum",
+          "priceINR": 249,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Minimalist Niacinamide 10% Serum",
+          "priceINR": 399,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Nivea Lip Balm",
+          "priceINR": 125,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Himalaya Purifying Neem Mask",
+          "priceINR": 149,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Garnier Micellar Water",
+          "priceINR": 299,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Gillette Fusion Razor",
+          "priceINR": 399,
+          "priceType": "indicative"
+        }
+      ]
+    },
+    {
+      "name": "Beauty & Cosmetics",
+      "subcategories": [
+        "Lipstick & Gloss",
+        "Cleansers & Toners",
+        "Foundation & Compact",
+        "Blush & Highlighter",
+        "Primer & Concealer",
+        "Kajal & Eyeliners",
+        "Bindi, Bangles & Others",
+        "Nail Paints & Accessories",
+        "Beauty Accessories",
+        "Bath & Beauty Gifts",
+        "Beauty E-Card"
+      ],
+      "products": [
+        {
+          "name": "Maybelline Creamy Matte Lipstick",
+          "priceINR": 45,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Lakmé 9to5 Primer + Matte Foundation",
+          "priceINR": 45,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Maybelline Fit Me Compact",
+          "priceINR": 55,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Swiss Beauty Baked Blush",
+          "priceINR": 60,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Maybelline Fit Me Concealer",
+          "priceINR": 299,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Lakmé Eyeconic Kajal",
+          "priceINR": 199,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Maybelline Colossal Eyeliner",
+          "priceINR": 149,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Lakmé Color Crush Nail Polish",
+          "priceINR": 249,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Colorbar Makeup Brush",
+          "priceINR": 99,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Beauty Blender Makeup Sponge",
+          "priceINR": 199,
+          "priceType": "indicative"
+        }
+      ]
+    },
+    {
+      "name": "Feminine Hygiene",
+      "subcategories": [
+        "Sanitary Pads",
+        "Tampons & Menstrual Cups",
+        "Period Panty",
+        "Period Pain Relief",
+        "Intimate Wash & Wipes",
+        "Hair Removal"
+      ],
+      "products": [
+        {
+          "name": "Whisper Ultra Clean Sanitary Pads",
+          "priceINR": 99,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Stayfree Secure Cottony Soft Pads",
+          "priceINR": 199,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Sofy Antibacteria Pads",
+          "priceINR": 149,
+          "priceType": "indicative"
+        },
+        {
+          "name": "Sirona Menstrual Cup",
+          "priceINR": 99,
+          "priceType": "indicative"
+        },
+        "Pee Safe Intimate Wash",
+        "Veet Hair Removal Cream"
+      ]
+    },
+    {
+      "name": "Mom Care",
+      "subcategories": [
+        "Pregnancy Care",
+        "Maternity Essentials",
+        "Postnatal Care"
+      ],
+      "products": [
+        "Mothercare Maternity Nursing Pads",
+        "Pigeon Breast Pads",
+        "Mothercare Maternity Pillow",
+        "Mee Mee Feeding Bottle"
+      ]
+    },
+    {
+      "name": "Baby Care",
+      "subcategories": [
+        "Diaper & Wipes",
+        "Baby Food",
+        "Baby Shampoo & Soaps",
+        "Skin & Hair Care",
+        "Feeding Essentials",
+        "Clothes & Accessories",
+        "Health & Hygiene",
+        "Baby Oral Care",
+        "Baby Toys & Gifts",
+        "Baby Gear",
+        "Mom Care Needs"
+      ],
+      "products": [
+        "Pampers Active Baby Diapers",
+        "Huggies Wonder Pants",
+        "Mother Sparsh Baby Wipes",
+        "Johnson's Baby Shampoo",
+        "Himalaya Baby Soap",
+        "Cetaphil Baby Lotion",
+        "Cerelac Wheat Apple Cereal",
+        "Philips Avent Feeding Bottle",
+        "Mee Mee Baby Nail Clipper",
+        "Baby Toothbrush",
+        "Soft Baby Rattle",
+        "Baby Cotton Bibs"
+      ]
+    },
+    {
+      "name": "Health & Pharma",
+      "subcategories": [
+        "Fever & Pain Relief",
+        "Cough, Cold & Flu",
+        "Masks & Sanitizers",
+        "Stomach & Digestive Care",
+        "Protein Supplements",
+        "Vitamins & Supplements",
+        "Derma Medicines",
+        "Bandaid & Wound Care",
+        "Eye & Ear Care",
+        "Adult Diapers",
+        "Health & Ortho Supports",
+        "Gynaecology Medicines",
+        "Oral Care",
+        "Diabetes Medicines",
+        "Heart Medicines",
+        "Neuro Medicines",
+        "Hangover Cure",
+        "Health & Wellness E-Cards"
+      ],
+      "products": [
+        "Dettol Antiseptic Liquid",
+        "Savlon Antiseptic Liquid",
+        "Dr. Morepen Digital Thermometer",
+        "N95 Protective Mask",
+        "Hand Sanitizer",
+        "Hansaplast Washproof Bandages",
+        "Omron Digital Blood Pressure Monitor",
+        "Accu-Chek Glucometer Starter Kit",
+        "Tynor Knee Cap",
+        "Adult Care Protective Underwear"
+      ]
+    },
+    {
+      "name": "Sexual Wellness",
+      "subcategories": [
+        "Massagers",
+        "Condoms",
+        "Lubricants",
+        "Enhancers",
+        "Adult Games",
+        "Test Kits",
+        "Medicines"
+      ],
+      "products": [],
+      "catalogueNote": "Age-restricted and regulated products are not included in this starter catalogue."
+    },
+    {
+      "name": "Vegetables & Fruits",
+      "subcategories": [
+        "All",
+        "Fresh Vegetables",
+        "Fresh Fruits",
+        "Exotics",
+        "Coriander & Others",
+        "Freshly Cut & Sprouts",
+        "Trusted Organics",
+        "Flowers & Leaves",
+        "Seasonal",
+        "Frozen Veg",
+        "Hydroponic"
+      ],
+      "products": [
+        "Potato 1 kg",
+        "Onion 1 kg",
+        "Tomato 500 g",
+        "Green Capsicum 500 g",
+        "Cucumber 500 g",
+        "Carrot 500 g",
+        "Cauliflower 1 pc",
+        "Spinach 1 bunch",
+        "Coriander 1 bunch",
+        "Green Chilli 100 g",
+        "Banana 6 pcs",
+        "Apple 4 pcs",
+        "Kinnow 1 kg",
+        "Pomegranate 2 pcs",
+        "Mango 1 kg",
+        "Broccoli 1 pc",
+        "Button Mushroom 200 g",
+        "Lemon 250 g",
+        "Coconut 1 pc",
+        "Sweet Corn 2 pcs"
+      ]
+    },
+    {
+      "name": "Atta, Rice & Dal",
+      "subcategories": [
+        "Atta",
+        "Rice",
+        "Dal",
+        "Besan, Sooji & Maida",
+        "Rajma, Chhole & Others",
+        "Millet & Other Flours",
+        "Organic",
+        "Poha, Daliya & Other Grains",
+        "Summer Specials"
+      ],
+      "products": [
+        "Aashirvaad Whole Wheat Atta 5 kg",
+        "Fortune Chakki Fresh Atta 5 kg",
+        "India Gate Classic Basmati Rice 1 kg",
+        "Daawat Rozana Gold Rice 5 kg",
+        "Tata Sampann Toor Dal 1 kg",
+        "Tata Sampann Moong Dal 1 kg",
+        "Tata Sampann Chana Dal 1 kg",
+        "Rajdhani Besan 500 g",
+        "Fortune Suji 500 g",
+        "Rajdhani Maida 1 kg",
+        "Rajma 500 g",
+        "Kabuli Chana 500 g",
+        "Organic Tattva Ragi Flour 500 g",
+        "Poha 500 g",
+        "Daliya 500 g"
+      ]
+    },
+    {
+      "name": "Oil, Ghee & Masala",
+      "subcategories": [
+        "Oil",
+        "Desi Ghee",
+        "Cow Ghee",
+        "Powdered Spices",
+        "Non Veg Spices",
+        "Salt, Sugar & Jaggery",
+        "Whole Spices",
+        "Gravy Mixes & Pastes",
+        "Herbs & Seasoning",
+        "Organic"
+      ],
+      "products": [
+        "Fortune Sunflower Oil 1 L",
+        "Dhara Mustard Oil 1 L",
+        "Amul Pure Ghee 1 L",
+        "Patanjali Cow Ghee 1 L",
+        "Everest Turmeric Powder 100 g",
+        "Everest Red Chilli Powder 100 g",
+        "MDH Garam Masala 100 g",
+        "Tata Salt 1 kg",
+        "Madhur Sugar 1 kg",
+        "Tata Sampann Cumin Seeds 100 g",
+        "Catch Black Pepper 50 g",
+        "Everest Kitchen King Masala 100 g",
+        "Ginger Garlic Paste 200 g"
+      ]
+    },
+    {
+      "name": "Dairy, Bread & Eggs",
+      "subcategories": [
+        "Milk",
+        "Bread & Pav",
+        "Eggs",
+        "Curd & Yogurt",
+        "Cheese & Butter",
+        "Batter",
+        "Paneer & Tofu",
+        "Soy Milk & More",
+        "Lassi & Milkshakes",
+        "Cream & Whitener"
+      ],
+      "products": [
+        "Amul Taaza Toned Milk 1 L",
+        "Mother Dairy Full Cream Milk 1 L",
+        "Amul Masti Dahi 400 g",
+        "Mother Dairy Classic Curd 400 g",
+        "Amul Butter 100 g",
+        "Amul Cheese Slices 200 g",
+        "Fresh White Bread 400 g",
+        "Pav 6 pcs",
+        "Farm Fresh Eggs 6 pcs",
+        "Amul Paneer 200 g",
+        "Soy Milk 1 L",
+        "Amul Lassi  pack",
+        "Idli Dosa Batter 1 kg",
+        "Amul Fresh Cream 250 ml"
+      ]
+    },
+    {
+      "name": "Bakery & Biscuits",
+      "subcategories": [
+        "Cookies",
+        "Cream Biscuits",
+        "Healthy & Digestive",
+        "Sweet & Salty",
+        "Glucose & Marie",
+        "Rusks & Wafers",
+        "Cakes & Rolls",
+        "Baking Ingredients",
+        "Gourmet Bakery",
+        "Biscuit Gift Pack"
+      ],
+      "products": [
+        "Britannia Good Day Butter Cookies",
+        "Sunfeast Dark Fantasy Choco Fills",
+        "Parle-G Original Glucose Biscuits",
+        "Britannia NutriChoice Digestive",
+        "Oreo Original Cream Biscuits",
+        "McVitie's Digestive Biscuits",
+        "Britannia Toast Rusk",
+        "Unibic Choco Chip Cookies",
+        "Britannia Treat Croissant",
+        "Brownie Slice",
+        "Vanilla Muffin 2 pcs",
+        "Weikfield Baking Powder"
+      ]
+    },
+    {
+      "name": "Dry Fruits & Cereals",
+      "subcategories": [
+        "Dry Fruits",
+        "Dry Fruits Snacks",
+        "Corn Flakes & Kids Cereals",
+        "Muesli & Granola",
+        "Oats & Daliya",
+        "Dates",
+        "Seeds",
+        "Vermicelli & Poha",
+        "Organic & Premium",
+        "Dry Fruit Gift Packs"
+      ],
+      "products": [
+        "Almonds 200 g",
+        "Cashews 200 g",
+        "Pistachios 100 g",
+        "Raisins 200 g",
+        "Happilo Trail Mix 200 g",
+        "Kellogg's Corn Flakes 500 g",
+        "Kellogg's Chocos 375 g",
+        "Bagrry's Muesli 500 g",
+        "Quaker Oats 1 kg",
+        "Lion Dates 500 g",
+        "Chia Seeds 100 g",
+        "Roasted Pumpkin Seeds 100 g",
+        "Vermicelli 400 g",
+        "Poha 500 g"
+      ]
+    },
+    {
+      "name": "Chicken, Meat & Fish",
+      "subcategories": [
+        "Chicken",
+        "Fresh Meat",
+        "Fish & Seafood",
+        "Mutton",
+        "Frozen Non-Veg Snacks",
+        "Non Veg Spices",
+        "Sausage, Salami & Ham",
+        "Exotic Meat",
+        "Fresh Marinades",
+        "Plant Based Meat",
+        "Eggs"
+      ],
+      "products": [
+        "Fresh Chicken Curry Cut 500 g",
+        "Chicken Breast Boneless 500 g",
+        "Chicken Drumsticks 500 g",
+        "Rohu Fish Curry Cut 500 g",
+        "Prawns Medium 250 g",
+        "Fresh Mutton Curry Cut 500 g",
+        "Frozen Chicken Nuggets 400 g",
+        "Chicken Seekh Kebab 250 g",
+        "Plant-Based Nuggets 250 g"
+      ],
+      "catalogueNote": "Fresh meat and seafood require verified cold-chain sourcing and local availability."
+    },
+    {
+      "name": "Kitchenware & Appliances",
+      "subcategories": [
+        "Bottles & Flasks",
+        "Kitchen Accessories",
+        "Mugs & Glasses",
+        "Cookware & Sets",
+        "Storage & Containers",
+        "Barware",
+        "Lunch Boxes",
+        "Cutting & Chopping",
+        "Dining & Serveware",
+        "Kitchen Appliances",
+        "Tissues & Disposables"
+      ],
+      "products": [
+        "Milton Thermosteel Water Bottle 1 L",
+        "Cello Plastic Water Bottle 1 L",
+        "Borosil Glass Set 6 pcs",
+        "Prestige Nonstick Fry Pan  t",
+        "Stainless Steel Saucepan 1 pc",
+        "Lock & Lock Food Container",
+        "Lunch Box 3 Compartment",
+        "Stainless Steel Vegetable Peeler",
+        "Pigeon Electric Kettle 1.5 L",
+        "Philips Mixer Grinder",
+        "Paper Napkins 100 pcs"
+      ]
+    },
+    {
+      "name": "Chips & Namkeen",
+      "subcategories": [
+        "Chips & Wafers",
+        "Bhujia & Mixtures",
+        "Namkeen Snacks",
+        "Nachos",
+        "Healthy Snacks",
+        "Popcorn",
+        "Papad & Fryums",
+        "Premium",
+        "Gift Packs"
+      ],
+      "products": [
+        "Lay's Classic Salted Chips",
+        "Kurkure Masala Munch",
+        "Haldiram's Aloo Bhujia",
+        "Haldiram's Moong Dal",
+        "Bingo! Mad Angles",
+        "Doritos Nacho Cheese",
+        "Act II Classic Salted Popcorn",
+        "Too Yumm Multigrain Chips",
+        "Lijjat Papad",
+        "Haldiram's Namkeen Gift Pack"
+      ]
+    },
+    {
+      "name": "Sweets & Chocolates",
+      "subcategories": [
+        "Chocolates",
+        "Chocolate Packs",
+        "Chocolate Gift Pack",
+        "Indian Sweets",
+        "Candies & Gum",
+        "Premium",
+        "Energy Bars",
+        "Syrups"
+      ],
+      "products": [
+        "Cadbury Dairy Milk Silk",
+        "Cadbury Dairy Milk",
+        "KitKat 4 Finger",
+        "Ferrero Rocher 16 pcs",
+        "Amul Dark Chocolate",
+        "Haldiram's Soan Papdi",
+        "Kaju Katli 250 g",
+        "Gulab Jamun 1 kg",
+        "Alpenliebe Candy",
+        "Hershey's Chocolate Syrup",
+        "Yoga Bar Energy Bar"
+      ]
+    },
+    {
+      "name": "Drinks & Juices",
+      "subcategories": [
+        "Soft Drinks",
+        "Fruit Juices",
+        "Zero Sugar Drinks",
+        "Caffeinated Drinks",
+        "Hydration Drinks",
+        "Soda & Mixers",
+        "Water & Ice Cubes",
+        "Mango Drinks",
+        "Soy Milk & More",
+        "Cold Coffee & Ice Tea",
+        "Coconut Water",
+        "Concentrates & Syrups",
+        "Premium",
+        "Beverages Gift Packs"
+      ],
+      "products": [
+        "Coca-Cola Original Taste 750 ml",
+        "Thums Up 750 ml",
+        "Sprite 750 ml",
+        "Real Fruit Power Orange 1 L",
+        "Tropicana Apple Juice 1 L",
+        "Paper Boat Aam Panna  pack",
+        "Red Bull Energy Drink 250 ml",
+        "Gatorade Sports Drink 500 ml",
+        "Bisleri Soda 750 ml",
+        "Packaged Drinking Water 1 L",
+        "Raw Pressery Coconut Water 1 L",
+        "Cold Coffee 250 ml",
+        "Nestea Iced Tea  pack"
+      ]
+    },
+    {
+      "name": "Tea, Coffee & Milk Drinks",
+      "subcategories": [
+        "Tea",
+        "Coffee",
+        "Hot Chocolate",
+        "Green Tea",
+        "Milk Drinks",
+        "Cold Coffee & Ice Tea",
+        "Bags & Premixes",
+        "Premium",
+        "Herbal Infusion"
+      ],
+      "products": [
+        "Tata Tea Gold 500 g",
+        "Taj Mahal Tea 250 g",
+        "Nescafé Classic Coffee 100 g",
+        "Bru Instant Coffee 100 g",
+        "Cadbury Hot Chocolate 200 g",
+        "Organic India Tulsi Green Tea",
+        "Tetley Green Tea Bags",
+        "Bournvita 500 g",
+        "Horlicks Classic Malt 500 g",
+        "Continental Coffee Premix",
+        "Chamomile Herbal Tea"
+      ]
+    },
+    {
+      "name": "Instant Food",
+      "subcategories": [
+        "Noodles",
+        "Frozen Veg Snacks",
+        "Pasta",
+        "Frozen Non-Veg Snacks",
+        "Soup",
+        "Ready to Eat",
+        "Idli & Dosa Batter",
+        "Dessert & Cake Mixes",
+        "Organic & Premium",
+        "Energy Bars"
+      ],
+      "products": [
+        "Maggi 2-Minute Masala Noodles",
+        "Sunfeast Yippee Magic Masala",
+        "Top Ramen Curry Noodles",
+        "Bambino Macaroni 400 g",
+        "Del Monte Pasta 500 g",
+        "Knorr Sweet Corn Soup",
+        "MTR Ready to Eat Paneer Butter Masala",
+        "Haldiram's Ready to Eat Rajma",
+        "Gits Gulab Jamun Mix",
+        "MTR Idli Mix",
+        "McCain French Fries  frozen",
+        "Yoga Bar Energy Bar"
+      ]
+    },
+    {
+      "name": "Sauces & Spreads",
+      "subcategories": [
+        "Tomato Ketchup",
+        "Jam & Spreads",
+        "Mayonnaise",
+        "Chutney & Pickle",
+        "Peanut Butter",
+        "Asian Sauces",
+        "Chyawanprash & Honey",
+        "Syrups",
+        "Dips & Salad Dressings",
+        "Cooking Sauces",
+        "Premium"
+      ],
+      "products": [
+        "Kissan Fresh Tomato Ketchup 500 g",
+        "Maggi Hot & Sweet Sauce 500 g",
+        "Kissan Mixed Fruit Jam 500 g",
+        "FunFoods Veg Mayonnaise 250 g",
+        "Patanjali Mango Pickle 500 g",
+        "Pintola Classic Peanut Butter 1 kg",
+        "Ching's Schezwan Chutney 250 g",
+        "Dabur Honey 500 g",
+        "Veeba Thousand Island Dressing",
+        "Del Monte Pasta Sauce"
+      ]
+    },
+    {
+      "name": "Paan Corner",
+      "subcategories": [
+        "Cigarettes",
+        "Lighters",
+        "Cigar",
+        "Rolling Needs",
+        "Hookah Needs",
+        "Rolling Tobacco",
+        "Paan Masala",
+        "Ashtrays",
+        "Mouth Fresheners & Gums",
+        "Non-Tobacco Blends",
+        "Smoking Cessation"
+      ],
+      "products": [
+        "Rajnigandha Silver Pearls Mouth Freshener",
+        "Pass Pass Mouth Freshener",
+        "Orbit Peppermint Gum",
+        "Center Fresh Mint Gum"
+      ],
+      "catalogueNote": "Tobacco, cigarettes, cigars and related restricted goods are intentionally excluded."
+    },
+    {
+      "name": "Ice Creams & More",
+      "subcategories": [
+        "Tubs",
+        "Sticks",
+        "Cones",
+        "Cassata & Sandwich",
+        "Single Serve Cups",
+        "Cakes & Others",
+        "Guilt-Free",
+        "Gourmet",
+        "Syrups"
+      ],
+      "products": [
+        "Amul Vanilla Ice Cream Tub 1 L",
+        "Amul Rajbhog Ice Cream Tub 1 L",
+        "Kwality Wall's Cornetto Chocolate",
+        "Magnum Classic Stick",
+        "Vadilal Cassata Slice",
+        "Amul Real Ice Cream Cup",
+        "Naturals Tender Coconut Ice Cream",
+        "Baskin Robbins Ice Cream Tub",
+        "Chocolate Dessert Syrup"
+      ]
+    },
+    {
+      "name": "Home & Lifestyle",
+      "subcategories": [
+        "Home Decor",
+        "Plants & Bouquets",
+        "Bedsheets & Towels",
+        "Gardening",
+        "Decorative Lights",
+        "Home Needs",
+        "Tissues & Disposables",
+        "Jewellery",
+        "Innerwear",
+        "Lifestyle Accessories",
+        "Party & Festive Needs",
+        "Socks & Handkerchiefs",
+        "Fresheners",
+        "Pooja Needs",
+        "Bathroom Essentials",
+        "Bags",
+        "E-Gift Cards"
+      ],
+      "products": [
+        "Decorative Cushion Cover",
+        "Artificial Indoor Plant",
+        "Cotton Bedsheet Double",
+        "Cotton Bath Towel",
+        "Garden Hand Trowel",
+        "LED String Lights",
+        "Facial Tissue Box",
+        "Stainless Steel Hair Claw Clip",
+        "Cotton Ankle Socks",
+        "Scented Room Freshener",
+        "Cotton Wicks for Pooja",
+        "Bathroom Soap Dispenser",
+        "Reusable Shopping Tote Bag",
+        "Gift Wrapping Paper"
+      ]
+    },
+    {
+      "name": "Cleaners & Repellents",
+      "subcategories": [
+        "Repellents & Disinfectants",
+        "Detergent Powder & Bars",
+        "Liquid Detergents",
+        "Laundry Additives",
+        "Dishwashing Gels & Bars",
+        "Dishwashing Accessories",
+        "Toilet Cleaners",
+        "Floor Cleaners",
+        "Cleaning Tools",
+        "Garbage Bags",
+        "Glass, Metal Cleaners & Others",
+        "Shoe Care",
+        "Machine & Car Care",
+        "Household Appliance Cleaners"
+      ],
+      "products": [
+        "Lizol Disinfectant Floor Cleaner 1 L",
+        "Harpic Power Plus Toilet Cleaner 500 ml",
+        "Vim Dishwash Gel 500 ml",
+        "Vim Dishwash Bar 200 g",
+        "Surf Excel Easy Wash Detergent 1 kg",
+        "Tide Plus Detergent 1 kg",
+        "Comfort Fabric Conditioner 860 ml",
+        "Goodknight Fast Card",
+        "Scotch-Brite Scrub Pad",
+        "Gala Floor Wiper",
+        "Garbage Bags Medium",
+        "Colin Glass Cleaner 500 ml",
+        "Vanish Stain Remover 500 g"
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategories": [
+        "Trimmers & Hair Appliances",
+        "Earphones & Headsets",
+        "Speakers",
+        "Mobile & Computer",
+        "Decorative Lights",
+        "Chargers & Cables",
+        "Smart Watches",
+        "Kitchen Appliances",
+        "Laptop & Mobile Phones",
+        "Batteries",
+        "Extension Cables & Accessories",
+        "Home Appliances",
+        "Music Instruments & Accessories",
+        "Electronics E-Card"
+      ],
+      "products": [
+        "Philips Beard Trimmer",
+        "boAt Airdopes Wireless Earbuds",
+        "JBL Go Portable Speaker",
+        "USB-C Fast Charging Cable",
+        "Ambrane 20W USB-C Charger",
+        "Portronics Power Bank 10000 mAh",
+        "Fire-Boltt Smart Watch",
+        "Duracell AA Batteries 4 pcs",
+        "Belkin Extension Board",
+        "Logitech Wireless Mouse",
+        "TP-Link Wi-Fi Router",
+        "Philips LED Bulb 9W"
+      ]
+    },
+    {
+      "name": "Stationery & Games",
+      "subcategories": [
+        "Notebooks & Diaries",
+        "Pens & Pencils",
+        "Toys & Games",
+        "Glue & Tape",
+        "Books & Magazines",
+        "Bags & School Needs",
+        "Children's Books",
+        "Arts & Crafts",
+        "Files & Office Needs",
+        "Gift Wraps & Bags"
+      ],
+      "products": [
+        "Classmate Single Line Notebook",
+        "Navneet Long Book",
+        "Reynolds 045 Ball Pen",
+        "Nataraj HB Pencil Pack",
+        "Fevicol MR Adhesive",
+        "Cello Tape 1 inch",
+        "Camel Wax Crayons 24 Shades",
+        "DOMS Colour Pencils",
+        "UNO Card Game",
+        "Rubik's Cube 3x3",
+        "A4 Copier Paper 500 Sheets",
+        "Document Folder"
+      ]
+    },
+    {
+      "name": "Sports & Gym",
+      "subcategories": [
+        "Fitness Accessories",
+        "Gym Equipment",
+        "Sports Gear",
+        "Outdoor Games"
+      ],
+      "products": [
+        "Boldfit Yoga Mat",
+        "Decathlon Skipping Rope",
+        "Cockatoo Hand Grip Strengthener",
+        "Cosco Tennis Ball",
+        "Nivia Football",
+        "Adjustable Dumbbell Pair",
+        "Resistance Band Set",
+        "Insulated Sports Water Bottle"
+      ]
+    },
+    {
+      "name": "Shoe Polish & Brush",
+      "subcategories": [
+        "Shoe Polish",
+        "Shoe Brushes",
+        "Shoe Care Accessories"
+      ],
+      "products": [
+        "Kiwi Black Shoe Polish",
+        "Kiwi Shoe Shine Sponge",
+        "Wooden Shoe Brush",
+        "Shoe Cleaning Cloth"
+      ]
+    },
+    {
+      "name": "Stores",
+      "subcategories": [
+        "Featured Stores",
+        "Brand Stores",
+        "Local Favourites"
+      ],
+      "products": []
+    },
+    {
+      "name": "Print Store",
+      "subcategories": [
+        "Photo Prints",
+        "Custom Gifts",
+        "Business Printing"
+      ],
+      "products": []
+    },
+    {
+      "name": "Rakhi Gifts",
+      "subcategories": [
+        "Rakhi",
+        "Rakhi Gift Hampers",
+        "Return Gifts"
+      ],
+      "products": [
+        "Traditional Zari Rakhi",
+        "Kids Cartoon Rakhi",
+        "Rakhi Chocolate Gift Box",
+        "Dry Fruit Gift Hamper"
+      ]
+    },
+    {
+      "name": "E-Cards",
+      "subcategories": [
+        "Birthday E-Cards",
+        "Anniversary E-Cards",
+        "Festive E-Cards"
+      ],
+      "products": []
+    },
+    {
+      "name": "E-Gift Cards",
+      "subcategories": [
+        "Digital Gift Cards",
+        "Brand Gift Cards"
+      ],
+      "products": []
+    }
   ]
 }

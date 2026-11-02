@@ -62,7 +62,11 @@
         },
         {
           "name": "Listerine Cool Mint Mouthwash",
-          "priceINR": 160
+          "priceINR": 160,
+          "imageUrl": "https://www.jiomart.com/images/product/original/490823636/listerine-cool-mint-mouthwash-500-ml-product-images-o490823636-p490823636-0-202209221923.jpg?im=Resize%3D%281000%2C1000%29",
+          "galleryImages": [
+            "https://www.jiomart.com/images/product/original/490823636/listerine-cool-mint-mouthwash-500-ml-product-images-o490823636-p490823636-0-202209221923.jpg?im=Resize%3D%281000%2C1000%29"
+          ]
         },
         {
           "name": "Nivea Soft Cream",

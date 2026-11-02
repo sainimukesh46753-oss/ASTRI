@@ -272,7 +272,8 @@
         },
         {
           "name": "Lakmé 9to5 Primer + Matte Foundation",
-          "priceINR": 45
+          "priceINR": 45,
+          "imageUrl": "https://ssbimages.ssbeauty.in/pub/media/catalog/product/images/206171539/206171539_base.jpg"
         },
         {
           "name": "Maybelline Fit Me Compact",
@@ -282,7 +283,8 @@
         },
         {
           "name": "Swiss Beauty Baked Blush",
-          "priceINR": 60
+          "priceINR": 60,
+          "imageUrl": "https://swissbeauty.in/cdn/shop/files/SB-806_03_FOP.jpg?v=1748634827&width=620"
         },
         {
           "name": "Maybelline Fit Me Concealer",
@@ -292,7 +294,8 @@
         },
         {
           "name": "Lakmé Eyeconic Kajal",
-          "priceINR": 199
+          "priceINR": 199,
+          "imageUrl": "https://www.lakmeindia.com/cdn/shop/files/29432_S1-8901030979538_ac175923-7bb1-494a-b046-4d0c7bffeafe_1000x.jpg?v=1742201670"
         },
         {
           "name": "Maybelline Colossal Eyeliner",

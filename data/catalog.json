@@ -22,7 +22,8 @@
       "products": [
         {
           "name": "Dove Cream Beauty Bathing Bar",
-          "priceINR": 45
+          "priceINR": 45,
+          "imageUrl": "https://m237.apollo247.com/pub/media/catalog/product/D/O/DOV0022_1-JULY23_1.jpg"
         },
         {
           "name": "Pears Pure & Gentle Soap",

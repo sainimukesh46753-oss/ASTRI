@@ -70,15 +70,21 @@
         },
         {
           "name": "Nivea Soft Cream",
-          "priceINR": 145
+          "priceINR": 145,
+          "imageUrl": "https://kuludonline.com/cdn/shop/files/66192_f945fc6a-1e1f-4849-a9fa-6f9223020d05.jpg?v=1746785789",
+          "imageSource": "Kulud Online Pharmacy product listing"
         },
         {
           "name": "Vaseline Intensive Care Lotion",
-          "priceINR": 180
+          "priceINR": 180,
+          "imageUrl": "https://manmohni.pk/cdn/shop/files/VaselineDrySkinRepairIntensiveCareLotion200mlOnlineinPakistanonManmohni.webp?v=1722701332",
+          "imageSource": "Manmohni product listing"
         },
         {
           "name": "Parachute Coconut Hair Oil",
-          "priceINR": 110
+          "priceINR": 110,
+          "imageUrl": "https://lemon.sa/image/catalog/593473_main.png",
+          "imageSource": "Lemon product listing"
         }
       ]
     },
@@ -191,7 +197,9 @@
         },
         {
           "name": "Himalaya Neem Face Wash",
-          "priceINR": 299
+          "priceINR": 299,
+          "imageUrl": "https://easydeal.com.bd/public/uploads/all/uZMEP1XJYT4e26BhinCbGEuJ8XqEPrTolV7I83rE.jpg",
+          "imageSource": "Easy Deal product listing"
         },
         {
           "name": "Simple Refreshing Face Wash",

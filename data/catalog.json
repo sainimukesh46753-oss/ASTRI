@@ -93,35 +93,43 @@
       "products": [
         {
           "name": "Dove Daily Shine Shampoo",
-          "priceINR": 180
+          "priceINR": 180,
+          "imageUrl": "https://images.apollo247.in/pub/media/catalog/product/D/O/DOV0013_1-JULY23_1.jpg"
         },
         {
           "name": "Head & Shoulders Cool Menthol Shampoo",
-          "priceINR": 190
+          "priceINR": 190,
+          "imageUrl": "https://images.ctfassets.net/j6utfne5ne6b/5CPb4onpUl2590nOdLmU2c/a5da950a50dd44d5281ecdd076354dc0/Banner-1600x1600-GREEN.jpg"
         },
         {
           "name": "Clinic Plus Strong & Long Shampoo",
-          "priceINR": 95
+          "priceINR": 95,
+          "imageUrl": "https://www.vishalmegamart.com/dw/image/v2/BGHT_PRD/on/demandware.static/-/Sites-vmm-fmcg-master-catalog/default/dw6b71cc21/images/large/1311000992.jpg?sh=900&sw=900"
         },
         {
           "name": "L'Oréal Paris Total Repair Conditioner",
-          "priceINR": 220
+          "priceINR": 220,
+          "imageUrl": "https://glamzy.in/_next/image?q=75&url=https%3A%2F%2Fcdn2.buyeazzy.com%2Ffit-in%2F1500x1500%2Fproduction%2Fab93293095ce525d0e04e5b5e336a5b4%2F61PMTJWD7vL._SL1500_.jpg&w=750"
         },
         {
           "name": "Dove Intense Repair Conditioner",
-          "priceINR": 180
+          "priceINR": 180,
+          "imageUrl": "https://cdn.sybazzar.com/public/840-840/files/0772665435F4EA1-dove.jpg"
         },
         {
           "name": "Garnier Color Naturals Hair Colour",
-          "priceINR": 120
+          "priceINR": 120,
+          "imageUrl": "https://objectstorage.ap-mumbai-1.oraclecloud.com/n/softlogicbicloud/b/cdn/o/products/600-600/121609--01--1646231009.jpeg"
         },
         {
           "name": "Parachute Advansed Coconut Hair Oil",
-          "priceINR": 110
+          "priceINR": 110,
+          "imageUrl": "https://www.desiclik.com/images/P/parachuteadvanced175-01.jpg"
         },
         {
           "name": "Livon Hair Serum",
-          "priceINR": 160
+          "priceINR": 160,
+          "imageUrl": "https://images.apollo247.in/pub/media/catalog/product/L/I/LIV0916_1.jpg"
         },
         {
           "name": "Set Wet Styling Gel",

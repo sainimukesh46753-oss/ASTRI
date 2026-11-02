@@ -282,7 +282,9 @@
         },
         {
           "name": "Maybelline Fit Me Concealer",
-          "priceINR": 299
+          "priceINR": 299,
+          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/face/concealer/fit-me-concealer/golden/fmt-golden_36.jpg?ch=472&cw=315&cx=0.48&cy=0.42&hash=D33DFB45D0E3FFA754D28F2B6B6CF816&rev=eba83e098cb949abab820b1717b3fded",
+          "imageSource": "Maybelline India"
         },
         {
           "name": "Lakmé Eyeconic Kajal",
@@ -290,7 +292,9 @@
         },
         {
           "name": "Maybelline Colossal Eyeliner",
-          "priceINR": 149
+          "priceINR": 149,
+          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/eye-makeup/liners/colossal-liner/modules/product-info/315-x-472-01-eyeliner.jpg?ch=472&cw=315&cx=0&cy=0&hash=C7F650407B2706CF7FD9C64477A55DD6&rev=ed1cdd445fa746d2809ec96b6f979edc",
+          "imageSource": "Maybelline India"
         },
         {
           "name": "Lakmé Color Crush Nail Polish",
@@ -319,7 +323,9 @@
       "products": [
         {
           "name": "Whisper Ultra Clean Sanitary Pads",
-          "priceINR": 99
+          "priceINR": 99,
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/products_otc/E11684/whisper-ultra-clean-sanitary-pads-xl-8-2-1632780954.jpg?dim=768x585&q=100",
+          "imageSource": "PharmEasy"
         },
         {
           "name": "Stayfree Secure Cottony Soft Pads",
@@ -327,7 +333,9 @@
         },
         {
           "name": "Sofy Antibacteria Pads",
-          "priceINR": 149
+          "priceINR": 149,
+          "imageUrl": "https://www.sofy.in/wp-content/uploads/2025/05/antibacteria-6-pad.png",
+          "imageSource": "Sofy India"
         },
         {
           "name": "Sirona Menstrual Cup",

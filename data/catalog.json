@@ -1,7 +1,7 @@
 {
   "brand": "ASTRI",
   "currency": "INR",
-  "catalogueType": "starter-curated",
+  "catalogueType": "expanded-from-user-excel",
   "categories": [
     {
       "name": "Bath & Body",
@@ -2427,6 +2427,3751 @@
         "Electrical Accessories"
       ],
       "products": []
+    },
+    {
+      "name": "RICE and FLOURS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Salem rice",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Salem%20rice%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7000",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1KG",
+            "5KG",
+            "10KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Turmeric powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Turmeric%20powder%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7001",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Sugar",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Sugar%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7002",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1KG",
+            "5KG",
+            "10KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Jaggery",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Jaggery%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7003",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Idli rice",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Idli%20rice%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7004",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Steamed rice or Raw rice",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Steamed%20rice%20or%20Raw%20rice%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7005",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "High quality raw rice for Pongal",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/High%20quality%20raw%20rice%20for%20Pongal%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7006",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Dosa rice",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Dosa%20rice%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7007",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Basmati rice",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Basmati%20rice%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7008",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1KG",
+            "5KG",
+            "10KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Brown rice",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Brown%20rice%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7009",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Pressed rice",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Pressed%20rice%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7010",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Wheat flour",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Wheat%20flour%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7011",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "5KG",
+            "10KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Maida",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Maida%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7012",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Ragi flour",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Ragi%20flour%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7013",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Oats",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Oats%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7014",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Millets varieties BAJRA",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Millets%20varieties%20BAJRA%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7015",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Rice flour",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Rice%20flour%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7016",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Besan flour",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Besan%20flour%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7017",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Bombay Rava",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Bombay%20Rava%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7018",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Wheat rava",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Wheat%20rava%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7019",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Idli rava",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Idli%20rava%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7020",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Rice rava",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Rice%20rava%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7021",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Vermicelli",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Vermicelli%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7022",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Instant rice sevai",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Instant%20rice%20sevai%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7023",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Rajgira, Kuttu atta",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Rajgira%2C%20Kuttu%20atta%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7024",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Bansi rava",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Bansi%20rava%20RICE%20and%20FLOURS%20grocery%20product%20package?lock=7025",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "India Gate",
+            "Daawat",
+            "Fortune",
+            "Kohinoor",
+            "Lal Qilla",
+            "Tata Sampann",
+            "Aashirvaad",
+            "24 Mantra"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "PULSES",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Toor dal",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Toor%20dal%20PULSES%20grocery%20product%20package?lock=7026",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Fortune",
+            "Rajdhani",
+            "BB Royal",
+            "24 Mantra",
+            "Organic Tattva",
+            "Amazon Fresh",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Round urad dal",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Round%20urad%20dal%20PULSES%20grocery%20product%20package?lock=7027",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Fortune",
+            "Rajdhani",
+            "BB Royal",
+            "24 Mantra",
+            "Organic Tattva",
+            "Amazon Fresh",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Yellow moong dal",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Yellow%20moong%20dal%20PULSES%20grocery%20product%20package?lock=7028",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Fortune",
+            "Rajdhani",
+            "BB Royal",
+            "24 Mantra",
+            "Organic Tattva",
+            "Amazon Fresh",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Chana dal",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Chana%20dal%20PULSES%20grocery%20product%20package?lock=7029",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Fortune",
+            "Rajdhani",
+            "BB Royal",
+            "24 Mantra",
+            "Organic Tattva",
+            "Amazon Fresh",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Split urad dal",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Split%20urad%20dal%20PULSES%20grocery%20product%20package?lock=7030",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Fortune",
+            "Rajdhani",
+            "BB Royal",
+            "24 Mantra",
+            "Organic Tattva",
+            "Amazon Fresh",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Rajma, peas, brown",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Rajma%2C%20peas%2C%20brown%20PULSES%20grocery%20product%20package?lock=7031",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Fortune",
+            "Rajdhani",
+            "BB Royal",
+            "24 Mantra",
+            "Organic Tattva",
+            "Amazon Fresh",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Fried gram dal",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Fried%20gram%20dal%20PULSES%20grocery%20product%20package?lock=7032",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Fortune",
+            "Rajdhani",
+            "BB Royal",
+            "24 Mantra",
+            "Organic Tattva",
+            "Amazon Fresh",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Horsegram, flax seeds",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Horsegram%2C%20flax%20seeds%20PULSES%20grocery%20product%20package?lock=7033",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Fortune",
+            "Rajdhani",
+            "BB Royal",
+            "24 Mantra",
+            "Organic Tattva",
+            "Amazon Fresh",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Sabudana",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Sabudana%20PULSES%20grocery%20product%20package?lock=7034",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Fortune",
+            "Rajdhani",
+            "BB Royal",
+            "24 Mantra",
+            "Organic Tattva",
+            "Amazon Fresh",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "SPICE POWDERS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Crystal salt",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Crystal%20salt%20SPICE%20POWDERS%20grocery%20product%20package?lock=7035",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Powder salt",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Powder%20salt%20SPICE%20POWDERS%20grocery%20product%20package?lock=7036",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1KG"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Tamarind",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Tamarind%20SPICE%20POWDERS%20grocery%20product%20package?lock=7037",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Red chilli",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Red%20chilli%20SPICE%20POWDERS%20grocery%20product%20package?lock=7038",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Red chilli powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Red%20chilli%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7039",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Dhania powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Dhania%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7040",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Garam masala powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Garam%20masala%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7041",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Chat masala powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Chat%20masala%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7042",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Aamchoor powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Aamchoor%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7043",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cumin powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Cumin%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7044",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Pepper powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Pepper%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7045",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Sambar powder, Rasam powder, Vatha kuzhambu powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Sambar%20powder%2C%20Rasam%20powder%2C%20Vatha%20kuzhambu%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7046",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Biryani masala powder or curry masala powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Biryani%20masala%20powder%20or%20curry%20masala%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7047",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Idli powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Idli%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7048",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Readymade powders: garlic, pav bhaji, chana masala",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Readymade%20powders%3A%20garlic%2C%20pav%20bhaji%2C%20chana%20masala%20SPICE%20POWDERS%20grocery%20product%20package?lock=7049",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Instant coffee powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Instant%20coffee%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7050",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Tea powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Tea%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7051",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "ENO fruit salt",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/ENO%20fruit%20salt%20SPICE%20POWDERS%20grocery%20product%20package?lock=7052",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Yeast",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Yeast%20SPICE%20POWDERS%20grocery%20product%20package?lock=7053",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "6 sachets"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cooking soda",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Cooking%20soda%20SPICE%20POWDERS%20grocery%20product%20package?lock=7054",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Baking powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Baking%20powder%20SPICE%20POWDERS%20grocery%20product%20package?lock=7055",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G"
+          ],
+          "brandOptions": [
+            "Everest",
+            "MDH",
+            "Catch",
+            "Tata Sampann",
+            "Badshah",
+            "Eastern",
+            "MTR",
+            "Aashirvaad"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "OILS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Cooking oil",
+          "priceINR": 145,
+          "imageUrl": "https://loremflickr.com/640/640/Cooking%20oil%20OILS%20grocery%20product%20package?lock=7056",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG",
+            "5KG"
+          ],
+          "brandOptions": [
+            "Fortune",
+            "Saffola",
+            "Dhara",
+            "Sundrop",
+            "Gemini",
+            "Gold Winner",
+            "Figaro",
+            "Patanjali"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Coconut oil",
+          "priceINR": 145,
+          "imageUrl": "https://loremflickr.com/640/640/Coconut%20oil%20OILS%20grocery%20product%20package?lock=7057",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Fortune",
+            "Saffola",
+            "Dhara",
+            "Sundrop",
+            "Gemini",
+            "Gold Winner",
+            "Figaro",
+            "Patanjali"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Ghee or butter",
+          "priceINR": 145,
+          "imageUrl": "https://loremflickr.com/640/640/Ghee%20or%20butter%20OILS%20grocery%20product%20package?lock=7058",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Fortune",
+            "Saffola",
+            "Dhara",
+            "Sundrop",
+            "Gemini",
+            "Gold Winner",
+            "Figaro",
+            "Patanjali"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Olive oil",
+          "priceINR": 145,
+          "imageUrl": "https://loremflickr.com/640/640/Olive%20oil%20OILS%20grocery%20product%20package?lock=7059",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "20G",
+            "50G",
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Fortune",
+            "Saffola",
+            "Dhara",
+            "Sundrop",
+            "Gemini",
+            "Gold Winner",
+            "Figaro",
+            "Patanjali"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Deepam oil",
+          "priceINR": 145,
+          "imageUrl": "https://loremflickr.com/640/640/Deepam%20oil%20OILS%20grocery%20product%20package?lock=7060",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Fortune",
+            "Saffola",
+            "Dhara",
+            "Sundrop",
+            "Gemini",
+            "Gold Winner",
+            "Figaro",
+            "Patanjali"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "SPICES AND NUTS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Mustard seeds",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Mustard%20seeds%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7061",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Pepper",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Pepper%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7062",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cumin seeds",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Cumin%20seeds%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7063",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Poppy seeds",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Poppy%20seeds%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7064",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Coriander seeds",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Coriander%20seeds%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7065",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Fennel seeds",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Fennel%20seeds%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7066",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Fenugreek seeds",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Fenugreek%20seeds%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7067",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Dry ginger piece or powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Dry%20ginger%20piece%20or%20powder%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7068",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Black or white sesame seeds",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Black%20or%20white%20sesame%20seeds%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7069",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Split urad dal",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Split%20urad%20dal%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7070",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Ajwain",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Ajwain%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7071",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Hing",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Hing%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7072",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cardamom",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Cardamom%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7073",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cashew nuts",
+          "priceINR": 190,
+          "imageUrl": "https://loremflickr.com/640/640/Cashew%20nuts%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7074",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Raisins",
+          "priceINR": 190,
+          "imageUrl": "https://loremflickr.com/640/640/Raisins%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7075",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Badam or other nuts",
+          "priceINR": 190,
+          "imageUrl": "https://loremflickr.com/640/640/Badam%20or%20other%20nuts%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7076",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Peanuts",
+          "priceINR": 190,
+          "imageUrl": "https://loremflickr.com/640/640/Peanuts%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7077",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Dates",
+          "priceINR": 190,
+          "imageUrl": "https://loremflickr.com/640/640/Dates%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7078",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cinnamon",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Cinnamon%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7079",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cloves",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Cloves%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7080",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Kalpasi",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Kalpasi%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7081",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Biryani spices packet",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Biryani%20spices%20packet%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7082",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Vanilla essence",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Vanilla%20essence%20SPICES%20AND%20NUTS%20grocery%20product%20package?lock=7083",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Tata Sampann",
+            "Everest",
+            "Catch",
+            "BB Royal",
+            "Rajdhani",
+            "24 Mantra",
+            "Organic Tattva",
+            "Natureland"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "OTHER INGREDIENTS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Horlicks",
+          "priceINR": 160,
+          "imageUrl": "https://loremflickr.com/640/640/Horlicks%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7084",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Papad",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Papad%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7085",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 packet"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cocoa powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Cocoa%20powder%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7086",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "10G",
+            "20G",
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Health drinks",
+          "priceINR": 160,
+          "imageUrl": "https://loremflickr.com/640/640/Health%20drinks%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7087",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100ML",
+            "200ML",
+            "500ML"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Noodles",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Noodles%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7088",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Pasta",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Pasta%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7089",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Macaroni",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Macaroni%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7090",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Spaghetti",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Spaghetti%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7091",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Tomato ketchup",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Tomato%20ketchup%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7092",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Jam",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Jam%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7093",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Mayonnaise",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Mayonnaise%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7094",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Pizza sauce",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Pizza%20sauce%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7095",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Organic honey",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Organic%20honey%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7096",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Bread packet",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Bread%20packet%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7097",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 packet"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Complan",
+          "priceINR": 160,
+          "imageUrl": "https://loremflickr.com/640/640/Complan%20OTHER%20INGREDIENTS%20grocery%20product%20package?lock=7098",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Maggi",
+            "Sunfeast",
+            "Del Monte",
+            "Kissan",
+            "Dr. Oetker",
+            "Weikfield",
+            "MTR",
+            "Gits"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "DAIRY PRODUCTS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Cheese slices",
+          "priceINR": 90,
+          "imageUrl": "https://loremflickr.com/640/640/Cheese%20slices%20DAIRY%20PRODUCTS%20grocery%20product%20package?lock=7099",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Amul",
+            "Mother Dairy",
+            "Britannia",
+            "Gowardhan",
+            "Nandini",
+            "Milky Mist",
+            "Verka",
+            "Pride of Cows"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cheese block",
+          "priceINR": 90,
+          "imageUrl": "https://loremflickr.com/640/640/Cheese%20block%20DAIRY%20PRODUCTS%20grocery%20product%20package?lock=7100",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "200G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Amul",
+            "Mother Dairy",
+            "Britannia",
+            "Gowardhan",
+            "Nandini",
+            "Milky Mist",
+            "Verka",
+            "Pride of Cows"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Butter",
+          "priceINR": 145,
+          "imageUrl": "https://loremflickr.com/640/640/Butter%20DAIRY%20PRODUCTS%20grocery%20product%20package?lock=7101",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Amul",
+            "Mother Dairy",
+            "Britannia",
+            "Gowardhan",
+            "Nandini",
+            "Milky Mist",
+            "Verka",
+            "Pride of Cows"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Curd",
+          "priceINR": 90,
+          "imageUrl": "https://loremflickr.com/640/640/Curd%20DAIRY%20PRODUCTS%20grocery%20product%20package?lock=7102",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Amul",
+            "Mother Dairy",
+            "Britannia",
+            "Gowardhan",
+            "Nandini",
+            "Milky Mist",
+            "Verka",
+            "Pride of Cows"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Fresh cream",
+          "priceINR": 90,
+          "imageUrl": "https://loremflickr.com/640/640/Fresh%20cream%20DAIRY%20PRODUCTS%20grocery%20product%20package?lock=7103",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Amul",
+            "Mother Dairy",
+            "Britannia",
+            "Gowardhan",
+            "Nandini",
+            "Milky Mist",
+            "Verka",
+            "Pride of Cows"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Paneer",
+          "priceINR": 90,
+          "imageUrl": "https://loremflickr.com/640/640/Paneer%20DAIRY%20PRODUCTS%20grocery%20product%20package?lock=7104",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Amul",
+            "Mother Dairy",
+            "Britannia",
+            "Gowardhan",
+            "Nandini",
+            "Milky Mist",
+            "Verka",
+            "Pride of Cows"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Milk can",
+          "priceINR": 90,
+          "imageUrl": "https://loremflickr.com/640/640/Milk%20can%20DAIRY%20PRODUCTS%20grocery%20product%20package?lock=7105",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500ML",
+            "1L"
+          ],
+          "brandOptions": [
+            "Amul",
+            "Mother Dairy",
+            "Britannia",
+            "Gowardhan",
+            "Nandini",
+            "Milky Mist",
+            "Verka",
+            "Pride of Cows"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "TOILETRIES",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Toothpaste",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Toothpaste%20TOILETRIES%20grocery%20product%20package?lock=7106",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Toothbrush",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Toothbrush%20TOILETRIES%20grocery%20product%20package?lock=7107",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 piece"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Bathing soap",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Bathing%20soap%20TOILETRIES%20grocery%20product%20package?lock=7108",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 bar",
+            "pack of 4"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Shampoo",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Shampoo%20TOILETRIES%20grocery%20product%20package?lock=7109",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "80ML",
+            "180ML",
+            "340ML"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Face powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Face%20powder%20TOILETRIES%20grocery%20product%20package?lock=7110",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Hand sanitizer",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Hand%20sanitizer%20TOILETRIES%20grocery%20product%20package?lock=7111",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50ML",
+            "100ML",
+            "500ML"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Deodorant",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Deodorant%20TOILETRIES%20grocery%20product%20package?lock=7112",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "150ML"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Body lotion",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Body%20lotion%20TOILETRIES%20grocery%20product%20package?lock=7113",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100ML",
+            "200ML",
+            "400ML"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Kajal",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Kajal%20TOILETRIES%20grocery%20product%20package?lock=7114",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 piece"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Shaving lotion",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Shaving%20lotion%20TOILETRIES%20grocery%20product%20package?lock=7115",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100ML"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Shaving cream",
+          "priceINR": 90,
+          "imageUrl": "https://loremflickr.com/640/640/Shaving%20cream%20TOILETRIES%20grocery%20product%20package?lock=7116",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "30G",
+            "70G"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Hair gel",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Hair%20gel%20TOILETRIES%20grocery%20product%20package?lock=7117",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Razor blades",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Razor%20blades%20TOILETRIES%20grocery%20product%20package?lock=7118",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 pack"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Baby products",
+          "priceINR": 110,
+          "imageUrl": "https://loremflickr.com/640/640/Baby%20products%20TOILETRIES%20grocery%20product%20package?lock=7119",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "standard pack"
+          ],
+          "brandOptions": [
+            "Colgate",
+            "Dabur",
+            "Himalaya",
+            "Patanjali",
+            "Sensodyne",
+            "Pepsodent",
+            "Closeup",
+            "Oral-B"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "CLEANING PRODUCTS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Dish washing soaps or liquids",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Dish%20washing%20soaps%20or%20liquids%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7120",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "250ML",
+            "500ML",
+            "1L"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Dish washing powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Dish%20washing%20powder%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7121",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Washing powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Washing%20powder%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7122",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG",
+            "2KG"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Washing soaps",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Washing%20soaps%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7123",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 bar",
+            "pack of 4"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Toilet cleaner",
+          "priceINR": 145,
+          "imageUrl": "https://loremflickr.com/640/640/Toilet%20cleaner%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7124",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500ML",
+            "1L"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Floor cleaner",
+          "priceINR": 95,
+          "imageUrl": "https://loremflickr.com/640/640/Floor%20cleaner%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7125",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500ML",
+            "1L"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Kitchen cleaner",
+          "priceINR": 95,
+          "imageUrl": "https://loremflickr.com/640/640/Kitchen%20cleaner%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7126",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500ML"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Sanitary pads",
+          "priceINR": 95,
+          "imageUrl": "https://loremflickr.com/640/640/Sanitary%20pads%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7127",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "6",
+            "8",
+            "15 count"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Toilet paper",
+          "priceINR": 145,
+          "imageUrl": "https://loremflickr.com/640/640/Toilet%20paper%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7128",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "2",
+            "4",
+            "6 rolls"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Kitchen tissue",
+          "priceINR": 95,
+          "imageUrl": "https://loremflickr.com/640/640/Kitchen%20tissue%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7129",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1",
+            "2 rolls"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Garbage bags",
+          "priceINR": 95,
+          "imageUrl": "https://loremflickr.com/640/640/Garbage%20bags%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7130",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "30",
+            "60 count"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Car cleaner",
+          "priceINR": 95,
+          "imageUrl": "https://loremflickr.com/640/640/Car%20cleaner%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7131",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "250ML",
+            "500ML"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Dettol",
+          "priceINR": 95,
+          "imageUrl": "https://loremflickr.com/640/640/Dettol%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7132",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100ML",
+            "250ML",
+            "500ML"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Mosquito liquid",
+          "priceINR": 95,
+          "imageUrl": "https://loremflickr.com/640/640/Mosquito%20liquid%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7133",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "45ML",
+            "refill"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Odonil",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Odonil%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7134",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "75G"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Naphthalene balls",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Naphthalene%20balls%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7135",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Rubber band",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Rubber%20band%20CLEANING%20PRODUCTS%20grocery%20product%20package?lock=7136",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 pack"
+          ],
+          "brandOptions": [
+            "Vim",
+            "Pril",
+            "Surf Excel",
+            "Ariel",
+            "Rin",
+            "Harpic",
+            "Lizol",
+            "Dettol"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "POOJA ITEMS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Match box",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Match%20box%20POOJA%20ITEMS%20grocery%20product%20package?lock=7137",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 box",
+            "pack of 10"
+          ],
+          "brandOptions": [
+            "Mangaldeep",
+            "Cycle",
+            "Zed Black",
+            "Mysore Deep Perfumery",
+            "Patanjali",
+            "Mangalam",
+            "Hem",
+            "Nandi"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Deepa oil",
+          "priceINR": 145,
+          "imageUrl": "https://loremflickr.com/640/640/Deepa%20oil%20POOJA%20ITEMS%20grocery%20product%20package?lock=7138",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500ML",
+            "1L"
+          ],
+          "brandOptions": [
+            "Mangaldeep",
+            "Cycle",
+            "Zed Black",
+            "Mysore Deep Perfumery",
+            "Patanjali",
+            "Mangalam",
+            "Hem",
+            "Nandi"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cotton thread",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Cotton%20thread%20POOJA%20ITEMS%20grocery%20product%20package?lock=7139",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 roll"
+          ],
+          "brandOptions": [
+            "Mangaldeep",
+            "Cycle",
+            "Zed Black",
+            "Mysore Deep Perfumery",
+            "Patanjali",
+            "Mangalam",
+            "Hem",
+            "Nandi"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Camphor",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Camphor%20POOJA%20ITEMS%20grocery%20product%20package?lock=7140",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "25G",
+            "50G",
+            "100G"
+          ],
+          "brandOptions": [
+            "Mangaldeep",
+            "Cycle",
+            "Zed Black",
+            "Mysore Deep Perfumery",
+            "Patanjali",
+            "Mangalam",
+            "Hem",
+            "Nandi"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Incense sticks",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Incense%20sticks%20POOJA%20ITEMS%20grocery%20product%20package?lock=7141",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 pack"
+          ],
+          "brandOptions": [
+            "Mangaldeep",
+            "Cycle",
+            "Zed Black",
+            "Mysore Deep Perfumery",
+            "Patanjali",
+            "Mangalam",
+            "Hem",
+            "Nandi"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Dhoop",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Dhoop%20POOJA%20ITEMS%20grocery%20product%20package?lock=7142",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 pack"
+          ],
+          "brandOptions": [
+            "Mangaldeep",
+            "Cycle",
+            "Zed Black",
+            "Mysore Deep Perfumery",
+            "Patanjali",
+            "Mangalam",
+            "Hem",
+            "Nandi"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Rock candy or dry grapes for neivedyam",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Rock%20candy%20or%20dry%20grapes%20for%20neivedyam%20POOJA%20ITEMS%20grocery%20product%20package?lock=7143",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "250G",
+            "500G"
+          ],
+          "brandOptions": [
+            "Mangaldeep",
+            "Cycle",
+            "Zed Black",
+            "Mysore Deep Perfumery",
+            "Patanjali",
+            "Mangalam",
+            "Hem",
+            "Nandi"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "MISCELLENEOUS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Medicines",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Medicines%20MISCELLENEOUS%20grocery%20product%20package?lock=7144",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "as labelled"
+          ],
+          "brandOptions": [
+            "Eveready",
+            "Philips",
+            "Duracell",
+            "Panasonic",
+            "Tata",
+            "ITC",
+            "Parle",
+            "Britannia"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Light bulbs",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Light%20bulbs%20MISCELLENEOUS%20grocery%20product%20package?lock=7145",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 piece"
+          ],
+          "brandOptions": [
+            "Eveready",
+            "Philips",
+            "Duracell",
+            "Panasonic",
+            "Tata",
+            "ITC",
+            "Parle",
+            "Britannia"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Batteries",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Batteries%20MISCELLENEOUS%20grocery%20product%20package?lock=7146",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "2",
+            "4 count"
+          ],
+          "brandOptions": [
+            "Eveready",
+            "Philips",
+            "Duracell",
+            "Panasonic",
+            "Tata",
+            "ITC",
+            "Parle",
+            "Britannia"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Candles",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Candles%20MISCELLENEOUS%20grocery%20product%20package?lock=7147",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1",
+            "6 count"
+          ],
+          "brandOptions": [
+            "Eveready",
+            "Philips",
+            "Duracell",
+            "Panasonic",
+            "Tata",
+            "ITC",
+            "Parle",
+            "Britannia"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Snacks",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Snacks%20MISCELLENEOUS%20grocery%20product%20package?lock=7148",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "standard pack"
+          ],
+          "brandOptions": [
+            "Eveready",
+            "Philips",
+            "Duracell",
+            "Panasonic",
+            "Tata",
+            "ITC",
+            "Parle",
+            "Britannia"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
+    },
+    {
+      "name": "GROCERY LIST FOR BACHELORS",
+      "subcategories": [],
+      "products": [
+        {
+          "name": "Ready made rice mix",
+          "priceINR": 75,
+          "imageUrl": "https://loremflickr.com/640/640/Ready%20made%20rice%20mix%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7149",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "200G",
+            "500G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Sambar powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Sambar%20powder%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7150",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Rasam powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Rasam%20powder%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7151",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Garlic powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Garlic%20powder%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7152",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Idli podi",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Idli%20podi%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7153",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Ginger, Garlic paste",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Ginger%2C%20Garlic%20paste%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7154",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Tamarind paste",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Tamarind%20paste%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7155",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "100G",
+            "200G",
+            "500G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Ready to eat products",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Ready%20to%20eat%20products%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7156",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "200G",
+            "300G",
+            "500G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Vathakuzhambu powder",
+          "priceINR": 55,
+          "imageUrl": "https://loremflickr.com/640/640/Vathakuzhambu%20powder%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7157",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "50G",
+            "100G",
+            "200G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Idli, dosa batter",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Idli%2C%20dosa%20batter%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7158",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "500G",
+            "1KG"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Bread packet",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Bread%20packet%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7159",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "1 packet"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Cereals",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Cereals%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7160",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "250G",
+            "500G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        },
+        {
+          "name": "Readymade mix packets",
+          "priceINR": 85,
+          "imageUrl": "https://loremflickr.com/640/640/Readymade%20mix%20packets%20GROCERY%20LIST%20FOR%20BACHELORS%20grocery%20product%20package?lock=7161",
+          "imageSource": "Keyword-matched sample image; exact branded packshot pending verification",
+          "packSizes": [
+            "200G",
+            "500G"
+          ],
+          "brandOptions": [
+            "MTR",
+            "Gits",
+            "Aashirvaad",
+            "Everest",
+            "MDH",
+            "Tata Sampann",
+            "Maggi",
+            "Eastern"
+          ],
+          "catalogueSource": "ASTRI.xlsx",
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+        }
+      ]
     }
   ]
 }

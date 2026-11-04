@@ -473,14 +473,15 @@
         {
           "name": "Nivea Lip Balm",
           "priceINR": 125,
-          "imageUrl": "https://loremflickr.com/640/640/nivea%2Clip%2Cbalm%2Cskin%2Cface%2Cproduct?lock=1032",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w%3A176/nivea/1018184/0/JlPX5tv7V9-QzDPqC1OaB-4005808369461_1.jpg",
+          "imageSource": "Product-specific Tira product listing image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.tirabeauty.com/product/nivea-original-care-lip-balm-48g-73skhfa9txmq"
         },
         {
           "name": "Himalaya Purifying Neem Mask",

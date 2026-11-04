@@ -169,14 +169,15 @@
         {
           "name": "Parachute Coconut Hair Oil",
           "priceINR": 110,
-          "imageUrl": "https://loremflickr.com/640/640/parachute%2Ccoconut%2Chair%2Coil%2Cbath%2Cbody?lock=1011",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/7/f/7f508aa8901088069816_1.jpg",
+          "imageSource": "Nykaa product listing",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.nykaa.com/parachute-advansed-ayurvedic-hair-oil/p/31375"
         }
       ]
     },
@@ -430,14 +431,15 @@
         {
           "name": "Simple Refreshing Face Wash",
           "priceINR": 299,
-          "imageUrl": "https://loremflickr.com/640/640/simple%2Crefreshing%2Cface%2Cwash%2Cskin%2Cface?lock=1029",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.simpleskincare.in/cdn/shop/files/27278-H_8909106061781_1080x1440.jpg?v=1769510079",
+          "imageSource": "Simple official product listing",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.simpleskincare.in/products/simple-kind-to-skin-refreshing-facial-wash-150ml"
         },
         {
           "name": "Garnier Vitamin C Serum",
@@ -454,14 +456,15 @@
         {
           "name": "Minimalist Niacinamide 10% Serum",
           "priceINR": 399,
-          "imageUrl": "https://loremflickr.com/640/640/minimalist%2Cniacinamide%2C10%2Cserum%2Cskin%2Cface?lock=1031",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w%3A176/1172353/IvTgKthYp-1172353_1.jpg",
+          "imageSource": "Tira product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.tirabeauty.com/product/minimalist-niacinamide-10-face-serum-60-ml-7618796"
         },
         {
           "name": "Nivea Lip Balm",

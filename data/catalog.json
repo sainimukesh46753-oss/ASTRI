@@ -75,14 +75,15 @@
         {
           "name": "Fiama Shower Gel",
           "priceINR": 110,
-          "imageUrl": "https://loremflickr.com/640/640/fiama%2Cshower%2Cgel%2Cbath%2Cbody%2Cproduct?lock=1004",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/9f4140a3-714a-4d5d-819a-b1dfe1617d07.jpg",
+          "imageSource": "Product-specific retailer listing image",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/fiama-golden-sandalwood-oil-and-patchouli-shower-gel/prid/546711"
         },
         {
           "name": "Dettol Handwash",
@@ -155,14 +156,15 @@
         {
           "name": "Vaseline Intensive Care Lotion",
           "priceINR": 180,
-          "imageUrl": "https://loremflickr.com/640/640/vaseline%2Cintensive%2Ccare%2Clotion%2Cbath%2Cbody?lock=1010",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://cdn11.bigcommerce.com/s-hr7ra7xc8x/images/stencil/3840w/products/10281/34108/nFtNcUxOSSdgfE9aeBrkzx_nS-Cm08zVIGTWAkI-XMs__48913.1680299880.jpg?compression=lossless",
+          "imageSource": "Product-specific retailer listing image",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.carewell.com/product/vaseline-intensive-care-nourishing-moisture-lotion/"
         },
         {
           "name": "Parachute Coconut Hair Oil",
@@ -259,14 +261,15 @@
         {
           "name": "Garnier Color Naturals Hair Colour",
           "priceINR": 120,
-          "imageUrl": "https://loremflickr.com/640/640/garnier%2Ccolor%2Cnaturals%2Chair%2Ccolour%2Chair?lock=1017",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://aapkabazar.co/_next/image?q=75&url=https%3A%2F%2Fimage.aapkabazar.co%2Fproduct%2F282%2F1715167889368.png&w=3840",
+          "imageSource": "Product-specific retailer listing image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://aapkabazar.co/282/pd/garnier-color-naturals-creme-riche-hair-color-no1-natural-black-70-ml-60-gm"
         },
         {
           "name": "Parachute Advansed Coconut Hair Oil",
@@ -297,14 +300,15 @@
         {
           "name": "Set Wet Styling Gel",
           "priceINR": 149,
-          "imageUrl": "https://loremflickr.com/640/640/set%2Cwet%2Cstyling%2Cgel%2Chair%2Cproduct?lock=1020",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/c/9/c922253M_8901088062497_1.jpg",
+          "imageSource": "Product-specific retailer listing image",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.nykaa.com/set-wet-style-vertical-hold-gel/p/10978"
         },
         {
           "name": "Philips Hair Dryer",
@@ -363,38 +367,41 @@
         {
           "name": "Pond's Super Light Gel",
           "priceINR": 180,
-          "imageUrl": "https://loremflickr.com/640/640/pond%2Cs%2Csuper%2Clight%2Cgel%2Cskin?lock=1024",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://vegascosmetics.pk/cdn/shop/products/0_1024x1024.webp?v=1690268990",
+          "imageSource": "Product-specific retailer listing image",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://vegascosmetics.pk/products/ponds-super-light-gel-with-hyaluronic-acid-vitamin-e-50g"
         },
         {
           "name": "Cetaphil Moisturising Cream",
           "priceINR": 499,
-          "imageUrl": "https://loremflickr.com/640/640/cetaphil%2Cmoisturising%2Ccream%2Cskin%2Cface%2Cproduct?lock=1025",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://medias.watsons.vn/publishing/WTCVN-215922-side-zoom.jpg?version=1766587230",
+          "imageSource": "Product-specific retailer listing image",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.watsons.vn/en/cetaphil-moisturizing-cream-453g/p/BP_215922"
         },
         {
           "name": "Lakmé Sun Expert SPF 50",
           "priceINR": 249,
-          "imageUrl": "https://loremflickr.com/640/640/lakm%2Csun%2Cexpert%2Cspf%2C50%2Cskin?lock=1026",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/original/1013683/8ruOJ53qkF-1013683_1.jpg",
+          "imageSource": "Product-specific retailer listing image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.tirabeauty.com/product/lakme-sun-expert-spf-50-pa-ultra-matte-lotion-sunscreen-50ml-1drojk5q9p"
         },
         {
           "name": "Neutrogena UltraSheer Sunscreen",

@@ -486,14 +486,15 @@
         {
           "name": "Himalaya Purifying Neem Mask",
           "priceINR": 149,
-          "imageUrl": "https://loremflickr.com/640/640/himalaya%2Cpurifying%2Cneem%2Cmask%2Cskin%2Cface?lock=1033",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://himalayawellness.in/cdn/shop/files/7307784-2_HimalayaPurifyingNeemPack100gTube_FOP.png?v=1785850441",
+          "imageSource": "Official Himalaya product image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://himalayawellness.in/collections/face-packs-masks/products/purifying-neem-pack"
         },
         {
           "name": "Garnier Micellar Water",
@@ -579,14 +580,15 @@
         {
           "name": "Swiss Beauty Baked Blush",
           "priceINR": 60,
-          "imageUrl": "https://loremflickr.com/640/640/swiss%2Cbeauty%2Cbaked%2Cblush%2Cbeauty%2Ccosmetics?lock=1039",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://swissbeauty.in/cdn/shop/files/Pink_Macaron.jpg?v=1765870895&width=620",
+          "imageSource": "Official Swiss Beauty product image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://swissbeauty.in/products/bake-me-up"
         },
         {
           "name": "Maybelline Fit Me Concealer",
@@ -603,14 +605,15 @@
         {
           "name": "Lakmé Eyeconic Kajal",
           "priceINR": 199,
-          "imageUrl": "https://loremflickr.com/640/640/lakm%2Ceyeconic%2Ckajal%2Cbeauty%2Ccosmetics%2Cproduct?lock=1041",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.lakmeindia.com/cdn/shop/files/29432_H-8901030979538_0acef263-8321-4e17-9b32-217519486b0d_1000x.jpg?v=1742201670",
+          "imageSource": "Official Lakmé product image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.lakmeindia.com/collections/lakme-india/products/lakme-eyeconic-kajal-with-intense-pigments-waterproof-24-hour-wear-sparkling-black-0-35-g"
         },
         {
           "name": "Maybelline Colossal Eyeliner",

@@ -497,26 +497,28 @@
         {
           "name": "Garnier Micellar Water",
           "priceINR": 299,
-          "imageUrl": "https://loremflickr.com/640/640/garnier%2Cmicellar%2Cwater%2Cskin%2Cface%2Cproduct?lock=1034",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/micellar-water/micellar-cleansing-water/micellar-cleansing-water-400ml/6928820029589-001.jpg?rev=d02c2f52fa08443f8aa94d11ca3e21f2",
+          "imageSource": "Official Garnier product image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.garnier.in/about-our-brands/skin-naturals/micellar-water/micellar-cleansing-water"
         },
         {
           "name": "Gillette Fusion Razor",
           "priceINR": 399,
-          "imageUrl": "https://loremflickr.com/640/640/gillette%2Cfusion%2Crazor%2Cskin%2Cface%2Cproduct?lock=1035",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://images.ctfassets.net/7tfi3razjgvb/5kC8T2tigekCeaH8O7B1Zi/822fdc5f709e0f1438fa8305eb8ae2e3/sp_overview_402x.png?fm=webp&q=70&w=1600",
+          "imageSource": "Official Gillette Fusion product image",
           "packSizes": [
             "1 piece / pack",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.gillette.co.in/en-in/products/razors/fusion-manual-razor"
         }
       ]
     },

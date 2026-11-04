@@ -314,14 +314,15 @@
         {
           "name": "Philips Hair Dryer",
           "priceINR": 799,
-          "imageUrl": "https://loremflickr.com/640/640/philips%2Chair%2Cdryer%2Chair%2Cproduct?lock=1021",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/products_otc/K31196/philips-hair-dryer-bhd318-00-1600w-thermoprotect-airflower-advanced-2-1671743371.jpg?dim=768x585&q=100",
+          "imageSource": "Product-specific image from PharmEasy listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://pharmeasy.in/health-care/products/philips-hair-dryer-bhd318-00-1600w-thermoprotect-airflower-advanced-3607983"
         },
         {
           "name": "Wide Tooth Hair Comb",
@@ -407,26 +408,28 @@
         {
           "name": "Neutrogena UltraSheer Sunscreen",
           "priceINR": 399,
-          "imageUrl": "https://loremflickr.com/640/640/neutrogena%2Cultrasheer%2Csunscreen%2Cskin%2Cface%2Cproduct?lock=1027",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://images.ctfassets.net/3zfcttr0ztpr/4oa6YGDxctTkbVmX3sVA9i/04a3782033eea8daf13fd981e4ef3f26/neutrogena-ultra-sheer-dry-touch-sunblock-spf-50-front1-en-in?fm=jpg&q=80&w=1920",
+          "imageSource": "Product-specific official Neutrogena product image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.neutrogena.in/sun/ultra-sheer-sunscreen"
         },
         {
           "name": "Himalaya Neem Face Wash",
           "priceINR": 299,
-          "imageUrl": "https://loremflickr.com/640/640/himalaya%2Cneem%2Cface%2Cwash%2Cskin%2Cface?lock=1028",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://himalayawellness.in/cdn/shop/files/7918780-4_Himalaya-Purifying-Neem-Face-Wash-100ml-Tube_FOP.jpg?v=1748409998",
+          "imageSource": "Product-specific official Himalaya product image",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://himalayawellness.in/collections/face-wash/products/himalaya-purifying-neem-face-wash"
         },
         {
           "name": "Simple Refreshing Face Wash",
@@ -444,14 +447,15 @@
         {
           "name": "Garnier Vitamin C Serum",
           "priceINR": 249,
-          "imageUrl": "https://loremflickr.com/640/640/garnier%2Cvitamin%2Cc%2Cserum%2Cskin%2Cface?lock=1030",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.garnier.in/-/media/project/loreal/brand-sites/garnier/apac/in/products/skin-naturals/brightcomplete/vitamin-c-face-serum/vitamin-c-pdp-images/reno-serum_pdpjpg-1.jpg?rev=6050f0edaeed414e82c254831f6860b5",
+          "imageSource": "Product-specific official Garnier product image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.garnier.in/about-our-brands/skin-naturals/bright-complete/vitamin-c-face-serum"
         },
         {
           "name": "Minimalist Niacinamide 10% Serum",

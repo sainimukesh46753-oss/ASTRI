@@ -2598,58 +2598,63 @@
       "products": [
         {
           "name": "Coca-Cola Original Taste 750 ml",
-          "imageUrl": "https://loremflickr.com/640/640/coca%2Ccola%2Coriginal%2Ctaste%2C750%2Cml?lock=1192",
+          "imageUrl": "https://bazaar5.com/image/cache/catalog/pro/product/apiData/251023-coca-cola-soft-drink-750-ml-0-1000x1000.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://bazaar5.com/en-b5-7753-coca-cola-soft-drink-750-ml"
         },
         {
           "name": "Thums Up 750 ml",
-          "imageUrl": "https://loremflickr.com/640/640/thums%2Cup%2C750%2Cml%2Cdrinks%2Cjuices?lock=1193",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ113285_FOP_4ba91557-099c-4e02-9194-ee4875684bb7.jpg?v=1776846486&width=1445",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.starquik.com/products/thums-up-carbonated-soft-drink-pet-bottle-750-ml-sc-sm43"
         },
         {
           "name": "Sprite 750 ml",
-          "imageUrl": "https://loremflickr.com/640/640/sprite%2C750%2Cml%2Cdrinks%2Cjuices%2Cproduct?lock=1194",
+          "imageUrl": "https://storage.googleapis.com/shy-pub/143849/1665223688026_SKU-0308_0.png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://sachdevaagencies.store.shoopy.in/products/sprite-750ml-8-bottles-SKU-1067"
         },
         {
           "name": "Real Fruit Power Orange 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/real%2Cfruit%2Cpower%2Corange%2C1%2Cl?lock=1195",
+          "imageUrl": "https://positrarx.com/api/positrarx/af4630e2-f0ff-11eb-ac66-2d8af994f7f5-real_juice1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://positrarx.com/product/5f3ba7aaf355323daea2943b/REAL-FRUIT-POWER-ORANGE-1-L"
         },
         {
           "name": "Tropicana Apple Juice 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/tropicana%2Capple%2Cjuice%2C1%2Cl%2Cdrinks?lock=1196",
+          "imageUrl": "https://i.gadgets360cdn.com/products/apple-juice-large-92968-161773-1588848655-1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://pricee.com/tropicana-apple-juice-price-in-india-92968"
         },
         {
           "name": "Paper Boat Aam Panna  pack",
@@ -2664,36 +2669,39 @@
         },
         {
           "name": "Red Bull Energy Drink 250 ml",
-          "imageUrl": "https://loremflickr.com/640/640/red%2Cbull%2Cenergy%2Cdrink%2C250%2Cml?lock=1198",
+          "imageUrl": "https://image.aapkabazar.co/product/401/1697090583516.png?type=png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://aapkabazar.co/401/pd/red-bull-energy-drink-250-ml"
         },
         {
           "name": "Gatorade Sports Drink 500 ml",
-          "imageUrl": "https://loremflickr.com/640/640/gatorade%2Csports%2Cdrink%2C500%2Cml%2Cdrinks?lock=1199",
+          "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D85%2Cmetadata%3Dnone%2Cw%3D480%2Ch%3D480/app/images/products/full_screen/pro_52786.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/gatorade-lemon-flavour-sports-drink/prid/52786"
         },
         {
           "name": "Bisleri Soda 750 ml",
-          "imageUrl": "https://loremflickr.com/640/640/bisleri%2Csoda%2C750%2Cml%2Cdrinks%2Cjuices?lock=1200",
+          "imageUrl": "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/67b38b09bbcbcceb9173f660/8906017290774_1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.mystore.in/en/product/bisleri-soda-the-club-750-ml-bottle"
         },
         {
           "name": "Packaged Drinking Water 1 L",

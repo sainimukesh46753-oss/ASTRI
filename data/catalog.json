@@ -1519,29 +1519,31 @@
         },
         {
           "name": "Amul Pure Ghee 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/amul%2Cpure%2Cghee%2C1%2Cl%2Coil?lock=1109",
+          "imageUrl": "https://spencers.in/_next/image?q=75&url=https%3A%2F%2Fblaze-assets.webcdn.store%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cquality%3Dauto%2FBenchmarking+Images%2F1012701_2.jpg&w=1920",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://spencers.in/product-detail/amul-pure-ghee-tetra-pack?id=PRDD326A99874124E4D9D2900F9BB3279D2"
         },
         {
           "name": "Patanjali Cow Ghee 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/patanjali%2Ccow%2Cghee%2C1%2Cl%2Coil?lock=1110",
+          "imageUrl": "https://www.patanjaliayurved.net/assets/product_images/400x500/1739535247CowGheeJar1L-1.webp",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.patanjaliayurved.net/product/natural-health-care/ghee/patanjali-cows-ghee-pet-jar/4116"
         },
         {
           "name": "Everest Turmeric Powder 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/everest%2Cturmeric%2Cpowder%2C100%2Cg%2Coil?lock=1111",
+          "imageUrl": "https://cdn.dmart.in/images/products/MAY110000244XX29MAY26_5_B.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -1549,22 +1551,24 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.dmart.in/product/everest-turmeric-powder"
         },
         {
           "name": "Everest Red Chilli Powder 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/everest%2Cred%2Cchilli%2Cpowder%2C100%2Cg?lock=1112",
+          "imageUrl": "https://indiabazaar.pl/cdn/shop/products/kashmirilal.jpg?v=1678716340",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://indiabazaar.pl/products/everest-kashmirilal-red-chilli-powder-100g"
         },
         {
           "name": "MDH Garam Masala 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/mdh%2Cgaram%2Cmasala%2C100%2Cg%2Coil?lock=1113",
+          "imageUrl": "https://www.silkrute.com/images/detailed/617/61MyqJ4PkEL.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -1572,11 +1576,12 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.silkrute.com/grocery/spices/powdered-spices/garam-masala/garam-masala-100g/"
         },
         {
           "name": "Tata Salt 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/tata%2Csalt%2C1%2Ckg%2Coil%2Cghee?lock=1114",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-zRoFrfqL.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -1584,7 +1589,8 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.desertcart.in/products/76367027-tata-salt-1kg"
         },
         {
           "name": "Madhur Sugar 1 kg",

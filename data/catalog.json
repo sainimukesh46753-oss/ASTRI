@@ -327,14 +327,15 @@
         {
           "name": "Wide Tooth Hair Comb",
           "priceINR": 35,
-          "imageUrl": "https://loremflickr.com/640/640/wide%2Ctooth%2Chair%2Ccomb%2Chair%2Cproduct?lock=1022",
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/5/f/5fec660MAJAB00000084_01.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.nykaa.com/p-majestique-detangling-comb-is-cut-from-large-sheets-producing-a-truly-gentle-comb-this-material-is-tactile-flexible-and-strong-the-comb-glides-effortlessly-through-hair-without-scratching-or-damaging-the-hair-or-scalp-majestique-combs-have-rounded-teeth/p/1466554"
         },
         {
           "name": "U-Shape Hair Clips",
@@ -1200,14 +1201,15 @@
         },
         {
           "name": "Kinnow 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/kinnow%2C1%2Ckg%2Cvegetables%2Cfruits%2Cproduct?lock=1084",
+          "imageUrl": "https://cityinstamart.com/media/image?path=uploads%2Fmedia%2F2025%2Fkinow1.jpg&quality=80&width=900",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://cityinstamart.com/products/details/kinnow-orange-1-kg"
         },
         {
           "name": "Pomegranate 2 pcs",
@@ -1271,14 +1273,15 @@
         },
         {
           "name": "Coconut 1 pc",
-          "imageUrl": "https://loremflickr.com/640/640/coconut%2C1%2Cpc%2Cvegetables%2Cfruits%2Cproduct?lock=1090",
+          "imageUrl": "https://bf1af2a.a-cdn.akinoncloud.com/products/2024/09/24/151066/d0d01cb0-6387-4845-b6d8-06ea570b6f60_size3840_cropCenter.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://gcc.luluhypermarket.com/en-ae/coconut-whole-india-1-pc/p/42555"
         },
         {
           "name": "Sweet Corn 2 pcs",
@@ -2037,36 +2040,39 @@
       "products": [
         {
           "name": "Almonds 200 g",
-          "imageUrl": "https://loremflickr.com/640/640/almonds%2C200%2Cg%2Cdry%2Cfruits%2Ccereals?lock=1146",
+          "imageUrl": "https://www.tenalidoublehorse.com/cdn/shop/files/almonds-square.png?v=1754986363",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.tenalidoublehorse.com/products/premium-almonds-200-grams"
         },
         {
           "name": "Cashews 200 g",
-          "imageUrl": "https://loremflickr.com/640/640/cashews%2C200%2Cg%2Cdry%2Cfruits%2Ccereals?lock=1147",
+          "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40232837_8-tata-sampann-100-pure-premium-cashews-whole-flavourful-deluxe-size.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40232837/tata-sampann-100-pure-premium-cashews-whole-flavourful-deluxe-size-200-g-pouch/"
         },
         {
           "name": "Pistachios 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/pistachios%2C100%2Cg%2Cdry%2Cfruits%2Ccereals?lock=1148",
+          "imageUrl": "https://mirchi.com/os/cdn/content/images/pistachio%20100g%20foodio%20fit_medium_0175037.webp",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://mirchi.com/pistachio-100g-foodio-fit"
         },
         {
           "name": "Raisins 200 g",

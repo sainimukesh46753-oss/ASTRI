@@ -706,14 +706,15 @@
         },
         {
           "name": "Mothercare Maternity Pillow",
-          "imageUrl": "https://loremflickr.com/640/640/mothercare%2Cmaternity%2Cpillow%2Cmom%2Ccare%2Cproduct?lock=1048",
+          "imageUrl": "https://s7ondemand6.scene7.com/is/image/MothercareASE/0735599_1?hei=848&wid=706",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.mothercare.ro/en/maternity"
         },
         {
           "name": "Mee Mee Feeding Bottle",
@@ -879,14 +880,15 @@
         },
         {
           "name": "Baby Cotton Bibs",
-          "imageUrl": "https://loremflickr.com/640/640/baby%2Ccotton%2Cbibs%2Cbaby%2Ccare%2Cproduct?lock=1061",
+          "imageUrl": "https://img500.exportersindia.com/product_images/bc-500/2025/12/5846216/mee-mee-muslin-bibs-with-adjustable-velcro-closure-1765260834-8474149.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.exportersindia.com/product-detail/mee-mee-muslin-bibs-with-adjustable-velcro-closure-2768164888.htm"
         }
       ]
     },
@@ -927,14 +929,15 @@
         },
         {
           "name": "Savlon Antiseptic Liquid",
-          "imageUrl": "https://loremflickr.com/640/640/savlon%2Cantiseptic%2Cliquid%2Chealth%2Cpharma%2Cproduct?lock=1063",
+          "imageUrl": "https://medicinedata.in/o/DR004457_5.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.healthpotli.com/product/savlon-antiseptic-liquid-hp7541/534573"
         },
         {
           "name": "Dr. Morepen Digital Thermometer",
@@ -1010,25 +1013,27 @@
         },
         {
           "name": "Tynor Knee Cap",
-          "imageUrl": "https://loremflickr.com/640/640/tynor%2Cknee%2Ccap%2Chealth%2Cpharma%2Cproduct?lock=1070",
+          "imageUrl": "https://images.apollo247.in/pub/media/catalog/product/K/N/KNE0146_1-AUG23_1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/tynor-knee-cap-xl-pair"
         },
         {
           "name": "Adult Care Protective Underwear",
-          "imageUrl": "https://loremflickr.com/640/640/adult%2Ccare%2Cprotective%2Cunderwear%2Chealth%2Cpharma?lock=1071",
+          "imageUrl": "https://www.jiomart.com/images/product/original/rv1wezhyye/avm-super-dry-protective-underwear-l-xl-10-pcs-pack-pack-of-1-product-images-orv1wezhyye-p595797901-0-202211290051.jpg?im=Resize%3D%28420%2C420%29",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/avm-super-dry-protective-underwear-l-xl-10-pcs-pack-pack-of-1/595797901"
         }
       ]
     },
@@ -1122,14 +1127,15 @@
         },
         {
           "name": "Cauliflower 1 pc",
-          "imageUrl": "https://loremflickr.com/640/640/cauliflower%2C1%2Cpc%2Cvegetables%2Cfruits%2Cproduct?lock=1078",
+          "imageUrl": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy%2Cf_auto%2Cq_auto%2Ch_272%2Cw_252/NI_CATALOG/IMAGES/CIW/2026/3/24/ebcc6bec-d4a6-4d6e-8b11-6a53296a592d_1037_1.JPG",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.swiggy.com/instamart/city/bangalore/sc/fresh-vegetables/fresh-vegetables-6821d56d09ab2e00019aa5db"
         },
         {
           "name": "Spinach 1 bunch",

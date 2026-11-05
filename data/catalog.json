@@ -1777,25 +1777,27 @@
         },
         {
           "name": "Pav 6 pcs",
-          "imageUrl": "https://loremflickr.com/640/640/pav%2C6%2Cpcs%2Cdairy%2Cbread%2Ceggs?lock=1127",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/cbfc7785-461b-4718-8cbc-c87da7aea7dd.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/harvest-gold-bombay-pav/prid/65677"
         },
         {
           "name": "Farm Fresh Eggs 6 pcs",
-          "imageUrl": "https://loremflickr.com/640/640/farm%2Cfresh%2Ceggs%2C6%2Cpcs%2Cdairy?lock=1128",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/b0b258cb-7ede-4b50-8ecf-34c9d5e19da1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/product/prid/500290"
         },
         {
           "name": "Amul Paneer 200 g",
@@ -1811,14 +1813,15 @@
         },
         {
           "name": "Soy Milk 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/soy%2Cmilk%2C1%2Cl%2Cdairy%2Cbread?lock=1130",
+          "imageUrl": "https://www.jiomart.com/images/product/original/490089355/so-good-original-soy-milk-1-l-tetra-pak-product-images-o490089355-p590363607-0-202205172331.jpg?im=Resize%3D%281000%2C1000%29",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/so-good-original-soy-milk-1-l-tetra-pak/590363607"
         },
         {
           "name": "Amul Lassi  pack",
@@ -1947,36 +1950,39 @@
         },
         {
           "name": "Britannia Toast Rusk",
-          "imageUrl": "https://loremflickr.com/640/640/britannia%2Ctoast%2Crusk%2Cbakery%2Cbiscuits%2Cproduct?lock=1140",
+          "imageUrl": "https://imgwlns.gumlet.io/images/products/291021-1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.wellnessforever.com/product/brit-rusk-suji-225gm"
         },
         {
           "name": "Unibic Choco Chip Cookies",
-          "imageUrl": "https://loremflickr.com/640/640/unibic%2Cchoco%2Cchip%2Ccookies%2Cbakery%2Cbiscuits?lock=1141",
+          "imageUrl": "https://image.cdn.shpy.in/309224/unibic-choco-chip-cookies-1693569547211_SKU-0991_0.jpeg?format=webp&width=1200",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.mamtaqualitystore.in/products/unibic-choco-chip-cookies-150gm-SKU-3603"
         },
         {
           "name": "Britannia Treat Croissant",
-          "imageUrl": "https://loremflickr.com/640/640/britannia%2Ctreat%2Ccroissant%2Cbakery%2Cbiscuits%2Cproduct?lock=1142",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/xxl/1223901-3_1-britannia-winkin-cow-cold-coffee-180-ml-treat-croissant-cocoa-creme-filling-45-g.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/1223901/britannia-winkin-cow-cold-coffee-180-ml-treat-croissant-cocoa-creme-filling-45-g-combo/"
         },
         {
           "name": "Brownie Slice",

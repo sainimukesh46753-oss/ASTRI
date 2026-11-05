@@ -804,25 +804,27 @@
         },
         {
           "name": "Cetaphil Baby Lotion",
-          "imageUrl": "https://loremflickr.com/640/640/cetaphil%2Cbaby%2Clotion%2Cbaby%2Ccare%2Cproduct?lock=1055",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.cetaphil.in/dw/image/v2/bggn_prd/on/demandware.static/-/Sites-galderma-in-m-catalog/default/dwdcd9596f/IN_9318637043316-400ml/060605_DL_13-5oz-Front.PNG?q=85&sh=900&sm=fit&sw=900",
+          "imageSource": "Verified product image from brand's official product page",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.cetaphil.in/baby-skincare/baby-daily-lotion/IN_9318637043316.html"
         },
         {
           "name": "Cerelac Wheat Apple Cereal",
-          "imageUrl": "https://loremflickr.com/640/640/cerelac%2Cwheat%2Capple%2Ccereal%2Cbaby%2Ccare?lock=1056",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.familynes.in/sites/default/files/styles/content_media_product_mobile/public/content_image/wheatapple_zas_largepack_720g_fop-1320x990.jpg?itok=X1VlWZ0C",
+          "imageSource": "Verified product image from brand's official product page",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.familynes.in/cerelac/nestle-cerelac-stage-1/cerelac-wheat-apple-no-refined-sugar-no-preservatives-720g"
         },
         {
           "name": "Philips Avent Feeding Bottle",
@@ -906,14 +908,15 @@
       "products": [
         {
           "name": "Dettol Antiseptic Liquid",
-          "imageUrl": "https://loremflickr.com/640/640/dettol%2Cantiseptic%2Cliquid%2Chealth%2Cpharma%2Cproduct?lock=1062",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.dettol.co.in/static/b8bab894a9a60e5437946956e2521fc0/5c89f/dal-250ml.png",
+          "imageSource": "Verified product image from brand's official product page",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.dettol.co.in/personal-hygiene/antiseptics/dettol-antiseptic-liquid-original-250ml/"
         },
         {
           "name": "Savlon Antiseptic Liquid",

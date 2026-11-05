@@ -2315,7 +2315,7 @@
       "products": [
         {
           "name": "Lay's Classic Salted Chips",
-          "imageUrl": "https://loremflickr.com/640/640/lay%2Cs%2Cclassic%2Csalted%2Cchips%2Cchips?lock=1171",
+          "imageUrl": "https://www.zipgro.in/cdn/shop/files/rn-image_picker_lib_temp_c93a41ae-6d0e-4bce-b8bc-dee2808528bd.png?v=1779262889&width=1445",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -2323,11 +2323,12 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.zipgro.in/products/haldirams-classic-salted-chips"
         },
         {
           "name": "Kurkure Masala Munch",
-          "imageUrl": "https://loremflickr.com/640/640/kurkure%2Cmasala%2Cmunch%2Cchips%2Cnamkeen%2Cproduct?lock=1172",
+          "imageUrl": "https://desigros.com/cdn/shop/files/KURKURE-MASALA-MUNCH-90G.jpg?v=1746884843&width=1214",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -2335,22 +2336,24 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://desigros.com/products/kurkure-masala-munch-90g"
         },
         {
           "name": "Haldiram's Aloo Bhujia",
-          "imageUrl": "https://loremflickr.com/640/640/haldiram%2Cs%2Caloo%2Cbhujia%2Cchips%2Cnamkeen?lock=1173",
+          "imageUrl": "https://www.pankaj-boutique.com/31477-large_default/namkeen-indian-aloo-bhujia.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.pankaj-boutique.com/en/indian-food/5770-namkeen-indian-aloo-bhujia.html"
         },
         {
           "name": "Haldiram's Moong Dal",
-          "imageUrl": "https://loremflickr.com/640/640/haldiram%2Cs%2Cmoong%2Cdal%2Cchips%2Cnamkeen?lock=1174",
+          "imageUrl": "https://cdn.grofers.com/app/images/products/sliding_image/19295a.jpg?ts=1688625383",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -2358,29 +2361,32 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/haldirams-moong-dal-namkeen/prid/19295"
         },
         {
           "name": "Bingo! Mad Angles",
-          "imageUrl": "https://loremflickr.com/640/640/bingo%2Cmad%2Cangles%2Cchips%2Cnamkeen%2Cproduct?lock=1175",
+          "imageUrl": "https://www.snackspause.com/cdn/shop/products/IMG_1166.jpg?v=1670641302",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.snackspause.com/products/bingo-mad-angles-masala-indian-flavour"
         },
         {
           "name": "Doritos Nacho Cheese",
-          "imageUrl": "https://loremflickr.com/640/640/doritos%2Cnacho%2Ccheese%2Cchips%2Cnamkeen%2Cproduct?lock=1176",
+          "imageUrl": "https://images.price.tools/images/doritos-chips-nacho-cheese-flavored-198-l-UN9UuSZh2.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://pricehistory.app/p/doritos-nachos-cheese-44-gm-ltOz9hw8"
         },
         {
           "name": "Act II Classic Salted Popcorn",

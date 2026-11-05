@@ -1797,14 +1797,15 @@
         },
         {
           "name": "Amul Lassi  pack",
-          "imageUrl": "https://loremflickr.com/640/640/amul%2Classi%2Cpack%2Cdairy%2Cbread%2Ceggs?lock=1131",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/0ce7e690-4d21-4f4f-b116-feef94a7a9ef.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/amul-sweet-lassi/prid/656965"
         },
         {
           "name": "Idli Dosa Batter 1 kg",
@@ -2661,14 +2662,15 @@
         },
         {
           "name": "Paper Boat Aam Panna  pack",
-          "imageUrl": "https://loremflickr.com/640/640/paper%2Cboat%2Caam%2Cpanna%2Cpack%2Cdrinks?lock=1197",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/412404_1-paper-boat-fruit-juice-aam-panna-mango-drink.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/412404/paper-boat-fruit-juice-aam-panna-mango-drink-150-ml/"
         },
         {
           "name": "Red Bull Energy Drink 250 ml",
@@ -2708,14 +2710,15 @@
         },
         {
           "name": "Packaged Drinking Water 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/packaged%2Cdrinking%2Cwater%2C1%2Cl%2Cdrinks?lock=1201",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/265875-2_2-bisleri-mineral-water.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/265875/bisleri-mineral-water-1-l-bottle/"
         },
         {
           "name": "Raw Pressery Coconut Water 1 L",
@@ -2742,14 +2745,15 @@
         },
         {
           "name": "Nestea Iced Tea  pack",
-          "imageUrl": "https://loremflickr.com/640/640/nestea%2Ciced%2Ctea%2Cpack%2Cdrinks%2Cjuices?lock=1204",
+          "imageUrl": "https://imgwlns.gumlet.io/images/products/365841-1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.wellnessforever.com/product/nestea-iced-tea-lemon-200ml"
         }
       ]
     },

@@ -2181,69 +2181,75 @@
       "products": [
         {
           "name": "Milton Thermosteel Water Bottle 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/milton%2Cthermosteel%2Cwater%2Cbottle%2C1%2Cl?lock=1160",
+          "imageUrl": "https://storage.googleapis.com/shy-pub/307599/miltonthermosteed2-1722939291522-1745856914610.jpeg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.abgallery.in/products/milton-thermosteel-24-hours-hot-cold-water-bottle-with-bag-1000-ml"
         },
         {
           "name": "Cello Plastic Water Bottle 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/cello%2Cplastic%2Cwater%2Cbottle%2C1%2Cl?lock=1161",
+          "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D85%2Cmetadata%3Dnone%2Cw%3D480%2Ch%3D480/da/cms-assets/cms/product/fc827a93-87b1-4b5c-acf3-f82bfb107ee8.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/cello-venice-plastic-bottle-set-of-3-1-l/prid/620885"
         },
         {
           "name": "Borosil Glass Set 6 pcs",
-          "imageUrl": "https://loremflickr.com/640/640/borosil%2Cglass%2Cset%2C6%2Cpcs%2Ckitchenware?lock=1162",
+          "imageUrl": "https://myborosil.com/cdn/shop/files/BGFGBMUG00036_2_5ee140c0-964d-48f6-a956-20094f35b6c6.jpg?v=1754903340&width=1946",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://myborosil.com/products/borosil-crest-whiskey-glass-set-of-6-305ml"
         },
         {
           "name": "Prestige Nonstick Fry Pan  t",
-          "imageUrl": "https://loremflickr.com/640/640/prestige%2Cnonstick%2Cfry%2Cpan%2Ct%2Ckitchenware?lock=1163",
+          "imageUrl": "https://shop.ttkprestige.com/media/catalog/product/3/0/30335-IMG1.jpeg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://shop.ttkprestige.com/prestige-omega-select-plus-ib-non-stick-cookware-fry-pan-240-mm-dia.html"
         },
         {
           "name": "Stainless Steel Saucepan 1 pc",
-          "imageUrl": "https://loremflickr.com/640/640/stainless%2Csteel%2Csaucepan%2C1%2Cpc%2Ckitchenware?lock=1164",
+          "imageUrl": "https://www.cherahomejunction.com/cdn/shop/files/Hawkins_Pro_Tri-Ply_Sauce_Pan_with_SS_Lid_PSSP15S_1.5_L_1.jpg?v=1780125928&width=1214",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.cherahomejunction.com/products/hawkins-pro-triply-stainless-steel-sauce-pan-1-5l-with-lid-induction-gas-compatible-pssp15s-silver"
         },
         {
           "name": "Lock & Lock Food Container",
-          "imageUrl": "https://loremflickr.com/640/640/lock%2Clock%2Cfood%2Ccontainer%2Ckitchenware%2Cappliances?lock=1165",
+          "imageUrl": "https://media.bunnings.com.au/api/public/content/1bf74f80e65747ae9cd7ff2de40226a1?t=w1200&v=20364156",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.bunnings.com.au/lock-lock-classic-square-short-container-1-2l_p0158292"
         },
         {
           "name": "Lunch Box 3 Compartment",

@@ -1680,58 +1680,63 @@
         },
         {
           "name": "Mother Dairy Full Cream Milk 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/mother%2Cdairy%2Cfull%2Ccream%2Cmilk%2C1?lock=1121",
+          "imageUrl": "https://proteinpaisa.com/images/mother-dairy-full-cream-milk-v2.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.zepto.com/pn/mother-dairy-full-cream-toned-milk-pouch/pvid/62109d5d-3f9e-45ff-9f2f-e8684763fe26"
         },
         {
           "name": "Amul Masti Dahi 400 g",
-          "imageUrl": "https://loremflickr.com/640/640/amul%2Cmasti%2Cdahi%2C400%2Cg%2Cdairy?lock=1122",
+          "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D85%2Cmetadata%3Dnone%2Cw%3D480%2Ch%3D480/app/assets/products/large_images/jpeg/43e9aa61-c422-4eac-a311-9937aa18ea5c.jpg?ts=1726473609",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/amul-masti-cup-curd/prid/94410"
         },
         {
           "name": "Mother Dairy Classic Curd 400 g",
-          "imageUrl": "https://loremflickr.com/640/640/mother%2Cdairy%2Cclassic%2Ccurd%2C400%2Cg?lock=1123",
+          "imageUrl": "https://www.jiomart.com/images/product/original/490983569/mother-dairy-classic-dahi-400-g-cup-product-images-o490983569-p590041365-0-202604011130.png?im=Resize%3D%28420%2C420%29",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/mother-dairy-classic-dahi-400-g-cup/590041365"
         },
         {
           "name": "Amul Butter 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/amul%2Cbutter%2C100%2Cg%2Cdairy%2Cbread?lock=1124",
+          "imageUrl": "https://image.cdn.shpy.in/482688/104860_8-amul-butter-pasteurised-1771050921256.webp?format=webp&width=1200",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.tenat.in/products/amul-pasteurised-butter100g-100grams-butter-more"
         },
         {
           "name": "Amul Cheese Slices 200 g",
-          "imageUrl": "https://loremflickr.com/640/640/amul%2Ccheese%2Cslices%2C200%2Cg%2Cdairy?lock=1125",
+          "imageUrl": "https://storage.googleapis.com/shy-pub/325460/amul-pure-milk-cheese-slices-200gm-10-slices-1696658850657_SKU-1586_0.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.unithvanow.com/products/amul-pure-milk-cheese-slices-200gm-10-slices-SKU-2980"
         },
         {
           "name": "Fresh White Bread 400 g",
@@ -1768,14 +1773,15 @@
         },
         {
           "name": "Amul Paneer 200 g",
-          "imageUrl": "https://loremflickr.com/640/640/amul%2Cpaneer%2C200%2Cg%2Cdairy%2Cbread?lock=1129",
+          "imageUrl": "https://geetanjali-pawase.myshopify.com/cdn/shop/products/40096747_5-amul-fresh-paneer_grande.png?v=1616936817",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://geetanjali-pawase.myshopify.com/products/amul-paneer"
         },
         {
           "name": "Soy Milk 1 L",

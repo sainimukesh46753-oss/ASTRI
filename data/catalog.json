@@ -2076,18 +2076,19 @@
         },
         {
           "name": "Raisins 200 g",
-          "imageUrl": "https://loremflickr.com/640/640/raisins%2C200%2Cg%2Cdry%2Cfruits%2Ccereals?lock=1149",
+          "imageUrl": "https://image.aapkabazar.co/product/16942/1758282389737.png?type=png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://aapkabazar.co/16942/pd/tata-sampann-100-premium-raisins-seedless-200-gm"
         },
         {
           "name": "Happilo Trail Mix 200 g",
-          "imageUrl": "https://loremflickr.com/640/640/happilo%2Ctrail%2Cmix%2C200%2Cg%2Cdry?lock=1150",
+          "imageUrl": "https://happilo.com/cdn/shop/files/01_4def0468-a83d-47cf-97f3-70848965bc09.jpg?crop=center&height=1200&v=1758697570&width=1200",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -2095,7 +2096,8 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://happilo.com/products/happilo-premium-international-nutty-trail-mix"
         },
         {
           "name": "Kellogg's Corn Flakes 500 g",
@@ -2111,14 +2113,15 @@
         },
         {
           "name": "Kellogg's Chocos 375 g",
-          "imageUrl": "https://loremflickr.com/640/640/kellogg%2Cs%2Cchocos%2C375%2Cg%2Cdry?lock=1152",
+          "imageUrl": "https://groceryeshop.us/cdn/shop/files/61fRSMtXE6L.jpg?v=1748061198&width=1946",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://groceryeshop.us/products/kelloggs-kelloggs-chocos-whole-grain-375g"
         },
         {
           "name": "Bagrry's Muesli 500 g",
@@ -2133,14 +2136,15 @@
         },
         {
           "name": "Quaker Oats 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/quaker%2Coats%2C1%2Ckg%2Cdry%2Cfruits?lock=1154",
+          "imageUrl": "https://www.panchamrutha.com/cdn/shop/files/Screenshot_1032.png?v=1764932098&width=600",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.panchamrutha.com/products/quaker-rolled-oats-1-kg-pouch"
         },
         {
           "name": "Lion Dates 500 g",

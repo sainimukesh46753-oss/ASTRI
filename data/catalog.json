@@ -2162,36 +2162,39 @@
         },
         {
           "name": "Chia Seeds 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/chia%2Cseeds%2C100%2Cg%2Cdry%2Cfruits?lock=1156",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.yumyum.co.in/cdn/shop/files/ChiaSeeds-F1_1440x.jpg?v=1720499780",
+          "imageSource": "Verified product-specific image from Yum Yum product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.yumyum.co.in/products/yum-yum-chia-seeds"
         },
         {
           "name": "Roasted Pumpkin Seeds 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/roasted%2Cpumpkin%2Cseeds%2C100%2Cg%2Cdry?lock=1157",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.yumyum.co.in/cdn/shop/files/PumpkinSeeds-F1_e4aa7795-8b81-4d86-9199-bf7859eec34c_1440x.jpg?v=1721290893",
+          "imageSource": "Verified product-specific image from Yum Yum product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.yumyum.co.in/products/yum-yum-roasted-salted-pumpkin-seeds"
         },
         {
           "name": "Vermicelli 400 g",
-          "imageUrl": "https://loremflickr.com/640/640/vermicelli%2C400%2Cg%2Cdry%2Cfruits%2Ccereals?lock=1158",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.yumyum.co.in/cdn/shop/files/400g_Vermicelli_400g_Pouch-F.jpg?v=1725089735&width=533",
+          "imageSource": "Verified product-specific image from Yum Yum product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.yumyum.co.in/collections/breakfast-cereals"
         },
         {
           "name": "Poha 500 g",
@@ -5056,8 +5059,8 @@
         {
           "name": "Vermicelli",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/vermicelli%2Crice%2Cand%2Cflours%2Cproduct?lock=1340",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.yumyum.co.in/cdn/shop/files/400g_Vermicelli_400g_Pouch-F.jpg?v=1725089735&width=533",
+          "imageSource": "Verified product-specific image from Yum Yum product listing",
           "packSizes": [
             "500G",
             "1KG"
@@ -5073,7 +5076,8 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.yumyum.co.in/collections/breakfast-cereals"
         },
         {
           "name": "Instant rice sevai",
@@ -6287,8 +6291,8 @@
         {
           "name": "Cashew nuts",
           "priceINR": 190,
-          "imageUrl": "https://loremflickr.com/640/640/cashew%2Cnuts%2Cspices%2Cand%2Cnuts%2Cproduct?lock=1392",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.yumyum.co.in/cdn/shop/files/1_1555a172-5d25-4de4-972d-7874aca7015c_1440x.jpg?v=1790691276",
+          "imageSource": "Verified product-specific image from Yum Yum product listing",
           "packSizes": [
             "500G",
             "1KG"
@@ -6304,7 +6308,8 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.yumyum.co.in/products/yum-yum-cashews"
         },
         {
           "name": "Raisins",
@@ -6375,8 +6380,8 @@
         {
           "name": "Dates",
           "priceINR": 190,
-          "imageUrl": "https://loremflickr.com/640/640/dates%2Cspices%2Cand%2Cnuts%2Cproduct?lock=1396",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.yumyum.co.in/cdn/shop/files/Front_9_69b9f193-696a-4f39-84f7-f8fe4a4f38e1_1440x.jpg?v=1720853813",
+          "imageSource": "Verified product-specific image from Yum Yum product listing",
           "packSizes": [
             "500G",
             "1KG"
@@ -6392,7 +6397,8 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.yumyum.co.in/products/mr-nuttz-dry-dates"
         },
         {
           "name": "Cinnamon",

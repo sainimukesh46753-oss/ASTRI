@@ -1073,14 +1073,15 @@
         },
         {
           "name": "Green Capsicum 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/green%2Ccapsicum%2C500%2Cg%2Cvegetables%2Cfruits?lock=1075",
+          "imageUrl": "https://veggiefresh.co.nz/cdn/shop/products/capsicum-green.jpg?v=1739358775",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://veggiefresh.co.nz/products/capsicum-green"
         },
         {
           "name": "Cucumber 500 g",
@@ -1119,36 +1120,39 @@
         },
         {
           "name": "Spinach 1 bunch",
-          "imageUrl": "https://loremflickr.com/640/640/spinach%2C1%2Cbunch%2Cvegetables%2Cfruits%2Cproduct?lock=1079",
+          "imageUrl": "https://www.beybeyfarms.com/cdn/shop/files/spinach_beybey_farms.png?v=1714795652",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.beybeyfarms.com/products/spinach"
         },
         {
           "name": "Coriander 1 bunch",
-          "imageUrl": "https://loremflickr.com/640/640/coriander%2C1%2Cbunch%2Cvegetables%2Cfruits%2Cproduct?lock=1080",
+          "imageUrl": "https://assets.icanet.se/image/upload/cs_srgb/t_product_large_2x_v1/v1669507298/teaerodg3hnb26axtg1d.webp",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://handla.ica.se/produkt/2096004"
         },
         {
           "name": "Green Chilli 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/green%2Cchilli%2C100%2Cg%2Cvegetables%2Cfruits?lock=1081",
+          "imageUrl": "https://vizaggrocers.com/2103-large_default/greenchilli-paccimirci-hareemirch.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://vizaggrocers.com/en/vegetables/47-greenchilli-paccimirci-hareemirch.html"
         },
         {
           "name": "Banana 6 pcs",
@@ -1187,25 +1191,27 @@
         },
         {
           "name": "Pomegranate 2 pcs",
-          "imageUrl": "https://loremflickr.com/640/640/pomegranate%2C2%2Cpcs%2Cvegetables%2Cfruits%2Cproduct?lock=1085",
+          "imageUrl": "https://www.aishcart.in/6594-thickbox_default/sweet-big-pomegranate-1kg.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.aishcart.in/fruits/1029-sweet-big-pomegranate-1kg.html"
         },
         {
           "name": "Mango 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/mango%2C1%2Ckg%2Cvegetables%2Cfruits%2Cproduct?lock=1086",
+          "imageUrl": "https://cdn.myikas.com/images/0fc5e2e6-3ea7-443f-a09e-daf74b83e708/8ff8ba6b-d866-4e48-88c7-44e07abc07e2/3840/mango.webp",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://gizova.com/mango-adet"
         },
         {
           "name": "Broccoli 1 pc",
@@ -1221,14 +1227,15 @@
         },
         {
           "name": "Button Mushroom 200 g",
-          "imageUrl": "https://loremflickr.com/640/640/button%2Cmushroom%2C200%2Cg%2Cvegetables%2Cfruits?lock=1088",
+          "imageUrl": "https://cdn.media.amplience.net/i/Brakes/10290_6?%24pdp-mobile%24=&fmt=auto&img404=image-not-available&locale=en-gb&v=1",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.countrychoice.co.uk/grocery/vegetables/mushroom/button-mushrooms/p/10290"
         },
         {
           "name": "Lemon 250 g",
@@ -1255,14 +1262,15 @@
         },
         {
           "name": "Sweet Corn 2 pcs",
-          "imageUrl": "https://loremflickr.com/640/640/sweet%2Ccorn%2C2%2Cpcs%2Cvegetables%2Cfruits?lock=1091",
+          "imageUrl": "https://www.elcentralfyv.com.ar/front/img/fotoProductos/grande/choclo.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.elcentralfyv.com.ar/"
         }
       ]
     },

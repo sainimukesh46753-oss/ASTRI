@@ -556,14 +556,15 @@
         {
           "name": "Lakmé 9to5 Primer + Matte Foundation",
           "priceINR": 45,
-          "imageUrl": "https://loremflickr.com/640/640/lakm%2C9to5%2Cprimer%2Cmatte%2Cfoundation%2Cbeauty?lock=1037",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.lakmeindia.com/cdn/shop/files/9to5-primer-matte-perfect-cover-foundation_1000x.jpg?v=1742201670",
+          "imageSource": "Lakmé product listing image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.lakmeindia.com/collections/foundation/products/9to5-primer-matte-perfect-cover-foundation"
         },
         {
           "name": "Maybelline Fit Me Compact",
@@ -594,14 +595,15 @@
         {
           "name": "Maybelline Fit Me Concealer",
           "priceINR": 299,
-          "imageUrl": "https://loremflickr.com/640/640/maybelline%2Cfit%2Cme%2Cconcealer%2Cbeauty%2Ccosmetics?lock=1040",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/face-makeup/concealer/fit-me-concealer/modules/product-info/pdp-banner/fit-me-concealer.png",
+          "imageSource": "Maybelline India product image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.maybelline.co.in/all-products/face/concealer/fit-me-concealer"
         },
         {
           "name": "Lakmé Eyeconic Kajal",
@@ -619,14 +621,15 @@
         {
           "name": "Maybelline Colossal Eyeliner",
           "priceINR": 149,
-          "imageUrl": "https://loremflickr.com/640/640/maybelline%2Ccolossal%2Ceyeliner%2Cbeauty%2Ccosmetics%2Cproduct?lock=1042",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/eye-makeup/eyeliner/the-colossal-bold-eyeliner/modules/product-info/pdp-banner/colossal-bold-eyeliner.png",
+          "imageSource": "Maybelline India product image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.maybelline.co.in/all-products/eye/eyeliner/the-colossal-bold-eyeliner"
         },
         {
           "name": "Lakmé Color Crush Nail Polish",

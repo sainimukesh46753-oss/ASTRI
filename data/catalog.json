@@ -339,14 +339,15 @@
         {
           "name": "U-Shape Hair Clips",
           "priceINR": 60,
-          "imageUrl": "https://loremflickr.com/640/640/u%2Cshape%2Chair%2Cclips%2Chair%2Cproduct?lock=1023",
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/e/9/e9806847452216715620_1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.nykaaman.com/beautiliss-u-shaped-hair-pins-small-thick-black-ball-tip-metal/p/19977823"
         }
       ]
     },
@@ -1613,7 +1614,7 @@
         },
         {
           "name": "Madhur Sugar 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/madhur%2Csugar%2C1%2Ckg%2Coil%2Cghee?lock=1115",
+          "imageUrl": "https://www.madhursugar.com/assets/images/adv-pack-green.png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -1621,33 +1622,36 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.madhursugar.com/home"
         },
         {
           "name": "Tata Sampann Cumin Seeds 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/tata%2Csampann%2Ccumin%2Cseeds%2C100%2Cg?lock=1116",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/8d98fcad-e352-432a-86ad-83eb13e4f8e7.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/tata-sampann-cumin-seeds-jeera-seeds-whole-spices-100-g/prid/615957"
         },
         {
           "name": "Catch Black Pepper 50 g",
-          "imageUrl": "https://loremflickr.com/640/640/catch%2Cblack%2Cpepper%2C50%2Cg%2Coil?lock=1117",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771991783673-1257.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/catch-whole-black-pepper/prid/680616"
         },
         {
           "name": "Everest Kitchen King Masala 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/everest%2Ckitchen%2Cking%2Cmasala%2C100%2Cg?lock=1118",
+          "imageUrl": "https://cherrypick.city/cdn/shop/products/IPowderMasala100gEVRS3742xx281220_5_B.jpg?v=1649133239",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -1655,18 +1659,20 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://cherrypick.city/products/everest-kitchen-king-masala"
         },
         {
           "name": "Ginger Garlic Paste 200 g",
-          "imageUrl": "https://loremflickr.com/640/640/ginger%2Cgarlic%2Cpaste%2C200%2Cg%2Coil?lock=1119",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/Everest_Ginger_Garlic_Paste_200_Gm_5_031c7398-49db-4602-9136-e3e392a9d54f.jpg?v=1754328635&width=1445",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.starquik.com/products/everest-ginger-garlic-paste-200-gm-sc-sm72"
         }
       ]
     },

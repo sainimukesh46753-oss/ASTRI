@@ -1313,15 +1313,16 @@
       "products": [
         {
           "name": "Aashirvaad Whole Wheat Atta 5 kg",
-          "imageUrl": "https://loremflickr.com/640/640/aashirvaad%2Cwhole%2Cwheat%2Catta%2C5%2Ckg?lock=1092",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://digitalcontent.api.tesco.com/v2/media/ghs/d5d49013-1e1e-4f90-8392-21cc210a3fe0/8250de7c-69f7-4ff4-a254-72976ab6f51b_2071886938.jpeg",
+          "imageSource": "Verified product-specific retail listing photo",
           "packSizes": [
             "100 g",
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.tesco.com/shop/en-GB/products/318069340"
         },
         {
           "name": "Fortune Chakki Fresh Atta 5 kg",
@@ -2446,15 +2447,16 @@
         },
         {
           "name": "Act II Classic Salted Popcorn",
-          "imageUrl": "https://loremflickr.com/640/640/act%2Cii%2Cclassic%2Csalted%2Cpopcorn%2Cchips?lock=1177",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.jiomart.com/images/product/original/491391510/act-ii-classic-salted-popcorn-180-g-pack-of-3-product-images-o491391510-p590033067-4-202203170757.jpg?im=Resize%3D%281000%2C1000%29",
+          "imageSource": "Verified product-specific retail listing photo",
           "packSizes": [
             "100 g",
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/act-ii-classic-salted-popcorn-180-g-pack-of-3/590033067"
         },
         {
           "name": "Too Yumm Multigrain Chips",
@@ -2480,14 +2482,15 @@
         },
         {
           "name": "Haldiram's Namkeen Gift Pack",
-          "imageUrl": "https://loremflickr.com/640/640/haldiram%2Cs%2Cnamkeen%2Cgift%2Cpack%2Cchips?lock=1180",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.jamoona.com/cdn/shop/files/Haldiram-s-1-05kg-Meetha-Bhi---Namkeen-Bhi-Geschenkbox-9039910.png?v=1776443073",
+          "imageSource": "Verified product-specific retail listing photo",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.jamoona.com/products/haldirams-1-05kg-meetha-bhi-namkeen-bhi"
         }
       ]
     },
@@ -2825,14 +2828,15 @@
       "products": [
         {
           "name": "Tata Tea Gold 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/tata%2Ctea%2Cgold%2C500%2Cg%2Ctea?lock=1205",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ108204_FOP_f847c3cd-a869-4558-94cd-bc74444c35ba.jpg?v=1776844378&width=533",
+          "imageSource": "Verified product-specific retail listing photo",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.starquik.com/products/tata-gold-leaf-tea-500-gm-sc-st17"
         },
         {
           "name": "Taj Mahal Tea 250 g",
@@ -2847,14 +2851,15 @@
         },
         {
           "name": "Nescafé Classic Coffee 100 g",
-          "imageUrl": "https://loremflickr.com/640/640/nescaf%2Cclassic%2Ccoffee%2C100%2Cg%2Ctea?lock=1207",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://cdn.dotpe.in/longtail/item_thumbnails/8091773/qvC06dvj-800-800.webp",
+          "imageSource": "Verified product-specific retail listing photo",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.jabretail.in/product/32152269/Nescafe-Classic-Coffee-Glass-Jar--100gram--Ground"
         },
         {
           "name": "Bru Instant Coffee 100 g",
@@ -2964,15 +2969,16 @@
       "products": [
         {
           "name": "Maggi 2-Minute Masala Noodles",
-          "imageUrl": "https://loremflickr.com/640/640/maggi%2C2%2Cminute%2Cmasala%2Cnoodles%2Cinstant?lock=1216",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/67b326e8d62d1df800e245e4/8901058814606_1-640x640.png",
+          "imageSource": "Verified product-specific retail listing photo",
           "packSizes": [
             "100 g",
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.mystore.in/en/product/maggi-2-min-masala-instant-noodles-280-g-pouch"
         },
         {
           "name": "Sunfeast Yippee Magic Masala",
@@ -3120,14 +3126,15 @@
       "products": [
         {
           "name": "Kissan Fresh Tomato Ketchup 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/kissan%2Cfresh%2Ctomato%2Cketchup%2C500%2Cg?lock=1228",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://availeverything.com/public/uploads/all/bAFSxSlAlGbG0W0T8XPDTWkUbpjGpMmHJOB6Uh0G.jpg",
+          "imageSource": "Verified product-specific retail listing photo",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://availeverything.com/product/kissan-fresh-tomato-ketchup-bottle-500g"
         },
         {
           "name": "Maggi Hot & Sweet Sauce 500 g",
@@ -3197,14 +3204,15 @@
         },
         {
           "name": "Dabur Honey 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/dabur%2Choney%2C500%2Cg%2Csauces%2Cspreads?lock=1235",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/67b37afeccec3f7b6f502d2f/8901207043291_1.jpg",
+          "imageSource": "Verified product-specific retail listing photo",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.mystore.in/en/product/dabur-honey-500g-or-100percent-pure-or-worlds-no-1-honey-brand-with-no-sugar-adulteration"
         },
         {
           "name": "Veeba Thousand Island Dressing",

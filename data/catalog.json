@@ -2012,15 +2012,16 @@
         },
         {
           "name": "Weikfield Baking Powder",
-          "imageUrl": "https://loremflickr.com/640/640/weikfield%2Cbaking%2Cpowder%2Cbakery%2Cbiscuits%2Cproduct?lock=1145",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://weikfield.com/wp-content/uploads/2023/06/baking-powder-100-g-front-1.png",
+          "imageSource": "Official brand product image",
           "packSizes": [
             "100 g",
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://weikfield.com/products/baking-powder/"
         }
       ]
     },
@@ -2126,14 +2127,15 @@
         },
         {
           "name": "Bagrry's Muesli 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/bagrry%2Cs%2Cmuesli%2C500%2Cg%2Cdry?lock=1153",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://bagrrys.com/cdn/shop/files/1_3_5e1d0851-dfad-4935-82b4-64de801a0df8.jpg?v=1747630625&width=1500",
+          "imageSource": "Official brand product image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://bagrrys.com/products/crunchy-muesli-almond-raisin-honey"
         },
         {
           "name": "Quaker Oats 1 kg",

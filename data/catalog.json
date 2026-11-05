@@ -1846,69 +1846,75 @@
       "products": [
         {
           "name": "Britannia Good Day Butter Cookies",
-          "imageUrl": "https://loremflickr.com/640/640/britannia%2Cgood%2Cday%2Cbutter%2Ccookies%2Cbakery?lock=1134",
+          "imageUrl": "https://www.buniyaa.com/cdn/shop/files/1031414_1200x1200.jpg?v=1733424378",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.buniyaa.com/products/britannia-good-day-butter-cookies-2-6oz"
         },
         {
           "name": "Sunfeast Dark Fantasy Choco Fills",
-          "imageUrl": "https://loremflickr.com/640/640/sunfeast%2Cdark%2Cfantasy%2Cchoco%2Cfills%2Cbakery?lock=1135",
+          "imageUrl": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy%2Cf_auto%2Cq_auto/NI_CATALOG/IMAGES/CIW/2024/11/21/89981aa8-e04b-4f59-98e4-aeb6c683923a_328_1.png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.swiggy.com/instamart/p/sunfeast-dark-fantasy-choco-fills-biscuits-9H543QHMSY"
         },
         {
           "name": "Parle-G Original Glucose Biscuits",
-          "imageUrl": "https://loremflickr.com/640/640/parle%2Cg%2Coriginal%2Cglucose%2Cbiscuits%2Cbakery?lock=1136",
+          "imageUrl": "https://cdn.dotpe.in/longtail/item_thumbnails/9367125/esQk4lsh-800-800.webp",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.digitalbasket.co.in/product/parle-g-original-glucose-biscuit"
         },
         {
           "name": "Britannia NutriChoice Digestive",
-          "imageUrl": "https://loremflickr.com/640/640/britannia%2Cnutrichoice%2Cdigestive%2Cbakery%2Cbiscuits%2Cproduct?lock=1137",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/100012345_15-britannia-nutrichoice-digestive-high-fibre-biscuits.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/100012345/britannia-nutrichoice-digestive-high-fibre-biscuits-100-g/"
         },
         {
           "name": "Oreo Original Cream Biscuits",
-          "imageUrl": "https://loremflickr.com/640/640/oreo%2Coriginal%2Ccream%2Cbiscuits%2Cbakery%2Cbiscuits?lock=1138",
+          "imageUrl": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4910708711.jpg.41c3897735.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.jiomart.com/product/cadbury-oreo-pokemon-original-vanilla-cream-biscuit-4175-g-mffn0v-7522587"
         },
         {
           "name": "McVitie's Digestive Biscuits",
-          "imageUrl": "https://loremflickr.com/640/640/mcvitie%2Cs%2Cdigestive%2Cbiscuits%2Cbakery%2Cbiscuits?lock=1139",
+          "imageUrl": "https://images.apollo247.in/pub/media/catalog/product/m/c/mcv0063_1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/mc-vities-digestive-biscuits-200g-2-100g"
         },
         {
           "name": "Britannia Toast Rusk",

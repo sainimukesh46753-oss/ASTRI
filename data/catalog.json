@@ -543,14 +543,15 @@
         {
           "name": "Maybelline Creamy Matte Lipstick",
           "priceINR": 45,
-          "imageUrl": "https://loremflickr.com/640/640/maybelline%2Ccreamy%2Cmatte%2Clipstick%2Cbeauty%2Ccosmetics?lock=1036",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.maybelline.co.in/-/media/project/loreal/brand-sites/mny/apac/in/products/lip-makeup/lip-color/creamy-matte-lipstick/modules/product-info/pdp-banner/color-sensational-creamy-matte.png?hash=04069CD3AAA722DFE83666C56ECB1936&la=en-in&rev=139f2ff742b64bdfac4a5fa73538f058",
+          "imageSource": "Official Maybelline India product image",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.maybelline.co.in/all-products/lips/lipstick/color-sensational-creamy-matte"
         },
         {
           "name": "Lakmé 9to5 Primer + Matte Foundation",
@@ -738,14 +739,15 @@
       "products": [
         {
           "name": "Pampers Active Baby Diapers",
-          "imageUrl": "https://loremflickr.com/640/640/pampers%2Cactive%2Cbaby%2Cdiapers%2Cbaby%2Ccare?lock=1050",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.in.pampers.com/sites/in_pampers/files/styles/product_image/public/active_baby_taped_diapers.png",
+          "imageSource": "Official Pampers India product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.in.pampers.com/diapers-wipes/pampers-active-baby-taped-diapers"
         },
         {
           "name": "Huggies Wonder Pants",
@@ -771,14 +773,15 @@
         },
         {
           "name": "Johnson's Baby Shampoo",
-          "imageUrl": "https://loremflickr.com/640/640/johnson%2Cs%2Cbaby%2Cshampoo%2Cbaby%2Ccare?lock=1053",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.netmeds.com/images/product-v1/600x600/751605/johnsons_baby_shampoo_200_ml_0.jpg",
+          "imageSource": "Netmeds product listing image",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.netmeds.com/product/johnsons-baby-shampoo-200-ml-lufuup-7516057"
         },
         {
           "name": "Himalaya Baby Soap",

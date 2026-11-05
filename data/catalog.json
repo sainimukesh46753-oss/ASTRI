@@ -1740,14 +1740,15 @@
         },
         {
           "name": "Fresh White Bread 400 g",
-          "imageUrl": "https://loremflickr.com/640/640/fresh%2Cwhite%2Cbread%2C400%2Cg%2Cdairy?lock=1126",
+          "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D70%2Cmetadata%3Dnone%2Cw%3D1080/da/cms-assets/cms/product/f566e110-f210-45ff-ac97-4e555496bae3.png?bg_token=color.background.quaternary",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/am%27s-fresh-white-bread/prid/680434"
         },
         {
           "name": "Pav 6 pcs",
@@ -1807,25 +1808,27 @@
         },
         {
           "name": "Idli Dosa Batter 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/idli%2Cdosa%2Cbatter%2C1%2Ckg%2Cdairy?lock=1132",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ100598_7_9e979856-7b5f-4483-a4ed-631c1e99fffc.jpg?v=1776846341&width=1445",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.starquik.com/products/id-idli-dosa-batter-1-kg-sc-sm43"
         },
         {
           "name": "Amul Fresh Cream 250 ml",
-          "imageUrl": "https://loremflickr.com/640/640/amul%2Cfresh%2Ccream%2C250%2Cml%2Cdairy?lock=1133",
+          "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D85%2Cmetadata%3Dnone%2Cw%3D480%2Ch%3D480/app/images/products/full_screen/pro_162.jpg?ts=1592037497",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/sector-6-dwarka/prn/amul-fresh-cream/prid/162"
         }
       ]
     },
@@ -2727,14 +2730,15 @@
         },
         {
           "name": "Cold Coffee 250 ml",
-          "imageUrl": "https://loremflickr.com/640/640/cold%2Ccoffee%2C250%2Cml%2Cdrinks%2Cjuices?lock=1203",
+          "imageUrl": "https://cothas.com/cdn/shop/products/Classic-2_87d7f18d-69f3-4409-b92a-0d22d3b945fc.jpg?v=1645775178",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://cothas.com/products/classic-cold-coffee-pack-of-6"
         },
         {
           "name": "Nestea Iced Tea  pack",

@@ -759,25 +759,27 @@
         },
         {
           "name": "Huggies Wonder Pants",
-          "imageUrl": "https://loremflickr.com/640/640/huggies%2Cwonder%2Cpants%2Cbaby%2Ccare%2Cproduct?lock=1051",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772531570654-34.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/huggies-wonder-pant-pant-style-baby-diaper/prid/403204"
         },
         {
           "name": "Mother Sparsh Baby Wipes",
-          "imageUrl": "https://loremflickr.com/640/640/mother%2Csparsh%2Cbaby%2Cwipes%2Cbaby%2Ccare?lock=1052",
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/4/6/46493808908009149343AO.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.nykaa.com/mother-sparsh-99-water-wipes-72pcs/p/781025"
         },
         {
           "name": "Johnson's Baby Shampoo",
@@ -793,14 +795,15 @@
         },
         {
           "name": "Himalaya Baby Soap",
-          "imageUrl": "https://loremflickr.com/640/640/himalaya%2Cbaby%2Csoap%2Cbaby%2Ccare%2Cproduct?lock=1054",
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/d/3/d3a5b678901138511838as__1_.jpg?tr=w-500%2Ch-500",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 bar",
             "Pack of 3",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.nykaaman.com/himalaya-baby-care-gentle-baby-soap/reviews/152088"
         },
         {
           "name": "Cetaphil Baby Lotion",
@@ -828,14 +831,15 @@
         },
         {
           "name": "Philips Avent Feeding Bottle",
-          "imageUrl": "https://loremflickr.com/640/640/philips%2Cavent%2Cfeeding%2Cbottle%2Cbaby%2Ccare?lock=1057",
+          "imageUrl": "https://kidspasal.com/uploaded_images/product-images/LyM2WFsvvdppQrqJRL5w81Xgfvg06vq6z4jHPysa.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://kidspasal.com/product-detail/philips-avent-natural-response-baby-bottle-pack-of-2-260ml"
         },
         {
           "name": "Mee Mee Baby Nail Clipper",
@@ -851,25 +855,27 @@
         },
         {
           "name": "Baby Toothbrush",
-          "imageUrl": "https://loremflickr.com/640/640/baby%2Ctoothbrush%2Cbaby%2Ccare%2Cproduct?lock=1059",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/332863ee-e4f6-48f1-81a0-e6067f8fa4ad.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece / pack",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/colgate-extra-soft-baby-toothbrush-0-2-years/prid/342498"
         },
         {
           "name": "Soft Baby Rattle",
-          "imageUrl": "https://loremflickr.com/640/640/soft%2Cbaby%2Crattle%2Cbaby%2Ccare%2Cproduct?lock=1060",
+          "imageUrl": "https://miniklub.in/cdn/shop/files/50TURT1098_2.jpg?v=1756559902",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://miniklub.in/products/50turt1098-miniklub-baby-multi-color-ring-lion-soft-rattle-toy"
         },
         {
           "name": "Baby Cotton Bibs",

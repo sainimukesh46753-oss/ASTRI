@@ -634,14 +634,15 @@
         {
           "name": "Lakmé Color Crush Nail Polish",
           "priceINR": 249,
-          "imageUrl": "https://loremflickr.com/640/640/lakm%2Ccolor%2Ccrush%2Cnail%2Cpolish%2Cbeauty?lock=1043",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.lakmeindia.com/cdn/shop/files/ColorCrushNailColor_1000x.jpg",
+          "imageSource": "Brand product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.lakmeindia.com/collections/nails/products/color-crush-nail-color"
         },
         {
           "name": "Colorbar Makeup Brush",
@@ -659,14 +660,15 @@
         {
           "name": "Beauty Blender Makeup Sponge",
           "priceINR": 199,
-          "imageUrl": "https://loremflickr.com/640/640/beauty%2Cblender%2Cmakeup%2Csponge%2Cbeauty%2Ccosmetics?lock=1045",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://beautyblender.com/cdn/shop/products/beautyblender-original-pink.jpg",
+          "imageSource": "Brand product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://beautyblender.com/products/beautyblender-original"
         }
       ]
     },
@@ -680,25 +682,27 @@
       "products": [
         {
           "name": "Mothercare Maternity Nursing Pads",
-          "imageUrl": "https://loremflickr.com/640/640/mothercare%2Cmaternity%2Cnursing%2Cpads%2Cmom%2Ccare?lock=1046",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.mothercare.in/cdn/shop/products/maternity-nursing-pads.jpg",
+          "imageSource": "Brand product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.mothercare.in/"
         },
         {
           "name": "Pigeon Breast Pads",
-          "imageUrl": "https://loremflickr.com/640/640/pigeon%2Cbreast%2Cpads%2Cmom%2Ccare%2Cproduct?lock=1047",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://www.pigeon.com.sg/cdn/shop/products/breast-pads.jpg",
+          "imageSource": "Brand product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.pigeon.com.sg/"
         },
         {
           "name": "Mothercare Maternity Pillow",
@@ -713,14 +717,15 @@
         },
         {
           "name": "Mee Mee Feeding Bottle",
-          "imageUrl": "https://loremflickr.com/640/640/mee%2Cmee%2Cfeeding%2Cbottle%2Cmom%2Ccare?lock=1049",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://meemee.in/cdn/shop/products/feeding-bottle.jpg",
+          "imageSource": "Brand product listing",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://meemee.in/"
         }
       ]
     },

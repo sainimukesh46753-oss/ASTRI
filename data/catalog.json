@@ -1302,7 +1302,7 @@
         },
         {
           "name": "Fortune Chakki Fresh Atta 5 kg",
-          "imageUrl": "https://loremflickr.com/640/640/fortune%2Cchakki%2Cfresh%2Catta%2C5%2Ckg?lock=1093",
+          "imageUrl": "https://services.kpnfresh.com/media/v1/products/images/25b1266f-27e7-40f9-8f2c-9493c7d7642f/fortune-chakki-fresh-atta-5kg.webp?c_type=C1",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -1310,11 +1310,12 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.kpnfresh.com/fortune-chakki-fresh-atta/p/10037414"
         },
         {
           "name": "India Gate Classic Basmati Rice 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/india%2Cgate%2Cclassic%2Cbasmati%2Crice%2C1?lock=1094",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ100551_3_75a9ea60-7019-4ec0-8b40-dd38d027280d.jpg?v=1776845402&width=1445",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -1322,11 +1323,12 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.starquik.com/products/india-gate-classic-basmati-rice-1-kg"
         },
         {
           "name": "Daawat Rozana Gold Rice 5 kg",
-          "imageUrl": "https://loremflickr.com/640/640/daawat%2Crozana%2Cgold%2Crice%2C5%2Ckg?lock=1095",
+          "imageUrl": "https://www.jiomart.com/images/product/original/490005638/daawat-rozana-gold-basmati-rice-5-kg-product-images-o490005638-p490005638-0-202506271911.jpg?im=Resize%3D%28420%2C420%29",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -1334,11 +1336,12 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/daawat-rozana-gold-basmati-rice-5-kg/490005638"
         },
         {
           "name": "Tata Sampann Toor Dal 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/tata%2Csampann%2Ctoor%2Cdal%2C1%2Ckg?lock=1096",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ100261_82a157b3-d62b-4ff1-a376-7a25cf82198e.jpg?v=1750958884",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -1346,7 +1349,8 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.starquik.com/products/tata-sampann-arhar-tur-dal-split-1-kg-sc-sm78"
         },
         {
           "name": "Tata Sampann Moong Dal 1 kg",
@@ -1646,14 +1650,15 @@
       "products": [
         {
           "name": "Amul Taaza Toned Milk 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/amul%2Ctaaza%2Ctoned%2Cmilk%2C1%2Cl?lock=1120",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ103016_6277fb26-960a-48c2-bc60-5255d273694d.jpg?v=1754322783&width=416",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.starquik.com/products/amul-taaza-toned-milk-tetrapack-1-ltr-sc-st10"
         },
         {
           "name": "Mother Dairy Full Cream Milk 1 L",
@@ -2023,14 +2028,15 @@
         },
         {
           "name": "Kellogg's Corn Flakes 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/kellogg%2Cs%2Ccorn%2Cflakes%2C500%2Cg?lock=1151",
+          "imageUrl": "https://images.kglobalservices.com/www.kelloggs.in/en_in/product/product_2501740/prod_img-940037_en_in_08901499008893_2606111119_p_1.png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.kelloggs.com/en-in/products/corn-flakes/corn-flakes-original-and-the-best-cereal.html"
         },
         {
           "name": "Kellogg's Chocos 375 g",

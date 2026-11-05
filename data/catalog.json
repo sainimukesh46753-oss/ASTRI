@@ -1037,36 +1037,39 @@
       "products": [
         {
           "name": "Potato 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/potato%2C1%2Ckg%2Cvegetables%2Cfruits%2Cproduct?lock=1072",
+          "imageUrl": "https://rudriinternational.com/product_imgs/img_6870ec2c603245.57301489.png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://rudriinternational.com/product/potato"
         },
         {
           "name": "Onion 1 kg",
-          "imageUrl": "https://loremflickr.com/640/640/onion%2C1%2Ckg%2Cvegetables%2Cfruits%2Cproduct?lock=1073",
+          "imageUrl": "https://img1.exportersindia.com/product_images/bc-full/2021/1/8384633/fresh-yellow-onion-1610783806-5691676.jpeg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.exportersindia.com/product-detail/jute-bags-fresh-yellow-onion-5691676.htm"
         },
         {
           "name": "Tomato 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/tomato%2C500%2Cg%2Cvegetables%2Cfruits%2Cproduct?lock=1074",
+          "imageUrl": "https://www.instacart.com/image-server/1864x1864/www.instacart.com/assets/domains/product-image/file/large_5319d10e-1707-4d6f-9f56-08c84c84e69d.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.instacart.com/products/3257899-tomato-each"
         },
         {
           "name": "Green Capsicum 500 g",
@@ -1081,25 +1084,27 @@
         },
         {
           "name": "Cucumber 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/cucumber%2C500%2Cg%2Cvegetables%2Cfruits%2Cproduct?lock=1076",
+          "imageUrl": "https://gb.static.quickcommerce.org/products/7784b3f3-de9c-45a4-8917-633a3c623735.png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.justzapp.com/product/GB-1294"
         },
         {
           "name": "Carrot 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/carrot%2C500%2Cg%2Cvegetables%2Cfruits%2Cproduct?lock=1077",
+          "imageUrl": "https://natureland.net/_next/image/?q=65&url=https%3A%2F%2Fnaturelandcdn-master.fra1.cdn.digitaloceanspaces.com%2Fmedia%2Fnoname%2Fsku%2FGosLsv%2Fef40d2e3-9830-44e7-9298-a6ce16473ea1_KwejE9-ML.jpeg&w=3840",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://natureland.net/en-AE/product/carrot-500g-1772/"
         },
         {
           "name": "Cauliflower 1 pc",
@@ -1147,25 +1152,27 @@
         },
         {
           "name": "Banana 6 pcs",
-          "imageUrl": "https://loremflickr.com/640/640/banana%2C6%2Cpcs%2Cvegetables%2Cfruits%2Cproduct?lock=1082",
+          "imageUrl": "https://img500.exportersindia.com/product_images/bc-500/2021/10/8803553/fresh-banana-1633417670-6023249.jpeg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.exportersindia.com/product-detail/yellow-fresh-banana-6023249.htm"
         },
         {
           "name": "Apple 4 pcs",
-          "imageUrl": "https://loremflickr.com/640/640/apple%2C4%2Cpcs%2Cvegetables%2Cfruits%2Cproduct?lock=1083",
+          "imageUrl": "https://media.barakatfresh.ae/media/catalog/product/cache/e85d0fdb5fbf79e79412217fb64bb734/r/e/red-apple-washed-and-sanitized.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://barakatfresh.ae/apple-red-washed-and-sanitised.html"
         },
         {
           "name": "Kinnow 1 kg",
@@ -1202,14 +1209,15 @@
         },
         {
           "name": "Broccoli 1 pc",
-          "imageUrl": "https://loremflickr.com/640/640/broccoli%2C1%2Cpc%2Cvegetables%2Cfruits%2Cproduct?lock=1087",
+          "imageUrl": "https://s7g10.scene7.com/is/image/aldinord/product_1219260_main_cms_1_nl_nl_broccoli_cw01_2024",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.aldi.nl/product/broccoli-1219260.html"
         },
         {
           "name": "Button Mushroom 200 g",
@@ -1224,14 +1232,15 @@
         },
         {
           "name": "Lemon 250 g",
-          "imageUrl": "https://loremflickr.com/640/640/lemon%2C250%2Cg%2Cvegetables%2Cfruits%2Cproduct?lock=1089",
+          "imageUrl": "https://www.instacart.com/image-server/1864x1864/www.instacart.com/assets/domains/product-image/file/large_f03cac65-9210-420c-bdbb-498fa5fe7514.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.instacart.ca/products/17952176-lemon-115-ct"
         },
         {
           "name": "Coconut 1 pc",

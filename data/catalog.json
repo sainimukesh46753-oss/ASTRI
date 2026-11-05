@@ -2450,69 +2450,75 @@
       "products": [
         {
           "name": "Cadbury Dairy Milk Silk",
-          "imageUrl": "https://loremflickr.com/640/640/cadbury%2Cdairy%2Cmilk%2Csilk%2Csweets%2Cchocolates?lock=1181",
+          "imageUrl": "https://www.vishalmegamart.com/on/demandware.static/-/Sites-vmm-fmcg-master-catalog/default/dwea1eb210/images/large/1310010891.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.vishalmegamart.com/en-in/food/processed-foods/chocolates-and-sweets/cadbury-dairy-milk-silk-chocolate/1310010891.html"
         },
         {
           "name": "Cadbury Dairy Milk",
-          "imageUrl": "https://loremflickr.com/640/640/cadbury%2Cdairy%2Cmilk%2Csweets%2Cchocolates%2Cproduct?lock=1182",
+          "imageUrl": "https://www.topprice.in/image/cache/catalog/amazon_store_feed/a5bcb934cfaa74767e4daf56e03ebe7f8ef3c95f-600x600.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.topprice.in/cadbury-dairy-milk-chocolate-bar-family-pack-126g-p258519"
         },
         {
           "name": "KitKat 4 Finger",
-          "imageUrl": "https://loremflickr.com/640/640/kitkat%2C4%2Cfinger%2Csweets%2Cchocolates%2Cproduct?lock=1183",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ106515_FOP_7ce141dc-3bdb-4411-929a-1fa58760aef8.jpg?v=1776848533",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.starquik.com/products/nestle-kit-kat-4-finger-38-5-gm-sc-sm55"
         },
         {
           "name": "Ferrero Rocher 16 pcs",
-          "imageUrl": "https://loremflickr.com/640/640/ferrero%2Crocher%2C16%2Cpcs%2Csweets%2Cchocolates?lock=1184",
+          "imageUrl": "https://www.fnp.com/images/pr/x/v20210808203629/ferrero-rocher-t16-pieces-ma18_1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.fnp.com/gift/ferrero-rocher-t16-pieces-ma18"
         },
         {
           "name": "Amul Dark Chocolate",
-          "imageUrl": "https://loremflickr.com/640/640/amul%2Cdark%2Cchocolate%2Csweets%2Cchocolates%2Cproduct?lock=1185",
+          "imageUrl": "https://www.silkrute.ca/images/detailed/4199/61b2Ae0EqML.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.silkrute.ca/grocery/sweet/chocolate/amul-dark-chocolate-150-gram/"
         },
         {
           "name": "Haldiram's Soan Papdi",
-          "imageUrl": "https://loremflickr.com/640/640/haldiram%2Cs%2Csoan%2Cpapdi%2Csweets%2Cchocolates?lock=1186",
+          "imageUrl": "https://lotusfoodstores.com.au/cdn/shop/files/66c6ef3101078.webp?v=1724313399",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://lotusfoodstores.com.au/products/haldirams-soan-papdi-red-500g-swhspr500"
         },
         {
           "name": "Kaju Katli 250 g",

@@ -3199,14 +3199,15 @@
         },
         {
           "name": "Ching's Schezwan Chutney 250 g",
-          "imageUrl": "https://loremflickr.com/640/640/ching%2Cs%2Cschezwan%2Cchutney%2C250%2Cg?lock=1234",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageUrl": "https://rkbazar.in/cdn/shop/files/40924_1_fc4fdb2e-bf31-4441-8ce3-7ac4ab69a4dd_600x.jpg?v=1726567480",
+          "imageSource": "Verified exact product and pack-size listing image",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://rkbazar.in/collections/jam-ketch-up-sarbat"
         },
         {
           "name": "Dabur Honey 500 g",

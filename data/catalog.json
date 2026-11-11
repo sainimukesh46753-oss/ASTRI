@@ -128,9 +128,6 @@
           "name": "Listerine Cool Mint Mouthwash",
           "priceINR": 160,
           "imageUrl": "https://www.jiomart.com/images/product/original/490823636/listerine-cool-mint-mouthwash-500-ml-product-images-o490823636-p490823636-0-202209221923.jpg?im=Resize%3D%281000%2C1000%29",
-          "galleryImages": [
-            "https://loremflickr.com/640/640/listerine%2Ccool%2Cmint%2Cmouthwash%2Cbath?lock=1009"
-          ],
           "imageSource": "Product-specific image verified from retailer listing; source linked",
           "packSizes": [
             "50 ml / 100 ml",
@@ -2201,8 +2198,7 @@
         },
         {
           "name": "Poha 500 g",
-          "imageUrl": "https://image.cdn.shpy.in/411647/97133_1-rajdhani-poha-mota-1774098625852.webp?format=webp",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "1 piece",
             "Pack of 2",
@@ -4878,8 +4874,7 @@
         {
           "name": "Basmati rice",
           "priceINR": 75,
-          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ100551_3_75a9ea60-7019-4ec0-8b40-dd38d027280d.jpg?v=1776845402&width=1445",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "1KG",
             "5KG",
@@ -5200,8 +5195,7 @@
         {
           "name": "Vermicelli",
           "priceINR": 75,
-          "imageUrl": "https://www.yumyum.co.in/cdn/shop/files/400g_Vermicelli_400g_Pouch-F.jpg?v=1725089735&width=533",
-          "imageSource": "Verified product-specific image from Yum Yum product listing",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "500G",
             "1KG"
@@ -6506,8 +6500,7 @@
         {
           "name": "Raisins",
           "priceINR": 190,
-          "imageUrl": "https://saiswastikorganics.com/images/shop/products.jpg",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "500G",
             "1KG"
@@ -6676,8 +6669,7 @@
         {
           "name": "Biryani spices packet",
           "priceINR": 55,
-          "imageUrl": "https://ekgaon.com/img/p/6/2/2/1/6221-large_default.jpg",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "10G",
             "20G",
@@ -7482,8 +7474,7 @@
         {
           "name": "Shaving lotion",
           "priceINR": 110,
-          "imageUrl": "https://www.bombayshavingcompany.com/cdn/shop/files/Untitled_design_27_1880x.jpg?v=1721720829",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "100ML"
           ],
@@ -7550,8 +7541,7 @@
         {
           "name": "Razor blades",
           "priceINR": 85,
-          "imageUrl": "https://www.bombayshavingcompany.com/cdn/shop/files/Untitled_design_27_1880x.jpg?v=1721720829",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "1 pack"
           ],
@@ -7810,8 +7800,7 @@
         {
           "name": "Kitchen tissue",
           "priceINR": 95,
-          "imageUrl": "https://image.cdn.shpy.in/491789/householdessentials-1771325974878.png?format=webp",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "1",
             "2 rolls"
@@ -8023,8 +8012,7 @@
         {
           "name": "Deepa oil",
           "priceINR": 145,
-          "imageUrl": "https://in.swahaproducts.com/cdn/shop/files/Combo3_6_1200x1200.jpg?v=1696315880",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "500ML",
             "1L"
@@ -8046,8 +8034,7 @@
         {
           "name": "Cotton thread",
           "priceINR": 85,
-          "imageUrl": "https://www.satvikly.com/app/uploads/2025/10/Diwali-Puja-Kit.png",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "1 roll"
           ],
@@ -8068,8 +8055,7 @@
         {
           "name": "Camphor",
           "priceINR": 85,
-          "imageUrl": "https://www.satvikly.com/app/uploads/2025/10/Diwali-Puja-Kit.png",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "25G",
             "50G",
@@ -8092,8 +8078,7 @@
         {
           "name": "Incense sticks",
           "priceINR": 85,
-          "imageUrl": "https://www.satvikly.com/app/uploads/2025/10/Diwali-Puja-Kit.png",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "1 pack"
           ],
@@ -8136,8 +8121,7 @@
         {
           "name": "Rock candy or dry grapes for neivedyam",
           "priceINR": 85,
-          "imageUrl": "https://www.satvikly.com/app/uploads/2025/10/Diwali-Puja-Kit.png",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "100G",
             "250G",
@@ -8210,8 +8194,7 @@
         {
           "name": "Batteries",
           "priceINR": 85,
-          "imageUrl": "https://bharatmart.co.ao/storage/img-1374.PNG",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "2",
             "4 count"
@@ -8233,8 +8216,7 @@
         {
           "name": "Candles",
           "priceINR": 85,
-          "imageUrl": "https://www.satvikly.com/app/uploads/2025/10/Diwali-Puja-Kit.png",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "1",
             "6 count"
@@ -8331,8 +8313,7 @@
         {
           "name": "Rasam powder",
           "priceINR": 55,
-          "imageUrl": "https://www.jiomart.com/images/product/original/rvble9ul0g/bambino-combo-pack-of-ginger-garlic-paste-i-rava-idli-mix-i-madras-sambar-powder-i-madras-rasam-powder-product-images-orvble9ul0g-p607001275-0-202312291706.jpg?im=Resize%3D%281000%2C1000%29",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "50G",
             "100G",
@@ -8379,8 +8360,7 @@
         {
           "name": "Idli podi",
           "priceINR": 85,
-          "imageUrl": "https://looknbuyent.in/web/image/product.template/74/image_1024?unique=06f49ca",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "50G",
             "100G",
@@ -8403,8 +8383,7 @@
         {
           "name": "Ginger, Garlic paste",
           "priceINR": 85,
-          "imageUrl": "https://www.jiomart.com/images/product/original/rvble9ul0g/bambino-combo-pack-of-ginger-garlic-paste-i-rava-idli-mix-i-madras-sambar-powder-i-madras-rasam-powder-product-images-orvble9ul0g-p607001275-0-202312291706.jpg?im=Resize%3D%281000%2C1000%29",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "100G",
             "200G",
@@ -8451,8 +8430,7 @@
         {
           "name": "Ready to eat products",
           "priceINR": 85,
-          "imageUrl": "https://bansalsupermarket.com/upload/category/grocery_staples/branded_grocessary.png",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "200G",
             "300G",
@@ -8475,8 +8453,7 @@
         {
           "name": "Vathakuzhambu powder",
           "priceINR": 55,
-          "imageUrl": "https://www.jiomart.com/images/product/original/rvble9ul0g/bambino-combo-pack-of-ginger-garlic-paste-i-rava-idli-mix-i-madras-sambar-powder-i-madras-rasam-powder-product-images-orvble9ul0g-p607001275-0-202312291706.jpg?im=Resize%3D%281000%2C1000%29",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "50G",
             "100G",
@@ -8544,8 +8521,7 @@
         {
           "name": "Cereals",
           "priceINR": 85,
-          "imageUrl": "https://bansalsupermarket.com/upload/category/grocery_staples/branded_grocessary.png",
-          "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
+          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
           "packSizes": [
             "250G",
             "500G"

@@ -8013,7 +8013,7 @@
         {
           "name": "Deepa oil",
           "priceINR": 145,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "JioMart product image matched to this product type",
           "packSizes": [
             "500ML",
             "1L"
@@ -8030,12 +8030,13 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://in.swahaproducts.com/products/swaha-grand-puja-kit-dasara"
+          "imageAttributionUrl": "https://www.jiomart.com/sections/pooja-needs",
+          "imageUrl": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/t.resize%28w%3A250%29/images/othe/egurhk/.j/pg/0000000004931800551.jpg.a6ae46682b.jpg"
         },
         {
           "name": "Cotton thread",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "JioMart product image matched to this product type",
           "packSizes": [
             "1 roll"
           ],
@@ -8051,12 +8052,13 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.satvikly.com/product/diwali-puja-kit/"
+          "imageAttributionUrl": "https://www.jiomart.com/sections/pooja-needs",
+          "imageUrl": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/t.resize%28w%3A250%29/images/othe/egurhk/.j/pg/0000000004924153431.jpg.b256bde754.jpg"
         },
         {
           "name": "Camphor",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "JioMart product image matched to this product type",
           "packSizes": [
             "25G",
             "50G",
@@ -8074,12 +8076,13 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.satvikly.com/product/diwali-puja-kit/"
+          "imageAttributionUrl": "https://www.jiomart.com/sections/pooja-needs",
+          "imageUrl": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/t.resize%28w%3A250%29/images/othe/egurhk/.j/pg/0000000004912932181.jpg.2eca235040.jpg"
         },
         {
           "name": "Incense sticks",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "JioMart product image matched to this product type",
           "packSizes": [
             "1 pack"
           ],
@@ -8095,7 +8098,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.satvikly.com/product/diwali-puja-kit/"
+          "imageAttributionUrl": "https://www.jiomart.com/sections/pooja-needs",
+          "imageUrl": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/t.resize%28w%3A250%29/images/othe/egurhk/.j/pg/4915841931.jpg.4ca6932722.jpg"
         },
         {
           "name": "Dhoop",

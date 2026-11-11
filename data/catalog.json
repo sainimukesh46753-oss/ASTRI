@@ -6937,7 +6937,7 @@
         {
           "name": "Jam",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/jam%2Cother%2Cingredients%2Cproduct?lock=1411",
+          "imageUrl": "https://www.jiomart.com/images/product/original/490000827/kissan-mixed-fruit-jam-200-g-product-images-o490000827-p490000827-0-202511251710.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -6956,12 +6956,13 @@
             "Gits"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/kissan-mixed-fruit-jam-500-g/490001975"
         },
         {
           "name": "Mayonnaise",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/mayonnaise%2Cother%2Cingredients%2Cproduct?lock=1412",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40109851_4-veeba-mayonnaise-classic.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -6980,12 +6981,13 @@
             "Gits"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40109851/veeba-mayonnaise-classic-250-g/"
         },
         {
           "name": "Pizza sauce",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/pizza%2Csauce%2Cother%2Cingredients%2Cproduct?lock=1413",
+          "imageUrl": "https://pasal101.thulo.com.np/assets/tenant/uploads/media-uploader/pasal101/grid/grid-20240628011734_1560571295.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -7004,12 +7006,13 @@
             "Gits"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://pasal101.thulo.com.np/shop/product/del-monte-pizza-pasta-sauce-400g"
         },
         {
           "name": "Organic honey",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/organic%2Choney%2Cother%2Cingredients%2Cproduct?lock=1414",
+          "imageUrl": "https://static.wixstatic.com/media/e1e9e8_0f498e2989d24d63bdde2f3b8f21a027~mv2.jpg/v1/fill/w_1500%2Ch_1500%2Cal_c%2Cq_90%2Cenc_avif%2Cquality_auto/e1e9e8_0f498e2989d24d63bdde2f3b8f21a027~mv2.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -7028,7 +7031,8 @@
             "Gits"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.agamyastore.com/product-page/dabur-honey-1kg"
         },
         {
           "name": "Bread packet",
@@ -7105,7 +7109,7 @@
         {
           "name": "Cheese block",
           "priceINR": 90,
-          "imageUrl": "https://loremflickr.com/640/640/cheese%2Cblock%2Cdairy%2Cproducts%2Cproduct?lock=1418",
+          "imageUrl": "https://www.jiomart.com/images/product/original/490001401/amul-cheese-block-200-g-product-images-o490001401-p490001401-0-202508221256.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "200G",
@@ -7122,7 +7126,8 @@
             "Pride of Cows"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/amul-cheese-block-200-g-carton/490001401"
         },
         {
           "name": "Butter",
@@ -7641,7 +7646,7 @@
         {
           "name": "Washing soaps",
           "priceINR": 55,
-          "imageUrl": "https://loremflickr.com/640/640/washing%2Csoaps%2Ccleaning%2Cproducts%2Cproduct?lock=1441",
+          "imageUrl": "https://cdn.dotpe.in/longtail/store-items/7804179/GnXAsJh6.jpeg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 bar",
@@ -7658,7 +7663,8 @@
             "Dettol"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.digikirana.in/product/29360062/Detergent-Soap-Bar--RIN-"
         },
         {
           "name": "Toilet cleaner",
@@ -7686,7 +7692,7 @@
         {
           "name": "Floor cleaner",
           "priceINR": 95,
-          "imageUrl": "https://loremflickr.com/640/640/floor%2Ccleaner%2Ccleaning%2Cproducts%2Cproduct?lock=1443",
+          "imageUrl": "https://static-01.daraz.com.np/p/dcd90a6919d90885992c5a98645e2065.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500ML",
@@ -7703,7 +7709,8 @@
             "Dettol"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.daraz.com.np/products/lizol-shakti-disinfectant-floor-cleaner-suitable-for-all-floor-cleaner-mops-2x-better-cleaning-vs-phenyl-assorted-sizes-available-450ml-900ml-i154545728.html"
         },
         {
           "name": "Kitchen cleaner",
@@ -7754,7 +7761,7 @@
         {
           "name": "Toilet paper",
           "priceINR": 145,
-          "imageUrl": "https://loremflickr.com/640/640/toilet%2Cpaper%2Ccleaning%2Cproducts%2Cproduct?lock=1446",
+          "imageUrl": "https://www.racknsell.com/public/thumbs/products/129658/NEFVutj3fWGIT7mK_500_500.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "2",
@@ -7772,7 +7779,8 @@
             "Dettol"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.racknsell.com/product/productdetails/330959-origami-origami-tissue-paper-roll-toilet-3-ply-160-pulls-per-roll-960-sheets-pack-of-6"
         },
         {
           "name": "Kitchen tissue",

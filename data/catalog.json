@@ -689,7 +689,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.mothercare.in/"
+          "imageAttributionUrl": "https://www.mothercare.in/",
+          "priceINR": 199,
+          "priceStatus": "indicative"
         },
         {
           "name": "Pigeon Breast Pads",
@@ -701,7 +703,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.pigeon.com.sg/"
+          "imageAttributionUrl": "https://www.pigeon.com.sg/",
+          "priceINR": 199,
+          "priceStatus": "indicative"
         },
         {
           "name": "Mothercare Maternity Pillow",
@@ -713,7 +717,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.mothercare.ro/en/maternity"
+          "imageAttributionUrl": "https://www.mothercare.ro/en/maternity",
+          "priceINR": 899,
+          "priceStatus": "indicative"
         },
         {
           "name": "Mee Mee Feeding Bottle",
@@ -725,7 +731,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://meemee.in/"
+          "imageAttributionUrl": "https://meemee.in/",
+          "priceINR": 299,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -755,7 +763,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.in.pampers.com/diapers-wipes/pampers-active-baby-taped-diapers"
+          "imageAttributionUrl": "https://www.in.pampers.com/diapers-wipes/pampers-active-baby-taped-diapers",
+          "priceINR": 399,
+          "priceStatus": "indicative"
         },
         {
           "name": "Huggies Wonder Pants",
@@ -767,7 +777,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/huggies-wonder-pant-pant-style-baby-diaper/prid/403204"
+          "imageAttributionUrl": "https://blinkit.com/prn/huggies-wonder-pant-pant-style-baby-diaper/prid/403204",
+          "priceINR": 399,
+          "priceStatus": "indicative"
         },
         {
           "name": "Mother Sparsh Baby Wipes",
@@ -779,7 +791,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.nykaa.com/mother-sparsh-99-water-wipes-72pcs/p/781025"
+          "imageAttributionUrl": "https://www.nykaa.com/mother-sparsh-99-water-wipes-72pcs/p/781025",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "Johnson's Baby Shampoo",
@@ -791,7 +805,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.netmeds.com/product/johnsons-baby-shampoo-200-ml-lufuup-7516057"
+          "imageAttributionUrl": "https://www.netmeds.com/product/johnsons-baby-shampoo-200-ml-lufuup-7516057",
+          "priceINR": 110,
+          "priceStatus": "indicative"
         },
         {
           "name": "Himalaya Baby Soap",
@@ -803,7 +819,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.nykaaman.com/himalaya-baby-care-gentle-baby-soap/reviews/152088"
+          "imageAttributionUrl": "https://www.nykaaman.com/himalaya-baby-care-gentle-baby-soap/reviews/152088",
+          "priceINR": 75,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cetaphil Baby Lotion",
@@ -815,7 +833,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.cetaphil.in/baby-skincare/baby-daily-lotion/IN_9318637043316.html"
+          "imageAttributionUrl": "https://www.cetaphil.in/baby-skincare/baby-daily-lotion/IN_9318637043316.html",
+          "priceINR": 225,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cerelac Wheat Apple Cereal",
@@ -827,7 +847,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.familynes.in/cerelac/nestle-cerelac-stage-1/cerelac-wheat-apple-no-refined-sugar-no-preservatives-720g"
+          "imageAttributionUrl": "https://www.familynes.in/cerelac/nestle-cerelac-stage-1/cerelac-wheat-apple-no-refined-sugar-no-preservatives-720g",
+          "priceINR": 275,
+          "priceStatus": "indicative"
         },
         {
           "name": "Philips Avent Feeding Bottle",
@@ -839,7 +861,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://kidspasal.com/product-detail/philips-avent-natural-response-baby-bottle-pack-of-2-260ml"
+          "imageAttributionUrl": "https://kidspasal.com/product-detail/philips-avent-natural-response-baby-bottle-pack-of-2-260ml",
+          "priceINR": 599,
+          "priceStatus": "indicative"
         },
         {
           "name": "Mee Mee Baby Nail Clipper",
@@ -851,7 +875,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://meemee.in/products/mee-mee-gentle-baby-nail-clipper-with-skin-guard-protector"
+          "imageAttributionUrl": "https://meemee.in/products/mee-mee-gentle-baby-nail-clipper-with-skin-guard-protector",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "Baby Toothbrush",
@@ -863,7 +889,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/colgate-extra-soft-baby-toothbrush-0-2-years/prid/342498"
+          "imageAttributionUrl": "https://blinkit.com/prn/colgate-extra-soft-baby-toothbrush-0-2-years/prid/342498",
+          "priceINR": 49,
+          "priceStatus": "indicative"
         },
         {
           "name": "Soft Baby Rattle",
@@ -875,7 +903,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://miniklub.in/products/50turt1098-miniklub-baby-multi-color-ring-lion-soft-rattle-toy"
+          "imageAttributionUrl": "https://miniklub.in/products/50turt1098-miniklub-baby-multi-color-ring-lion-soft-rattle-toy",
+          "priceINR": 149,
+          "priceStatus": "indicative"
         },
         {
           "name": "Baby Cotton Bibs",
@@ -887,7 +917,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.exportersindia.com/product-detail/mee-mee-muslin-bibs-with-adjustable-velcro-closure-2768164888.htm"
+          "imageAttributionUrl": "https://www.exportersindia.com/product-detail/mee-mee-muslin-bibs-with-adjustable-velcro-closure-2768164888.htm",
+          "priceINR": 149,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -924,7 +956,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.dettol.co.in/personal-hygiene/antiseptics/dettol-antiseptic-liquid-original-250ml/"
+          "imageAttributionUrl": "https://www.dettol.co.in/personal-hygiene/antiseptics/dettol-antiseptic-liquid-original-250ml/",
+          "priceINR": 95,
+          "priceStatus": "indicative"
         },
         {
           "name": "Savlon Antiseptic Liquid",
@@ -936,7 +970,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.healthpotli.com/product/savlon-antiseptic-liquid-hp7541/534573"
+          "imageAttributionUrl": "https://www.healthpotli.com/product/savlon-antiseptic-liquid-hp7541/534573",
+          "priceINR": 95,
+          "priceStatus": "indicative"
         },
         {
           "name": "Dr. Morepen Digital Thermometer",
@@ -948,7 +984,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://rudrabrothers.in/products/dr-morepen-digital-thermometer"
+          "imageAttributionUrl": "https://rudrabrothers.in/products/dr-morepen-digital-thermometer",
+          "priceINR": 299,
+          "priceStatus": "indicative"
         },
         {
           "name": "N95 Protective Mask",
@@ -960,7 +998,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.healthkart.com/sv/tata-1mg-n95-headloop-face-mask/SP-125451"
+          "imageAttributionUrl": "https://www.healthkart.com/sv/tata-1mg-n95-headloop-face-mask/SP-125451",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Hand Sanitizer",
@@ -972,7 +1012,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://sastasundar.com/order-otc/ciphands-antiseptic-hand-sanitizer-500-ml-6pk67r"
+          "imageAttributionUrl": "https://sastasundar.com/order-otc/ciphands-antiseptic-hand-sanitizer-500-ml-6pk67r",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Hansaplast Washproof Bandages",
@@ -984,7 +1026,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/hansaplast-washproof-anti-septic-adhesive-bandage/prid/620921"
+          "imageAttributionUrl": "https://blinkit.com/prn/hansaplast-washproof-anti-septic-adhesive-bandage/prid/620921",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Omron Digital Blood Pressure Monitor",
@@ -996,7 +1040,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://rudrabrothers.in/collections/blood-pressure-monitor"
+          "imageAttributionUrl": "https://rudrabrothers.in/collections/blood-pressure-monitor",
+          "priceINR": 1799,
+          "priceStatus": "indicative"
         },
         {
           "name": "Accu-Chek Glucometer Starter Kit",
@@ -1008,7 +1054,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.netmeds.com/product/accu-chek-guide-glucometer-kit-with-free-10-strips-luham0-7987198"
+          "imageAttributionUrl": "https://www.netmeds.com/product/accu-chek-guide-glucometer-kit-with-free-10-strips-luham0-7987198",
+          "priceINR": 1299,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tynor Knee Cap",
@@ -1020,7 +1068,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/tynor-knee-cap-xl-pair"
+          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/tynor-knee-cap-xl-pair",
+          "priceINR": 349,
+          "priceStatus": "indicative"
         },
         {
           "name": "Adult Care Protective Underwear",
@@ -1032,7 +1082,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/avm-super-dry-protective-underwear-l-xl-10-pcs-pack-pack-of-1/595797901"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/avm-super-dry-protective-underwear-l-xl-10-pcs-pack-pack-of-1/595797901",
+          "priceINR": 499,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -1062,7 +1114,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://rudriinternational.com/product/potato"
+          "imageAttributionUrl": "https://rudriinternational.com/product/potato",
+          "priceINR": 30,
+          "priceStatus": "indicative"
         },
         {
           "name": "Onion 1 kg",
@@ -1074,7 +1128,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.exportersindia.com/product-detail/jute-bags-fresh-yellow-onion-5691676.htm"
+          "imageAttributionUrl": "https://www.exportersindia.com/product-detail/jute-bags-fresh-yellow-onion-5691676.htm",
+          "priceINR": 30,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tomato 500 g",
@@ -1086,7 +1142,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.instacart.com/products/3257899-tomato-each"
+          "imageAttributionUrl": "https://www.instacart.com/products/3257899-tomato-each",
+          "priceINR": 30,
+          "priceStatus": "indicative"
         },
         {
           "name": "Green Capsicum 500 g",
@@ -1098,7 +1156,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://veggiefresh.co.nz/products/capsicum-green"
+          "imageAttributionUrl": "https://veggiefresh.co.nz/products/capsicum-green",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cucumber 500 g",
@@ -1110,7 +1170,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.justzapp.com/product/GB-1294"
+          "imageAttributionUrl": "https://www.justzapp.com/product/GB-1294",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Carrot 500 g",
@@ -1122,7 +1184,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://natureland.net/en-AE/product/carrot-500g-1772/"
+          "imageAttributionUrl": "https://natureland.net/en-AE/product/carrot-500g-1772/",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cauliflower 1 pc",
@@ -1134,7 +1198,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.swiggy.com/instamart/city/bangalore/sc/fresh-vegetables/fresh-vegetables-6821d56d09ab2e00019aa5db"
+          "imageAttributionUrl": "https://www.swiggy.com/instamart/city/bangalore/sc/fresh-vegetables/fresh-vegetables-6821d56d09ab2e00019aa5db",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         },
         {
           "name": "Spinach 1 bunch",
@@ -1146,7 +1212,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.beybeyfarms.com/products/spinach"
+          "imageAttributionUrl": "https://www.beybeyfarms.com/products/spinach",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Coriander 1 bunch",
@@ -1158,7 +1226,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://handla.ica.se/produkt/2096004"
+          "imageAttributionUrl": "https://handla.ica.se/produkt/2096004",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Green Chilli 100 g",
@@ -1170,7 +1240,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://vizaggrocers.com/en/vegetables/47-greenchilli-paccimirci-hareemirch.html"
+          "imageAttributionUrl": "https://vizaggrocers.com/en/vegetables/47-greenchilli-paccimirci-hareemirch.html",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Banana 6 pcs",
@@ -1182,7 +1254,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.exportersindia.com/product-detail/yellow-fresh-banana-6023249.htm"
+          "imageAttributionUrl": "https://www.exportersindia.com/product-detail/yellow-fresh-banana-6023249.htm",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         },
         {
           "name": "Apple 4 pcs",
@@ -1194,7 +1268,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://barakatfresh.ae/apple-red-washed-and-sanitised.html"
+          "imageAttributionUrl": "https://barakatfresh.ae/apple-red-washed-and-sanitised.html",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kinnow 1 kg",
@@ -1206,7 +1282,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://cityinstamart.com/products/details/kinnow-orange-1-kg"
+          "imageAttributionUrl": "https://cityinstamart.com/products/details/kinnow-orange-1-kg",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         },
         {
           "name": "Pomegranate 2 pcs",
@@ -1218,7 +1296,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.aishcart.in/fruits/1029-sweet-big-pomegranate-1kg.html"
+          "imageAttributionUrl": "https://www.aishcart.in/fruits/1029-sweet-big-pomegranate-1kg.html",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Mango 1 kg",
@@ -1230,7 +1310,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://gizova.com/mango-adet"
+          "imageAttributionUrl": "https://gizova.com/mango-adet",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Broccoli 1 pc",
@@ -1242,7 +1324,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.aldi.nl/product/broccoli-1219260.html"
+          "imageAttributionUrl": "https://www.aldi.nl/product/broccoli-1219260.html",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Button Mushroom 200 g",
@@ -1254,7 +1338,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.countrychoice.co.uk/grocery/vegetables/mushroom/button-mushrooms/p/10290"
+          "imageAttributionUrl": "https://www.countrychoice.co.uk/grocery/vegetables/mushroom/button-mushrooms/p/10290",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Lemon 250 g",
@@ -1266,7 +1352,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.instacart.ca/products/17952176-lemon-115-ct"
+          "imageAttributionUrl": "https://www.instacart.ca/products/17952176-lemon-115-ct",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Coconut 1 pc",
@@ -1278,7 +1366,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://gcc.luluhypermarket.com/en-ae/coconut-whole-india-1-pc/p/42555"
+          "imageAttributionUrl": "https://gcc.luluhypermarket.com/en-ae/coconut-whole-india-1-pc/p/42555",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Sweet Corn 2 pcs",
@@ -1290,7 +1380,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.elcentralfyv.com.ar/"
+          "imageAttributionUrl": "https://www.elcentralfyv.com.ar/",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -1319,7 +1411,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.tesco.com/shop/en-GB/products/318069340"
+          "imageAttributionUrl": "https://www.tesco.com/shop/en-GB/products/318069340",
+          "priceINR": 280,
+          "priceStatus": "indicative"
         },
         {
           "name": "Fortune Chakki Fresh Atta 5 kg",
@@ -1332,7 +1426,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.kpnfresh.com/fortune-chakki-fresh-atta/p/10037414"
+          "imageAttributionUrl": "https://www.kpnfresh.com/fortune-chakki-fresh-atta/p/10037414",
+          "priceINR": 280,
+          "priceStatus": "indicative"
         },
         {
           "name": "India Gate Classic Basmati Rice 1 kg",
@@ -1345,7 +1441,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.starquik.com/products/india-gate-classic-basmati-rice-1-kg"
+          "imageAttributionUrl": "https://www.starquik.com/products/india-gate-classic-basmati-rice-1-kg",
+          "priceINR": 145,
+          "priceStatus": "indicative"
         },
         {
           "name": "Daawat Rozana Gold Rice 5 kg",
@@ -1358,7 +1456,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/daawat-rozana-gold-basmati-rice-5-kg/490005638"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/daawat-rozana-gold-basmati-rice-5-kg/490005638",
+          "priceINR": 280,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tata Sampann Toor Dal 1 kg",
@@ -1371,7 +1471,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.starquik.com/products/tata-sampann-arhar-tur-dal-split-1-kg-sc-sm78"
+          "imageAttributionUrl": "https://www.starquik.com/products/tata-sampann-arhar-tur-dal-split-1-kg-sc-sm78",
+          "priceINR": 120,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tata Sampann Moong Dal 1 kg",
@@ -1384,7 +1486,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.swiggy.com/instamart/p/tata-sampann-unpolished-moong-dal-SRT6H6INB4"
+          "imageAttributionUrl": "https://www.swiggy.com/instamart/p/tata-sampann-unpolished-moong-dal-SRT6H6INB4",
+          "priceINR": 120,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tata Sampann Chana Dal 1 kg",
@@ -1397,7 +1501,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.dailymart4u.in/product/tata-sampann-chana-dal-1kg-best-price-specs-reviews-17267/"
+          "imageAttributionUrl": "https://www.dailymart4u.in/product/tata-sampann-chana-dal-1kg-best-price-specs-reviews-17267/",
+          "priceINR": 120,
+          "priceStatus": "indicative"
         },
         {
           "name": "Rajdhani Besan 500 g",
@@ -1409,7 +1515,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/rajdhani-besan-500-g/490006667"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/rajdhani-besan-500-g/490006667",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Fortune Suji 500 g",
@@ -1421,7 +1529,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.rksmartstore.com/products/fortune-suji-500gm-SKU-5764"
+          "imageAttributionUrl": "https://www.rksmartstore.com/products/fortune-suji-500gm-SKU-5764",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Rajdhani Maida 1 kg",
@@ -1433,7 +1543,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/rajdhani-maida-1-kg/prid/55428"
+          "imageAttributionUrl": "https://blinkit.com/prn/rajdhani-maida-1-kg/prid/55428",
+          "priceINR": 120,
+          "priceStatus": "indicative"
         },
         {
           "name": "Rajma 500 g",
@@ -1445,7 +1557,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.swiggy.com/stores/instamart/p/rajdhani-rajma-lal-packaging-might-vary-HWXBRXWDZV"
+          "imageAttributionUrl": "https://www.swiggy.com/stores/instamart/p/rajdhani-rajma-lal-packaging-might-vary-HWXBRXWDZV",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kabuli Chana 500 g",
@@ -1457,7 +1571,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.thegrocart.com/products/rajdhani-kabuli-chana-dollar-500g-SKU-8776"
+          "imageAttributionUrl": "https://www.thegrocart.com/products/rajdhani-kabuli-chana-dollar-500g-SKU-8776",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Organic Tattva Ragi Flour 500 g",
@@ -1470,7 +1586,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://organictattva.com/products/organic-ragi-flour"
+          "imageAttributionUrl": "https://organictattva.com/products/organic-ragi-flour",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Poha 500 g",
@@ -1482,7 +1600,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.cyffro.com/products/rajdhani-poha-500-g"
+          "imageAttributionUrl": "https://www.cyffro.com/products/rajdhani-poha-500-g",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Daliya 500 g",
@@ -1495,7 +1615,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.vishalmegamart.com/en-in/food/staples/atta-and-flours/rajdhani-dalia-%2F-broken-wheat/1313006805.html"
+          "imageAttributionUrl": "https://www.vishalmegamart.com/en-in/food/staples/atta-and-flours/rajdhani-dalia-%2F-broken-wheat/1313006805.html",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -1524,7 +1646,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/40161771/fortune-sunflower-oil-1-l-bottle/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40161771/fortune-sunflower-oil-1-l-bottle/",
+          "priceINR": 145,
+          "priceStatus": "indicative"
         },
         {
           "name": "Dhara Mustard Oil 1 L",
@@ -1536,7 +1660,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/212470/dhara-oil-mustard-kachi-ghani-1-l-bottle/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/212470/dhara-oil-mustard-kachi-ghani-1-l-bottle/",
+          "priceINR": 145,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Pure Ghee 1 L",
@@ -1548,7 +1674,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://spencers.in/product-detail/amul-pure-ghee-tetra-pack?id=PRDD326A99874124E4D9D2900F9BB3279D2"
+          "imageAttributionUrl": "https://spencers.in/product-detail/amul-pure-ghee-tetra-pack?id=PRDD326A99874124E4D9D2900F9BB3279D2",
+          "priceINR": 620,
+          "priceStatus": "indicative"
         },
         {
           "name": "Patanjali Cow Ghee 1 L",
@@ -1560,7 +1688,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.patanjaliayurved.net/product/natural-health-care/ghee/patanjali-cows-ghee-pet-jar/4116"
+          "imageAttributionUrl": "https://www.patanjaliayurved.net/product/natural-health-care/ghee/patanjali-cows-ghee-pet-jar/4116",
+          "priceINR": 620,
+          "priceStatus": "indicative"
         },
         {
           "name": "Everest Turmeric Powder 100 g",
@@ -1573,7 +1703,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.dmart.in/product/everest-turmeric-powder"
+          "imageAttributionUrl": "https://www.dmart.in/product/everest-turmeric-powder",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Everest Red Chilli Powder 100 g",
@@ -1585,7 +1717,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://indiabazaar.pl/products/everest-kashmirilal-red-chilli-powder-100g"
+          "imageAttributionUrl": "https://indiabazaar.pl/products/everest-kashmirilal-red-chilli-powder-100g",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "MDH Garam Masala 100 g",
@@ -1598,7 +1732,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.silkrute.com/grocery/spices/powdered-spices/garam-masala/garam-masala-100g/"
+          "imageAttributionUrl": "https://www.silkrute.com/grocery/spices/powdered-spices/garam-masala/garam-masala-100g/",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tata Salt 1 kg",
@@ -1611,7 +1747,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.desertcart.in/products/76367027-tata-salt-1kg"
+          "imageAttributionUrl": "https://www.desertcart.in/products/76367027-tata-salt-1kg",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         },
         {
           "name": "Madhur Sugar 1 kg",
@@ -1624,7 +1762,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.madhursugar.com/home"
+          "imageAttributionUrl": "https://www.madhursugar.com/home",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tata Sampann Cumin Seeds 100 g",
@@ -1636,7 +1776,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/tata-sampann-cumin-seeds-jeera-seeds-whole-spices-100-g/prid/615957"
+          "imageAttributionUrl": "https://blinkit.com/prn/tata-sampann-cumin-seeds-jeera-seeds-whole-spices-100-g/prid/615957",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         },
         {
           "name": "Catch Black Pepper 50 g",
@@ -1648,7 +1790,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/catch-whole-black-pepper/prid/680616"
+          "imageAttributionUrl": "https://blinkit.com/prn/catch-whole-black-pepper/prid/680616",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         },
         {
           "name": "Everest Kitchen King Masala 100 g",
@@ -1661,7 +1805,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://cherrypick.city/products/everest-kitchen-king-masala"
+          "imageAttributionUrl": "https://cherrypick.city/products/everest-kitchen-king-masala",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Ginger Garlic Paste 200 g",
@@ -1673,7 +1819,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.starquik.com/products/everest-ginger-garlic-paste-200-gm-sc-sm72"
+          "imageAttributionUrl": "https://www.starquik.com/products/everest-ginger-garlic-paste-200-gm-sc-sm72",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -1702,7 +1850,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.starquik.com/products/amul-taaza-toned-milk-tetrapack-1-ltr-sc-st10"
+          "imageAttributionUrl": "https://www.starquik.com/products/amul-taaza-toned-milk-tetrapack-1-ltr-sc-st10",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Mother Dairy Full Cream Milk 1 L",
@@ -1714,7 +1864,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.zepto.com/pn/mother-dairy-full-cream-toned-milk-pouch/pvid/62109d5d-3f9e-45ff-9f2f-e8684763fe26"
+          "imageAttributionUrl": "https://www.zepto.com/pn/mother-dairy-full-cream-toned-milk-pouch/pvid/62109d5d-3f9e-45ff-9f2f-e8684763fe26",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Masti Dahi 400 g",
@@ -1726,7 +1878,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/amul-masti-cup-curd/prid/94410"
+          "imageAttributionUrl": "https://blinkit.com/prn/amul-masti-cup-curd/prid/94410",
+          "priceINR": 75,
+          "priceStatus": "indicative"
         },
         {
           "name": "Mother Dairy Classic Curd 400 g",
@@ -1738,7 +1892,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/mother-dairy-classic-dahi-400-g-cup/590041365"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/mother-dairy-classic-dahi-400-g-cup/590041365",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Butter 100 g",
@@ -1750,7 +1906,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.tenat.in/products/amul-pasteurised-butter100g-100grams-butter-more"
+          "imageAttributionUrl": "https://www.tenat.in/products/amul-pasteurised-butter100g-100grams-butter-more",
+          "priceINR": 60,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Cheese Slices 200 g",
@@ -1762,7 +1920,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.unithvanow.com/products/amul-pure-milk-cheese-slices-200gm-10-slices-SKU-2980"
+          "imageAttributionUrl": "https://www.unithvanow.com/products/amul-pure-milk-cheese-slices-200gm-10-slices-SKU-2980",
+          "priceINR": 135,
+          "priceStatus": "indicative"
         },
         {
           "name": "Fresh White Bread 400 g",
@@ -1774,7 +1934,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/am%27s-fresh-white-bread/prid/680434"
+          "imageAttributionUrl": "https://blinkit.com/prn/am%27s-fresh-white-bread/prid/680434",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         },
         {
           "name": "Pav 6 pcs",
@@ -1786,7 +1948,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/harvest-gold-bombay-pav/prid/65677"
+          "imageAttributionUrl": "https://blinkit.com/prn/harvest-gold-bombay-pav/prid/65677",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         },
         {
           "name": "Farm Fresh Eggs 6 pcs",
@@ -1798,7 +1962,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/product/prid/500290"
+          "imageAttributionUrl": "https://blinkit.com/prn/product/prid/500290",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Paneer 200 g",
@@ -1810,7 +1976,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://geetanjali-pawase.myshopify.com/products/amul-paneer"
+          "imageAttributionUrl": "https://geetanjali-pawase.myshopify.com/products/amul-paneer",
+          "priceINR": 95,
+          "priceStatus": "indicative"
         },
         {
           "name": "Soy Milk 1 L",
@@ -1822,7 +1990,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/so-good-original-soy-milk-1-l-tetra-pak/590363607"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/so-good-original-soy-milk-1-l-tetra-pak/590363607",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Lassi  pack",
@@ -1834,7 +2004,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/amul-sweet-lassi/prid/656965"
+          "imageAttributionUrl": "https://blinkit.com/prn/amul-sweet-lassi/prid/656965",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Idli Dosa Batter 1 kg",
@@ -1846,7 +2018,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.starquik.com/products/id-idli-dosa-batter-1-kg-sc-sm43"
+          "imageAttributionUrl": "https://www.starquik.com/products/id-idli-dosa-batter-1-kg-sc-sm43",
+          "priceINR": 85,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Fresh Cream 250 ml",
@@ -1858,7 +2032,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/sector-6-dwarka/prn/amul-fresh-cream/prid/162"
+          "imageAttributionUrl": "https://blinkit.com/sector-6-dwarka/prn/amul-fresh-cream/prid/162",
+          "priceINR": 75,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -1887,7 +2063,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.buniyaa.com/products/britannia-good-day-butter-cookies-2-6oz"
+          "imageAttributionUrl": "https://www.buniyaa.com/products/britannia-good-day-butter-cookies-2-6oz",
+          "priceINR": 30,
+          "priceStatus": "indicative"
         },
         {
           "name": "Sunfeast Dark Fantasy Choco Fills",
@@ -1899,7 +2077,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.swiggy.com/instamart/p/sunfeast-dark-fantasy-choco-fills-biscuits-9H543QHMSY"
+          "imageAttributionUrl": "https://www.swiggy.com/instamart/p/sunfeast-dark-fantasy-choco-fills-biscuits-9H543QHMSY",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         },
         {
           "name": "Parle-G Original Glucose Biscuits",
@@ -1911,7 +2091,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.digitalbasket.co.in/product/parle-g-original-glucose-biscuit"
+          "imageAttributionUrl": "https://www.digitalbasket.co.in/product/parle-g-original-glucose-biscuit",
+          "priceINR": 10,
+          "priceStatus": "indicative"
         },
         {
           "name": "Britannia NutriChoice Digestive",
@@ -1923,7 +2105,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/100012345/britannia-nutrichoice-digestive-high-fibre-biscuits-100-g/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/100012345/britannia-nutrichoice-digestive-high-fibre-biscuits-100-g/",
+          "priceINR": 30,
+          "priceStatus": "indicative"
         },
         {
           "name": "Oreo Original Cream Biscuits",
@@ -1935,7 +2119,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/product/cadbury-oreo-pokemon-original-vanilla-cream-biscuit-4175-g-mffn0v-7522587"
+          "imageAttributionUrl": "https://www.jiomart.com/product/cadbury-oreo-pokemon-original-vanilla-cream-biscuit-4175-g-mffn0v-7522587",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         },
         {
           "name": "McVitie's Digestive Biscuits",
@@ -1947,7 +2133,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/mc-vities-digestive-biscuits-200g-2-100g"
+          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/mc-vities-digestive-biscuits-200g-2-100g",
+          "priceINR": 30,
+          "priceStatus": "indicative"
         },
         {
           "name": "Britannia Toast Rusk",
@@ -1959,7 +2147,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.wellnessforever.com/product/brit-rusk-suji-225gm"
+          "imageAttributionUrl": "https://www.wellnessforever.com/product/brit-rusk-suji-225gm",
+          "priceINR": 40,
+          "priceStatus": "indicative"
         },
         {
           "name": "Unibic Choco Chip Cookies",
@@ -1971,7 +2161,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.mamtaqualitystore.in/products/unibic-choco-chip-cookies-150gm-SKU-3603"
+          "imageAttributionUrl": "https://www.mamtaqualitystore.in/products/unibic-choco-chip-cookies-150gm-SKU-3603",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         },
         {
           "name": "Britannia Treat Croissant",
@@ -1983,7 +2175,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/1223901/britannia-winkin-cow-cold-coffee-180-ml-treat-croissant-cocoa-creme-filling-45-g-combo/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/1223901/britannia-winkin-cow-cold-coffee-180-ml-treat-croissant-cocoa-creme-filling-45-g-combo/",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Brownie Slice",
@@ -1995,7 +2189,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://kasabeeston.com/products/brownie-slices"
+          "imageAttributionUrl": "https://kasabeeston.com/products/brownie-slices",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Vanilla Muffin 2 pcs",
@@ -2007,7 +2203,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/40307253/bread-crumbz-vanilla-muffins-150-g/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40307253/bread-crumbz-vanilla-muffins-150-g/",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Weikfield Baking Powder",
@@ -2020,7 +2218,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://weikfield.com/products/baking-powder/"
+          "imageAttributionUrl": "https://weikfield.com/products/baking-powder/",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -2049,7 +2249,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.tenalidoublehorse.com/products/premium-almonds-200-grams"
+          "imageAttributionUrl": "https://www.tenalidoublehorse.com/products/premium-almonds-200-grams",
+          "priceINR": 170,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cashews 200 g",
@@ -2061,7 +2263,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/40232837/tata-sampann-100-pure-premium-cashews-whole-flavourful-deluxe-size-200-g-pouch/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40232837/tata-sampann-100-pure-premium-cashews-whole-flavourful-deluxe-size-200-g-pouch/",
+          "priceINR": 190,
+          "priceStatus": "indicative"
         },
         {
           "name": "Pistachios 100 g",
@@ -2073,7 +2277,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://mirchi.com/pistachio-100g-foodio-fit"
+          "imageAttributionUrl": "https://mirchi.com/pistachio-100g-foodio-fit",
+          "priceINR": 180,
+          "priceStatus": "indicative"
         },
         {
           "name": "Raisins 200 g",
@@ -2085,7 +2291,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://aapkabazar.co/16942/pd/tata-sampann-100-premium-raisins-seedless-200-gm"
+          "imageAttributionUrl": "https://aapkabazar.co/16942/pd/tata-sampann-100-premium-raisins-seedless-200-gm",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Happilo Trail Mix 200 g",
@@ -2098,7 +2306,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://happilo.com/products/happilo-premium-international-nutty-trail-mix"
+          "imageAttributionUrl": "https://happilo.com/products/happilo-premium-international-nutty-trail-mix",
+          "priceINR": 220,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kellogg's Corn Flakes 500 g",
@@ -2110,7 +2320,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.kelloggs.com/en-in/products/corn-flakes/corn-flakes-original-and-the-best-cereal.html"
+          "imageAttributionUrl": "https://www.kelloggs.com/en-in/products/corn-flakes/corn-flakes-original-and-the-best-cereal.html",
+          "priceINR": 190,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kellogg's Chocos 375 g",
@@ -2122,7 +2334,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://groceryeshop.us/products/kelloggs-kelloggs-chocos-whole-grain-375g"
+          "imageAttributionUrl": "https://groceryeshop.us/products/kelloggs-kelloggs-chocos-whole-grain-375g",
+          "priceINR": 175,
+          "priceStatus": "indicative"
         },
         {
           "name": "Bagrry's Muesli 500 g",
@@ -2134,7 +2348,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://bagrrys.com/products/crunchy-muesli-almond-raisin-honey"
+          "imageAttributionUrl": "https://bagrrys.com/products/crunchy-muesli-almond-raisin-honey",
+          "priceINR": 240,
+          "priceStatus": "indicative"
         },
         {
           "name": "Quaker Oats 1 kg",
@@ -2146,7 +2362,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.panchamrutha.com/products/quaker-rolled-oats-1-kg-pouch"
+          "imageAttributionUrl": "https://www.panchamrutha.com/products/quaker-rolled-oats-1-kg-pouch",
+          "priceINR": 160,
+          "priceStatus": "indicative"
         },
         {
           "name": "Lion Dates 500 g",
@@ -2158,7 +2376,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/lion-sultan-dates-500-g/prid/745997"
+          "imageAttributionUrl": "https://blinkit.com/prn/lion-sultan-dates-500-g/prid/745997",
+          "priceINR": 140,
+          "priceStatus": "indicative"
         },
         {
           "name": "Chia Seeds 100 g",
@@ -2170,7 +2390,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.yumyum.co.in/products/yum-yum-chia-seeds"
+          "imageAttributionUrl": "https://www.yumyum.co.in/products/yum-yum-chia-seeds",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Roasted Pumpkin Seeds 100 g",
@@ -2182,7 +2404,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.yumyum.co.in/products/yum-yum-roasted-salted-pumpkin-seeds"
+          "imageAttributionUrl": "https://www.yumyum.co.in/products/yum-yum-roasted-salted-pumpkin-seeds",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Vermicelli 400 g",
@@ -2194,7 +2418,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.yumyum.co.in/collections/breakfast-cereals"
+          "imageAttributionUrl": "https://www.yumyum.co.in/collections/breakfast-cereals",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Poha 500 g",
@@ -2206,7 +2432,9 @@
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
           "imageAttributionUrl": "https://www.aroohimart.com/products/tata-sampann-tata-sampann-poha-500-g-500g",
-          "imageUrl": "https://image.cdn.shpy.in/449522/610AaD9VQcL_SL1000_-1754660720297.jpeg?format=webp&width=600"
+          "imageUrl": "https://image.cdn.shpy.in/449522/610AaD9VQcL_SL1000_-1754660720297.jpeg?format=webp&width=600",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -2236,7 +2464,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.abgallery.in/products/milton-thermosteel-24-hours-hot-cold-water-bottle-with-bag-1000-ml"
+          "imageAttributionUrl": "https://www.abgallery.in/products/milton-thermosteel-24-hours-hot-cold-water-bottle-with-bag-1000-ml",
+          "priceINR": 699,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cello Plastic Water Bottle 1 L",
@@ -2248,7 +2478,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/cello-venice-plastic-bottle-set-of-3-1-l/prid/620885"
+          "imageAttributionUrl": "https://blinkit.com/prn/cello-venice-plastic-bottle-set-of-3-1-l/prid/620885",
+          "priceINR": 299,
+          "priceStatus": "indicative"
         },
         {
           "name": "Borosil Glass Set 6 pcs",
@@ -2260,7 +2492,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://myborosil.com/products/borosil-crest-whiskey-glass-set-of-6-305ml"
+          "imageAttributionUrl": "https://myborosil.com/products/borosil-crest-whiskey-glass-set-of-6-305ml",
+          "priceINR": 499,
+          "priceStatus": "indicative"
         },
         {
           "name": "Prestige Nonstick Fry Pan  t",
@@ -2272,7 +2506,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://shop.ttkprestige.com/prestige-omega-select-plus-ib-non-stick-cookware-fry-pan-240-mm-dia.html"
+          "imageAttributionUrl": "https://shop.ttkprestige.com/prestige-omega-select-plus-ib-non-stick-cookware-fry-pan-240-mm-dia.html",
+          "priceINR": 599,
+          "priceStatus": "indicative"
         },
         {
           "name": "Stainless Steel Saucepan 1 pc",
@@ -2284,7 +2520,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.cherahomejunction.com/products/hawkins-pro-triply-stainless-steel-sauce-pan-1-5l-with-lid-induction-gas-compatible-pssp15s-silver"
+          "imageAttributionUrl": "https://www.cherahomejunction.com/products/hawkins-pro-triply-stainless-steel-sauce-pan-1-5l-with-lid-induction-gas-compatible-pssp15s-silver",
+          "priceINR": 399,
+          "priceStatus": "indicative"
         },
         {
           "name": "Lock & Lock Food Container",
@@ -2296,7 +2534,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bunnings.com.au/lock-lock-classic-square-short-container-1-2l_p0158292"
+          "imageAttributionUrl": "https://www.bunnings.com.au/lock-lock-classic-square-short-container-1-2l_p0158292",
+          "priceINR": 249,
+          "priceStatus": "indicative"
         },
         {
           "name": "Lunch Box 3 Compartment",
@@ -2308,7 +2548,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://cartnow.in/products/5500_ss_3compartment_lunch_box"
+          "imageAttributionUrl": "https://cartnow.in/products/5500_ss_3compartment_lunch_box",
+          "priceINR": 299,
+          "priceStatus": "indicative"
         },
         {
           "name": "Stainless Steel Vegetable Peeler",
@@ -2320,7 +2562,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://fourbrothers.in/products/premium-stainless-steel-peeler-for-vegetables-fruits"
+          "imageAttributionUrl": "https://fourbrothers.in/products/premium-stainless-steel-peeler-for-vegetables-fruits",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "Pigeon Electric Kettle 1.5 L",
@@ -2332,7 +2576,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://applianceindex.com/models/pigeon-pigeon-1-5-litre-hot-kettle"
+          "imageAttributionUrl": "https://applianceindex.com/models/pigeon-pigeon-1-5-litre-hot-kettle",
+          "priceINR": 999,
+          "priceStatus": "indicative"
         },
         {
           "name": "Philips Mixer Grinder",
@@ -2345,7 +2591,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://cartup.com/product/philips_mixer_grinder_hl775700_750_watts_powerful_turbo_motor-3_jars_348340277868163_wwbny8"
+          "imageAttributionUrl": "https://cartup.com/product/philips_mixer_grinder_hl775700_750_watts_powerful_turbo_motor-3_jars_348340277868163_wwbny8",
+          "priceINR": 2499,
+          "priceStatus": "indicative"
         },
         {
           "name": "Paper Napkins 100 pcs",
@@ -2357,7 +2605,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/home-one-paper-napkin-29-x-29-cm-100-pcs/590441807"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/home-one-paper-napkin-29-x-29-cm-100-pcs/590441807",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -2386,7 +2636,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.zipgro.in/products/haldirams-classic-salted-chips"
+          "imageAttributionUrl": "https://www.zipgro.in/products/haldirams-classic-salted-chips",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kurkure Masala Munch",
@@ -2399,7 +2651,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://desigros.com/products/kurkure-masala-munch-90g"
+          "imageAttributionUrl": "https://desigros.com/products/kurkure-masala-munch-90g",
+          "priceINR": 20,
+          "priceStatus": "indicative"
         },
         {
           "name": "Haldiram's Aloo Bhujia",
@@ -2411,7 +2665,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.pankaj-boutique.com/en/indian-food/5770-namkeen-indian-aloo-bhujia.html"
+          "imageAttributionUrl": "https://www.pankaj-boutique.com/en/indian-food/5770-namkeen-indian-aloo-bhujia.html",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Haldiram's Moong Dal",
@@ -2424,7 +2680,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/haldirams-moong-dal-namkeen/prid/19295"
+          "imageAttributionUrl": "https://blinkit.com/prn/haldirams-moong-dal-namkeen/prid/19295",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Bingo! Mad Angles",
@@ -2436,7 +2694,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.snackspause.com/products/bingo-mad-angles-masala-indian-flavour"
+          "imageAttributionUrl": "https://www.snackspause.com/products/bingo-mad-angles-masala-indian-flavour",
+          "priceINR": 20,
+          "priceStatus": "indicative"
         },
         {
           "name": "Doritos Nacho Cheese",
@@ -2448,7 +2708,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://pricehistory.app/p/doritos-nachos-cheese-44-gm-ltOz9hw8"
+          "imageAttributionUrl": "https://pricehistory.app/p/doritos-nachos-cheese-44-gm-ltOz9hw8",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         },
         {
           "name": "Act II Classic Salted Popcorn",
@@ -2461,7 +2723,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/act-ii-classic-salted-popcorn-180-g-pack-of-3/590033067"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/act-ii-classic-salted-popcorn-180-g-pack-of-3/590033067",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         },
         {
           "name": "Too Yumm Multigrain Chips",
@@ -2473,7 +2737,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://marchepatel.com/product/too-yumm-multigrain-chips/"
+          "imageAttributionUrl": "https://marchepatel.com/product/too-yumm-multigrain-chips/",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         },
         {
           "name": "Lijjat Papad",
@@ -2485,7 +2751,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.ubuy.co.in/product/6YRUL53U-lijjat-urad-papad-200gm"
+          "imageAttributionUrl": "https://www.ubuy.co.in/product/6YRUL53U-lijjat-urad-papad-200gm",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Haldiram's Namkeen Gift Pack",
@@ -2497,7 +2765,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jamoona.com/products/haldirams-1-05kg-meetha-bhi-namkeen-bhi"
+          "imageAttributionUrl": "https://www.jamoona.com/products/haldirams-1-05kg-meetha-bhi-namkeen-bhi",
+          "priceINR": 299,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -2524,7 +2794,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.vishalmegamart.com/en-in/food/processed-foods/chocolates-and-sweets/cadbury-dairy-milk-silk-chocolate/1310010891.html"
+          "imageAttributionUrl": "https://www.vishalmegamart.com/en-in/food/processed-foods/chocolates-and-sweets/cadbury-dairy-milk-silk-chocolate/1310010891.html",
+          "priceINR": 90,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cadbury Dairy Milk",
@@ -2536,7 +2808,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.topprice.in/cadbury-dairy-milk-chocolate-bar-family-pack-126g-p258519"
+          "imageAttributionUrl": "https://www.topprice.in/cadbury-dairy-milk-chocolate-bar-family-pack-126g-p258519",
+          "priceINR": 40,
+          "priceStatus": "indicative"
         },
         {
           "name": "KitKat 4 Finger",
@@ -2548,7 +2822,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.starquik.com/products/nestle-kit-kat-4-finger-38-5-gm-sc-sm55"
+          "imageAttributionUrl": "https://www.starquik.com/products/nestle-kit-kat-4-finger-38-5-gm-sc-sm55",
+          "priceINR": 30,
+          "priceStatus": "indicative"
         },
         {
           "name": "Ferrero Rocher 16 pcs",
@@ -2560,7 +2836,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.fnp.com/gift/ferrero-rocher-t16-pieces-ma18"
+          "imageAttributionUrl": "https://www.fnp.com/gift/ferrero-rocher-t16-pieces-ma18",
+          "priceINR": 699,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Dark Chocolate",
@@ -2572,7 +2850,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.silkrute.ca/grocery/sweet/chocolate/amul-dark-chocolate-150-gram/"
+          "imageAttributionUrl": "https://www.silkrute.ca/grocery/sweet/chocolate/amul-dark-chocolate-150-gram/",
+          "priceINR": 80,
+          "priceStatus": "indicative"
         },
         {
           "name": "Haldiram's Soan Papdi",
@@ -2584,7 +2864,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://lotusfoodstores.com.au/products/haldirams-soan-papdi-red-500g-swhspr500"
+          "imageAttributionUrl": "https://lotusfoodstores.com.au/products/haldirams-soan-papdi-red-500g-swhspr500",
+          "priceINR": 160,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kaju Katli 250 g",
@@ -2596,7 +2878,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.kosovo.ubuy.com/en/product/8K4LS8YH2-haldiram-x27-s-kaju-katli-250-g-x-1-box"
+          "imageAttributionUrl": "https://www.kosovo.ubuy.com/en/product/8K4LS8YH2-haldiram-x27-s-kaju-katli-250-g-x-1-box",
+          "priceINR": 350,
+          "priceStatus": "indicative"
         },
         {
           "name": "Gulab Jamun 1 kg",
@@ -2608,7 +2892,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.ebay.com/itm/234911757937"
+          "imageAttributionUrl": "https://www.ebay.com/itm/234911757937",
+          "priceINR": 220,
+          "priceStatus": "indicative"
         },
         {
           "name": "Alpenliebe Candy",
@@ -2620,7 +2906,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://magnetshoppingcity.com/products/nescafe-classic-2g-sachet"
+          "imageAttributionUrl": "https://magnetshoppingcity.com/products/nescafe-classic-2g-sachet",
+          "priceINR": 80,
+          "priceStatus": "indicative"
         },
         {
           "name": "Hershey's Chocolate Syrup",
@@ -2632,7 +2920,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.starquik.com/products/hersheys-chocolate-flavored-syrup-bottle-600-gm-sc-sm73"
+          "imageAttributionUrl": "https://www.starquik.com/products/hersheys-chocolate-flavored-syrup-bottle-600-gm-sc-sm73",
+          "priceINR": 180,
+          "priceStatus": "indicative"
         },
         {
           "name": "Yoga Bar Energy Bar",
@@ -2644,7 +2934,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/yoga-bar-multigrain-nuts-and-seeds-38g"
+          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/yoga-bar-multigrain-nuts-and-seeds-38g",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -2677,7 +2969,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://bazaar5.com/en-b5-7753-coca-cola-soft-drink-750-ml"
+          "imageAttributionUrl": "https://bazaar5.com/en-b5-7753-coca-cola-soft-drink-750-ml",
+          "priceINR": 40,
+          "priceStatus": "indicative"
         },
         {
           "name": "Thums Up 750 ml",
@@ -2689,7 +2983,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.starquik.com/products/thums-up-carbonated-soft-drink-pet-bottle-750-ml-sc-sm43"
+          "imageAttributionUrl": "https://www.starquik.com/products/thums-up-carbonated-soft-drink-pet-bottle-750-ml-sc-sm43",
+          "priceINR": 40,
+          "priceStatus": "indicative"
         },
         {
           "name": "Sprite 750 ml",
@@ -2701,7 +2997,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://sachdevaagencies.store.shoopy.in/products/sprite-750ml-8-bottles-SKU-1067"
+          "imageAttributionUrl": "https://sachdevaagencies.store.shoopy.in/products/sprite-750ml-8-bottles-SKU-1067",
+          "priceINR": 40,
+          "priceStatus": "indicative"
         },
         {
           "name": "Real Fruit Power Orange 1 L",
@@ -2713,7 +3011,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://positrarx.com/product/5f3ba7aaf355323daea2943b/REAL-FRUIT-POWER-ORANGE-1-L"
+          "imageAttributionUrl": "https://positrarx.com/product/5f3ba7aaf355323daea2943b/REAL-FRUIT-POWER-ORANGE-1-L",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tropicana Apple Juice 1 L",
@@ -2725,7 +3025,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://pricee.com/tropicana-apple-juice-price-in-india-92968"
+          "imageAttributionUrl": "https://pricee.com/tropicana-apple-juice-price-in-india-92968",
+          "priceINR": 110,
+          "priceStatus": "indicative"
         },
         {
           "name": "Paper Boat Aam Panna  pack",
@@ -2737,7 +3039,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/412404/paper-boat-fruit-juice-aam-panna-mango-drink-150-ml/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/412404/paper-boat-fruit-juice-aam-panna-mango-drink-150-ml/",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         },
         {
           "name": "Red Bull Energy Drink 250 ml",
@@ -2749,7 +3053,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://aapkabazar.co/401/pd/red-bull-energy-drink-250-ml"
+          "imageAttributionUrl": "https://aapkabazar.co/401/pd/red-bull-energy-drink-250-ml",
+          "priceINR": 125,
+          "priceStatus": "indicative"
         },
         {
           "name": "Gatorade Sports Drink 500 ml",
@@ -2761,7 +3067,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/gatorade-lemon-flavour-sports-drink/prid/52786"
+          "imageAttributionUrl": "https://blinkit.com/prn/gatorade-lemon-flavour-sports-drink/prid/52786",
+          "priceINR": 60,
+          "priceStatus": "indicative"
         },
         {
           "name": "Bisleri Soda 750 ml",
@@ -2773,7 +3081,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.mystore.in/en/product/bisleri-soda-the-club-750-ml-bottle"
+          "imageAttributionUrl": "https://www.mystore.in/en/product/bisleri-soda-the-club-750-ml-bottle",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Packaged Drinking Water 1 L",
@@ -2785,7 +3095,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/265875/bisleri-mineral-water-1-l-bottle/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/265875/bisleri-mineral-water-1-l-bottle/",
+          "priceINR": 20,
+          "priceStatus": "indicative"
         },
         {
           "name": "Raw Pressery Coconut Water 1 L",
@@ -2797,7 +3109,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://wingreensworld.com/products/coconut-water-750-ml"
+          "imageAttributionUrl": "https://wingreensworld.com/products/coconut-water-750-ml",
+          "priceINR": 110,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cold Coffee 250 ml",
@@ -2809,7 +3123,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://cothas.com/products/classic-cold-coffee-pack-of-6"
+          "imageAttributionUrl": "https://cothas.com/products/classic-cold-coffee-pack-of-6",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         },
         {
           "name": "Nestea Iced Tea  pack",
@@ -2821,7 +3137,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.wellnessforever.com/product/nestea-iced-tea-lemon-200ml"
+          "imageAttributionUrl": "https://www.wellnessforever.com/product/nestea-iced-tea-lemon-200ml",
+          "priceINR": 40,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -2849,7 +3167,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.starquik.com/products/tata-gold-leaf-tea-500-gm-sc-st17"
+          "imageAttributionUrl": "https://www.starquik.com/products/tata-gold-leaf-tea-500-gm-sc-st17",
+          "priceINR": 260,
+          "priceStatus": "indicative"
         },
         {
           "name": "Taj Mahal Tea 250 g",
@@ -2861,7 +3181,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.ebay.com/itm/314442750245"
+          "imageAttributionUrl": "https://www.ebay.com/itm/314442750245",
+          "priceINR": 180,
+          "priceStatus": "indicative"
         },
         {
           "name": "Nescafé Classic Coffee 100 g",
@@ -2873,7 +3195,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jabretail.in/product/32152269/Nescafe-Classic-Coffee-Glass-Jar--100gram--Ground"
+          "imageAttributionUrl": "https://www.jabretail.in/product/32152269/Nescafe-Classic-Coffee-Glass-Jar--100gram--Ground",
+          "priceINR": 275,
+          "priceStatus": "indicative"
         },
         {
           "name": "Bru Instant Coffee 100 g",
@@ -2885,7 +3209,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://indianspicesandgroceries.com/products/bru-instant-coffee"
+          "imageAttributionUrl": "https://indianspicesandgroceries.com/products/bru-instant-coffee",
+          "priceINR": 275,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cadbury Hot Chocolate 200 g",
@@ -2897,7 +3223,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/cadbury-hot-chocolate-200gm"
+          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/cadbury-hot-chocolate-200gm",
+          "priceINR": 180,
+          "priceStatus": "indicative"
         },
         {
           "name": "Organic India Tulsi Green Tea",
@@ -2909,7 +3237,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.netmeds.com/product/organic-india-tulsi-green-tea-bags-classic-25s-lufyos-7574889"
+          "imageAttributionUrl": "https://www.netmeds.com/product/organic-india-tulsi-green-tea-bags-classic-25s-lufyos-7574889",
+          "priceINR": 160,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tetley Green Tea Bags",
@@ -2921,7 +3251,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.suvidhasupermart.com/products/tetley-green-tea-bag-plain"
+          "imageAttributionUrl": "https://www.suvidhasupermart.com/products/tetley-green-tea-bag-plain",
+          "priceINR": 160,
+          "priceStatus": "indicative"
         },
         {
           "name": "Bournvita 500 g",
@@ -2933,7 +3265,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/bournvita-refill-500g"
+          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/bournvita-refill-500g",
+          "priceINR": 230,
+          "priceStatus": "indicative"
         },
         {
           "name": "Horlicks Classic Malt 500 g",
@@ -2945,7 +3279,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://odhi.in/horlicks-classic-malt-health-nutrition-drink-500g-box-sale-online-coimbatore"
+          "imageAttributionUrl": "https://odhi.in/horlicks-classic-malt-health-nutrition-drink-500g-box-sale-online-coimbatore",
+          "priceINR": 230,
+          "priceStatus": "indicative"
         },
         {
           "name": "Continental Coffee Premix",
@@ -2958,7 +3294,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/continental-this-is-creamy-coffee-premix/prid/570307"
+          "imageAttributionUrl": "https://blinkit.com/prn/continental-this-is-creamy-coffee-premix/prid/570307",
+          "priceINR": 275,
+          "priceStatus": "indicative"
         },
         {
           "name": "Chamomile Herbal Tea",
@@ -2970,7 +3308,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://organicindia.com/products/simply-chamomile-25-teabags"
+          "imageAttributionUrl": "https://organicindia.com/products/simply-chamomile-25-teabags",
+          "priceINR": 220,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -3000,7 +3340,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.mystore.in/en/product/maggi-2-min-masala-instant-noodles-280-g-pouch"
+          "imageAttributionUrl": "https://www.mystore.in/en/product/maggi-2-min-masala-instant-noodles-280-g-pouch",
+          "priceINR": 15,
+          "priceStatus": "indicative"
         },
         {
           "name": "Sunfeast Yippee Magic Masala",
@@ -3013,7 +3355,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.rdclick.com/product/sunfeast-yippee-magic-masala-140g"
+          "imageAttributionUrl": "https://www.rdclick.com/product/sunfeast-yippee-magic-masala-140g",
+          "priceINR": 65,
+          "priceStatus": "indicative"
         },
         {
           "name": "Top Ramen Curry Noodles",
@@ -3025,7 +3369,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://aapkabazar.co/5074/pd/nissin-top-ramen-curry-noodles-1-pack-70-gm"
+          "imageAttributionUrl": "https://aapkabazar.co/5074/pd/nissin-top-ramen-curry-noodles-1-pack-70-gm",
+          "priceINR": 15,
+          "priceStatus": "indicative"
         },
         {
           "name": "Bambino Macaroni 400 g",
@@ -3037,7 +3383,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/bambino-elbow-macaroni-pasta-400-g/490005660"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/bambino-elbow-macaroni-pasta-400-g/490005660",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "Del Monte Pasta 500 g",
@@ -3049,7 +3397,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://pickaroo.com/ultramega/products/ultramega-gagalangin-supermarket/product-detail/243694/456-del-monte-spaghetti-pasta"
+          "imageAttributionUrl": "https://pickaroo.com/ultramega/products/ultramega-gagalangin-supermarket/product-detail/243694/456-del-monte-spaghetti-pasta",
+          "priceINR": 75,
+          "priceStatus": "indicative"
         },
         {
           "name": "Knorr Sweet Corn Soup",
@@ -3061,7 +3411,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://sastasundar.com/knorr-sweet-corn-vegetable-soup-44-g/p/p7yy28"
+          "imageAttributionUrl": "https://sastasundar.com/knorr-sweet-corn-vegetable-soup-44-g/p/p7yy28",
+          "priceINR": 55,
+          "priceStatus": "indicative"
         },
         {
           "name": "MTR Ready to Eat Paneer Butter Masala",
@@ -3074,7 +3426,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://bazaar5.com/en-ca/product/233-mtr-paneer-butter-masala-300g"
+          "imageAttributionUrl": "https://bazaar5.com/en-ca/product/233-mtr-paneer-butter-masala-300g",
+          "priceINR": 120,
+          "priceStatus": "indicative"
         },
         {
           "name": "Haldiram's Ready to Eat Rajma",
@@ -3087,7 +3441,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://baazwsh.com/pt/products/rte-rajma-raseela-300g-haldirams-1"
+          "imageAttributionUrl": "https://baazwsh.com/pt/products/rte-rajma-raseela-300g-haldirams-1",
+          "priceINR": 120,
+          "priceStatus": "indicative"
         },
         {
           "name": "Gits Gulab Jamun Mix",
@@ -3100,7 +3456,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://shopmustafa.sg/products/gits-gulab-jamun-dessert-mix-200g"
+          "imageAttributionUrl": "https://shopmustafa.sg/products/gits-gulab-jamun-dessert-mix-200g",
+          "priceINR": 90,
+          "priceStatus": "indicative"
         },
         {
           "name": "MTR Idli Mix",
@@ -3113,7 +3471,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://vedikafoods.com/products/mtr-rice-idli-mix"
+          "imageAttributionUrl": "https://vedikafoods.com/products/mtr-rice-idli-mix",
+          "priceINR": 90,
+          "priceStatus": "indicative"
         },
         {
           "name": "McCain French Fries  frozen",
@@ -3125,7 +3485,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/mccain-french-fries-frozen/prid/10781"
+          "imageAttributionUrl": "https://blinkit.com/prn/mccain-french-fries-frozen/prid/10781",
+          "priceINR": 180,
+          "priceStatus": "indicative"
         },
         {
           "name": "Yoga Bar Energy Bar",
@@ -3137,7 +3499,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/yoga-bar-nuts-seeds-multigrain-energy-protein-bar/prid/207557"
+          "imageAttributionUrl": "https://blinkit.com/prn/yoga-bar-nuts-seeds-multigrain-energy-protein-bar/prid/207557",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -3167,7 +3531,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://availeverything.com/product/kissan-fresh-tomato-ketchup-bottle-500g"
+          "imageAttributionUrl": "https://availeverything.com/product/kissan-fresh-tomato-ketchup-bottle-500g",
+          "priceINR": 115,
+          "priceStatus": "indicative"
         },
         {
           "name": "Maggi Hot & Sweet Sauce 500 g",
@@ -3179,7 +3545,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.spicehaveli.nl/products/nestle-maggi-hot-and-sweet-tomato-chilli-sauce-bottle-500-gram"
+          "imageAttributionUrl": "https://www.spicehaveli.nl/products/nestle-maggi-hot-and-sweet-tomato-chilli-sauce-bottle-500-gram",
+          "priceINR": 115,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kissan Mixed Fruit Jam 500 g",
@@ -3191,7 +3559,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://rkbazar.in/collections/jam-ketch-up-sarbat"
+          "imageAttributionUrl": "https://rkbazar.in/collections/jam-ketch-up-sarbat",
+          "priceINR": 125,
+          "priceStatus": "indicative"
         },
         {
           "name": "FunFoods Veg Mayonnaise 250 g",
@@ -3203,7 +3573,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.wellnessforever.com/product/fun-food-mayonnaise-veg-250gm"
+          "imageAttributionUrl": "https://www.wellnessforever.com/product/fun-food-mayonnaise-veg-250gm",
+          "priceINR": 110,
+          "priceStatus": "indicative"
         },
         {
           "name": "Patanjali Mango Pickle 500 g",
@@ -3215,7 +3587,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.patanjaliayurved.net/product/natural-food-products/sauces-and-pickles/patanjali-mango-pickle/4043"
+          "imageAttributionUrl": "https://www.patanjaliayurved.net/product/natural-food-products/sauces-and-pickles/patanjali-mango-pickle/4043",
+          "priceINR": 130,
+          "priceStatus": "indicative"
         },
         {
           "name": "Pintola Classic Peanut Butter 1 kg",
@@ -3227,7 +3601,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.daraz.com.np/products/pintola-classic-peanut-butter-1-kg-crunchy-i108952814.html"
+          "imageAttributionUrl": "https://www.daraz.com.np/products/pintola-classic-peanut-butter-1-kg-crunchy-i108952814.html",
+          "priceINR": 350,
+          "priceStatus": "indicative"
         },
         {
           "name": "Ching's Schezwan Chutney 250 g",
@@ -3239,7 +3615,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://rkbazar.in/collections/jam-ketch-up-sarbat"
+          "imageAttributionUrl": "https://rkbazar.in/collections/jam-ketch-up-sarbat",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Dabur Honey 500 g",
@@ -3251,7 +3629,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.mystore.in/en/product/dabur-honey-500g-or-100percent-pure-or-worlds-no-1-honey-brand-with-no-sugar-adulteration"
+          "imageAttributionUrl": "https://www.mystore.in/en/product/dabur-honey-500g-or-100percent-pure-or-worlds-no-1-honey-brand-with-no-sugar-adulteration",
+          "priceINR": 220,
+          "priceStatus": "indicative"
         },
         {
           "name": "Veeba Thousand Island Dressing",
@@ -3263,7 +3643,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.suvidhasupermart.com/products/veeba-thousand-island-dressing-300g"
+          "imageAttributionUrl": "https://www.suvidhasupermart.com/products/veeba-thousand-island-dressing-300g",
+          "priceINR": 160,
+          "priceStatus": "indicative"
         },
         {
           "name": "Del Monte Pasta Sauce",
@@ -3275,7 +3657,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.blibli.com/p/bumbu-saus-spageti-delmonte-330g/ps--TOD-70020-00293"
+          "imageAttributionUrl": "https://www.blibli.com/p/bumbu-saus-spageti-delmonte-330g/ps--TOD-70020-00293",
+          "priceINR": 115,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -3305,7 +3689,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/rajnigandha-silver-pearls-silver-coated-elaichi-mouth-freshener/prid/126494"
+          "imageAttributionUrl": "https://blinkit.com/prn/rajnigandha-silver-pearls-silver-coated-elaichi-mouth-freshener/prid/126494",
+          "priceINR": 95,
+          "priceStatus": "indicative"
         },
         {
           "name": "Pass Pass Mouth Freshener",
@@ -3317,7 +3703,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.dsgroup.com/our-brand/confectionery/pass-pass"
+          "imageAttributionUrl": "https://www.dsgroup.com/our-brand/confectionery/pass-pass",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         },
         {
           "name": "Orbit Peppermint Gum",
@@ -3329,7 +3717,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.wegmans.com/shop/product/228015-Gum-Sugarfree-Peppermint"
+          "imageAttributionUrl": "https://www.wegmans.com/shop/product/228015-Gum-Sugarfree-Peppermint",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         },
         {
           "name": "Center Fresh Mint Gum",
@@ -3341,7 +3731,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/center-fresh-spearmint-flavour-chewing-gum/prid/368053"
+          "imageAttributionUrl": "https://blinkit.com/prn/center-fresh-spearmint-flavour-chewing-gum/prid/368053",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         }
       ],
       "catalogueNote": "Tobacco, cigarettes, cigars and related restricted goods are intentionally excluded."
@@ -3370,7 +3762,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.hunarsetu.com/en/product/amul-ice-cream-gold-vanilla-1-l-tub"
+          "imageAttributionUrl": "https://www.hunarsetu.com/en/product/amul-ice-cream-gold-vanilla-1-l-tub",
+          "priceINR": 220,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Rajbhog Ice Cream Tub 1 L",
@@ -3382,7 +3776,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/amul-rajbhog-ice-cream-tub/prid/483440"
+          "imageAttributionUrl": "https://blinkit.com/prn/amul-rajbhog-ice-cream-tub/prid/483440",
+          "priceINR": 220,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kwality Wall's Cornetto Chocolate",
@@ -3394,7 +3790,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.wellnessforever.com/product/kw-ic-cornetto-choc-double-105gm"
+          "imageAttributionUrl": "https://www.wellnessforever.com/product/kw-ic-cornetto-choc-double-105gm",
+          "priceINR": 60,
+          "priceStatus": "indicative"
         },
         {
           "name": "Magnum Classic Stick",
@@ -3406,7 +3804,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://courses.monoprix.fr/products/magnum-glace-classic-b%C3%A2tonnet-4x100ml/MPX_6668010"
+          "imageAttributionUrl": "https://courses.monoprix.fr/products/magnum-glace-classic-b%C3%A2tonnet-4x100ml/MPX_6668010",
+          "priceINR": 100,
+          "priceStatus": "indicative"
         },
         {
           "name": "Vadilal Cassata Slice",
@@ -3418,7 +3818,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/vadilal-slice-cassata-ice-cream/prid/545749"
+          "imageAttributionUrl": "https://blinkit.com/prn/vadilal-slice-cassata-ice-cream/prid/545749",
+          "priceINR": 80,
+          "priceStatus": "indicative"
         },
         {
           "name": "Amul Real Ice Cream Cup",
@@ -3430,7 +3832,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://uat.amul.com/products/amul-cup-vanilla-royale.php"
+          "imageAttributionUrl": "https://uat.amul.com/products/amul-cup-vanilla-royale.php",
+          "priceINR": 60,
+          "priceStatus": "indicative"
         },
         {
           "name": "Naturals Tender Coconut Ice Cream",
@@ -3442,7 +3846,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.swiggy.com/instamart/p/natural-ice-cream-tender-coconut-ice-cream-tub-6EO8SNJEZ7"
+          "imageAttributionUrl": "https://www.swiggy.com/instamart/p/natural-ice-cream-tender-coconut-ice-cream-tub-6EO8SNJEZ7",
+          "priceINR": 350,
+          "priceStatus": "indicative"
         },
         {
           "name": "Baskin Robbins Ice Cream Tub",
@@ -3454,7 +3860,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/40304138/baskin-robbins-cookies-n-cream-ice-cream-450-ml/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40304138/baskin-robbins-cookies-n-cream-ice-cream-450-ml/",
+          "priceINR": 450,
+          "priceStatus": "indicative"
         },
         {
           "name": "Chocolate Dessert Syrup",
@@ -3466,7 +3874,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://thedesifood.com/products/mapro-dessert-topping-chocolate-syrup"
+          "imageAttributionUrl": "https://thedesifood.com/products/mapro-dessert-topping-chocolate-syrup",
+          "priceINR": 180,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -3502,7 +3912,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://exporthouse70.com/products/premium-cushion-cover-eh2023gtin2509"
+          "imageAttributionUrl": "https://exporthouse70.com/products/premium-cushion-cover-eh2023gtin2509",
+          "priceINR": 249,
+          "priceStatus": "indicative"
         },
         {
           "name": "Artificial Indoor Plant",
@@ -3514,7 +3926,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.nykaa.com/pure-home-living-green-artificial-plant-with-pot/p/13231722"
+          "imageAttributionUrl": "https://www.nykaa.com/pure-home-living-green-artificial-plant-with-pot/p/13231722",
+          "priceINR": 249,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cotton Bedsheet Double",
@@ -3526,7 +3940,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/happy-living-beige-solid-double-bedsheet-120-thread-count/606059271"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/happy-living-beige-solid-double-bedsheet-120-thread-count/606059271",
+          "priceINR": 699,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cotton Bath Towel",
@@ -3538,7 +3954,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.danubehome.com/ae/en/p/premium-cotton-towel-70x140cm-bath-towel-600-gsm-quick-dry-and-durable-white-179900133492"
+          "imageAttributionUrl": "https://www.danubehome.com/ae/en/p/premium-cotton-towel-70x140cm-bath-towel-600-gsm-quick-dry-and-durable-white-179900133492",
+          "priceINR": 199,
+          "priceStatus": "indicative"
         },
         {
           "name": "Garden Hand Trowel",
@@ -3550,7 +3968,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.all4plants.com/en/gardena-comfort-hand-trowel/p5579"
+          "imageAttributionUrl": "https://www.all4plants.com/en/gardena-comfort-hand-trowel/p5579",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "LED String Lights",
@@ -3562,7 +3982,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.lights4fun.de/products/50er-led-lichterkette-warmweiss-transparenter-kabel"
+          "imageAttributionUrl": "https://www.lights4fun.de/products/50er-led-lichterkette-warmweiss-transparenter-kabel",
+          "priceINR": 199,
+          "priceStatus": "indicative"
         },
         {
           "name": "Facial Tissue Box",
@@ -3574,7 +3996,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/c/groceries/disposables/tissues-napkins/32902"
+          "imageAttributionUrl": "https://www.jiomart.com/c/groceries/disposables/tissues-napkins/32902",
+          "priceINR": 75,
+          "priceStatus": "indicative"
         },
         {
           "name": "Stainless Steel Hair Claw Clip",
@@ -3586,7 +4010,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.etsy.com/market/metal_hair_claw_clip_grip"
+          "imageAttributionUrl": "https://www.etsy.com/market/metal_hair_claw_clip_grip",
+          "priceINR": 79,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cotton Ankle Socks",
@@ -3598,7 +4024,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.skarpety-eltom.pl/pl/p/Zestaw-stopki-meskie-100-bawelny-6-par-biale/912"
+          "imageAttributionUrl": "https://www.skarpety-eltom.pl/pl/p/Zestaw-stopki-meskie-100-bawelny-6-par-biale/912",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "Scented Room Freshener",
@@ -3610,7 +4038,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://kannaujfragrance.com/products/jasmine-spray-room-freshener-natural-rose-spray-by-kannauj-fragrance"
+          "imageAttributionUrl": "https://kannaujfragrance.com/products/jasmine-spray-room-freshener-natural-rose-spray-by-kannauj-fragrance",
+          "priceINR": 149,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cotton Wicks for Pooja",
@@ -3622,7 +4052,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.satvikstore.in/products/round-pure-cotton-wicks-add-on"
+          "imageAttributionUrl": "https://www.satvikstore.in/products/round-pure-cotton-wicks-add-on",
+          "priceINR": 79,
+          "priceStatus": "indicative"
         },
         {
           "name": "Bathroom Soap Dispenser",
@@ -3634,7 +4066,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.crateandbarrel.ca/soap-dispenser"
+          "imageAttributionUrl": "https://www.crateandbarrel.ca/soap-dispenser",
+          "priceINR": 149,
+          "priceStatus": "indicative"
         },
         {
           "name": "Reusable Shopping Tote Bag",
@@ -3646,7 +4080,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.walmart.com/ip/6227564507"
+          "imageAttributionUrl": "https://www.walmart.com/ip/6227564507",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "Gift Wrapping Paper",
@@ -3658,7 +4094,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.mmcorrugatedbox.com/paper-roll.html"
+          "imageAttributionUrl": "https://www.mmcorrugatedbox.com/paper-roll.html",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -3691,7 +4129,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/40326444/lizol-shakti-disinfectant-floor-cleaner-aqua-fresh-450-ml/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40326444/lizol-shakti-disinfectant-floor-cleaner-aqua-fresh-450-ml/",
+          "priceINR": 125,
+          "priceStatus": "indicative"
         },
         {
           "name": "Harpic Power Plus Toilet Cleaner 500 ml",
@@ -3703,7 +4143,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://markitt.com/products/harpic-power-plus-original-500ml"
+          "imageAttributionUrl": "https://markitt.com/products/harpic-power-plus-original-500ml",
+          "priceINR": 105,
+          "priceStatus": "indicative"
         },
         {
           "name": "Vim Dishwash Gel 500 ml",
@@ -3715,7 +4157,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/vim-lemon-dishwash-gel-500-ml/prid/404"
+          "imageAttributionUrl": "https://blinkit.com/prn/vim-lemon-dishwash-gel-500-ml/prid/404",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         },
         {
           "name": "Vim Dishwash Bar 200 g",
@@ -3727,7 +4171,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.daraz.lk/products/vim-dishwash-bar-200g-i101340273.html"
+          "imageAttributionUrl": "https://www.daraz.lk/products/vim-dishwash-bar-200g-i101340273.html",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         },
         {
           "name": "Surf Excel Easy Wash Detergent 1 kg",
@@ -3739,7 +4185,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/surf-excel-easy-wash-washing-powder-1-kg/491278427"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/surf-excel-easy-wash-washing-powder-1-kg/491278427",
+          "priceINR": 120,
+          "priceStatus": "indicative"
         },
         {
           "name": "Tide Plus Detergent 1 kg",
@@ -3751,7 +4199,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://karthika.sg/Tide-Detergent-Powder-1Kg"
+          "imageAttributionUrl": "https://karthika.sg/Tide-Detergent-Powder-1Kg",
+          "priceINR": 120,
+          "priceStatus": "indicative"
         },
         {
           "name": "Comfort Fabric Conditioner 860 ml",
@@ -3763,7 +4213,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/comfort-after-wash-morning-fresh-fabric-conditioner-860-ml/490415502"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/comfort-after-wash-morning-fresh-fabric-conditioner-860-ml/490415502",
+          "priceINR": 190,
+          "priceStatus": "indicative"
         },
         {
           "name": "Goodknight Fast Card",
@@ -3775,7 +4227,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/good-knight-advanced-fast-card-10s"
+          "imageAttributionUrl": "https://www.apollopharmacy.in/otc/good-knight-advanced-fast-card-10s",
+          "priceINR": 75,
+          "priceStatus": "indicative"
         },
         {
           "name": "Scotch-Brite Scrub Pad",
@@ -3787,7 +4241,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/40170288/scotch-brite-scrub-pad-10-pcs/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40170288/scotch-brite-scrub-pad-10-pcs/",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Gala Floor Wiper",
@@ -3799,7 +4255,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/gala-plastic-floor-wiper/490189867"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/gala-plastic-floor-wiper/490189867",
+          "priceINR": 199,
+          "priceStatus": "indicative"
         },
         {
           "name": "Garbage Bags Medium",
@@ -3811,7 +4269,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.tradeindia.com/products/suvidha-garbage-bags-medium-8670235.html"
+          "imageAttributionUrl": "https://www.tradeindia.com/products/suvidha-garbage-bags-medium-8670235.html",
+          "priceINR": 75,
+          "priceStatus": "indicative"
         },
         {
           "name": "Colin Glass Cleaner 500 ml",
@@ -3823,7 +4283,9 @@
             "500 ml"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.wellnessforever.com/product/colin-glass-clnr-ultra-shine-500ml"
+          "imageAttributionUrl": "https://www.wellnessforever.com/product/colin-glass-clnr-ultra-shine-500ml",
+          "priceINR": 110,
+          "priceStatus": "indicative"
         },
         {
           "name": "Vanish Stain Remover 500 g",
@@ -3835,7 +4297,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.fairprice.com.sg/product/10731595"
+          "imageAttributionUrl": "https://www.fairprice.com.sg/product/10731595",
+          "priceINR": 220,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -3868,7 +4332,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jbhifi.com.au/products/philips-series-5000-beard-trimmer"
+          "imageAttributionUrl": "https://www.jbhifi.com.au/products/philips-series-5000-beard-trimmer",
+          "priceINR": 799,
+          "priceStatus": "indicative"
         },
         {
           "name": "boAt Airdopes Wireless Earbuds",
@@ -3880,7 +4346,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://fullspecs.net/wireless-headphone/boat/airdopes-183-specifications/"
+          "imageAttributionUrl": "https://fullspecs.net/wireless-headphone/boat/airdopes-183-specifications/",
+          "priceINR": 999,
+          "priceStatus": "indicative"
         },
         {
           "name": "JBL Go Portable Speaker",
@@ -3892,7 +4360,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.tio.pl/strefa-audio-glosnik-jbl-go-niebieski.html"
+          "imageAttributionUrl": "https://www.tio.pl/strefa-audio-glosnik-jbl-go-niebieski.html",
+          "priceINR": 1299,
+          "priceStatus": "indicative"
         },
         {
           "name": "USB-C Fast Charging Cable",
@@ -3904,7 +4374,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.tanotis.com/products/chargeworx-nylo-tuff-usb-c-60w-charging-cable-black-6"
+          "imageAttributionUrl": "https://www.tanotis.com/products/chargeworx-nylo-tuff-usb-c-60w-charging-cable-black-6",
+          "priceINR": 199,
+          "priceStatus": "indicative"
         },
         {
           "name": "Ambrane 20W USB-C Charger",
@@ -3916,7 +4388,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/ambrane-raap-m20-type-c-mobile-charging-adapter-white/prid/556901"
+          "imageAttributionUrl": "https://blinkit.com/prn/ambrane-raap-m20-type-c-mobile-charging-adapter-white/prid/556901",
+          "priceINR": 399,
+          "priceStatus": "indicative"
         },
         {
           "name": "Portronics Power Bank 10000 mAh",
@@ -3928,7 +4402,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://mudramart.com/products/portronics-10000mah-power-bank-with-18w-fast-charging-type-c-por-1011-1012"
+          "imageAttributionUrl": "https://mudramart.com/products/portronics-10000mah-power-bank-with-18w-fast-charging-type-c-por-1011-1012",
+          "priceINR": 899,
+          "priceStatus": "indicative"
         },
         {
           "name": "Fire-Boltt Smart Watch",
@@ -3940,7 +4416,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.reliancedigital.in/product/fire-bolt-call-smart-watch-with-bluetooth-calling-ip67-water-resistant-black-l2kpuk"
+          "imageAttributionUrl": "https://www.reliancedigital.in/product/fire-bolt-call-smart-watch-with-bluetooth-calling-ip67-water-resistant-black-l2kpuk",
+          "priceINR": 1299,
+          "priceStatus": "indicative"
         },
         {
           "name": "Duracell AA Batteries 4 pcs",
@@ -3952,7 +4430,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.chemistwarehouse.ae/products/duracell-battery-aa-4-pieces"
+          "imageAttributionUrl": "https://www.chemistwarehouse.ae/products/duracell-battery-aa-4-pieces",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "Belkin Extension Board",
@@ -3964,7 +4444,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://blinkit.com/prn/belkin-4-socket-universal-surge-protector-extension-board-%28with-5ft-%281.5-meter%29-heavy-duty-cable%2C-grey%29/prid/534768"
+          "imageAttributionUrl": "https://blinkit.com/prn/belkin-4-socket-universal-surge-protector-extension-board-%28with-5ft-%281.5-meter%29-heavy-duty-cable%2C-grey%29/prid/534768",
+          "priceINR": 499,
+          "priceStatus": "indicative"
         },
         {
           "name": "Logitech Wireless Mouse",
@@ -3976,7 +4458,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://lntsufin.com/product/logitech-mouse-wireless-optical-6-x-4-x-10-cm/15919-525"
+          "imageAttributionUrl": "https://lntsufin.com/product/logitech-mouse-wireless-optical-6-x-4-x-10-cm/15919-525",
+          "priceINR": 399,
+          "priceStatus": "indicative"
         },
         {
           "name": "TP-Link Wi-Fi Router",
@@ -3988,7 +4472,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://megajaipur.com/tp-link-wr850n-300-mbps-wireless-n-router-a0223"
+          "imageAttributionUrl": "https://megajaipur.com/tp-link-wr850n-300-mbps-wireless-n-router-a0223",
+          "priceINR": 1799,
+          "priceStatus": "indicative"
         },
         {
           "name": "Philips LED Bulb 9W",
@@ -4000,7 +4486,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.filoexpress.com/philips-essenti%CC%87al-9-w-%3D-70-w-950-lumen-led-ampul--beyaz-isik---5465489654"
+          "imageAttributionUrl": "https://www.filoexpress.com/philips-essenti%CC%87al-9-w-%3D-70-w-950-lumen-led-ampul--beyaz-isik---5465489654",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -4029,7 +4517,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.seemkart.com/products/classmate-longbook-a4-notebook-single-line-100-pages-pack-of-19"
+          "imageAttributionUrl": "https://www.seemkart.com/products/classmate-longbook-a4-notebook-single-line-100-pages-pack-of-19",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         },
         {
           "name": "Navneet Long Book",
@@ -4041,7 +4531,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.vedantstationary.in/products/navneet-youva-long-book-single-line-172-pages"
+          "imageAttributionUrl": "https://www.vedantstationary.in/products/navneet-youva-long-book-single-line-172-pages",
+          "priceINR": 50,
+          "priceStatus": "indicative"
         },
         {
           "name": "Reynolds 045 Ball Pen",
@@ -4053,7 +4545,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.bigbasket.com/pd/40324396/reynolds-045-fine-carbure-ball-pen-5-pcs/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40324396/reynolds-045-fine-carbure-ball-pen-5-pcs/",
+          "priceINR": 10,
+          "priceStatus": "indicative"
         },
         {
           "name": "Nataraj HB Pencil Pack",
@@ -4065,7 +4559,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.tradeindia.com/products/natraj-hb-pencil-pack-of-10-pencils-wooden-material-8-inch-size-used-in-art-and-drawing-7756405.html"
+          "imageAttributionUrl": "https://www.tradeindia.com/products/natraj-hb-pencil-pack-of-10-pencils-wooden-material-8-inch-size-used-in-art-and-drawing-7756405.html",
+          "priceINR": 10,
+          "priceStatus": "indicative"
         },
         {
           "name": "Fevicol MR Adhesive",
@@ -4077,7 +4573,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.suvidhasupermart.com/products/fevicol-mr-flip-top-500-gm"
+          "imageAttributionUrl": "https://www.suvidhasupermart.com/products/fevicol-mr-flip-top-500-gm",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cello Tape 1 inch",
@@ -4089,7 +4587,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.htconline.in/cello-tape-1-inch"
+          "imageAttributionUrl": "https://www.htconline.in/cello-tape-1-inch",
+          "priceINR": 25,
+          "priceStatus": "indicative"
         },
         {
           "name": "Camel Wax Crayons 24 Shades",
@@ -4101,7 +4601,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://deodap.in/products/camel-wax-vibrant-shades-smooth-crayons-24-shades"
+          "imageAttributionUrl": "https://deodap.in/products/camel-wax-vibrant-shades-smooth-crayons-24-shades",
+          "priceINR": 60,
+          "priceStatus": "indicative"
         },
         {
           "name": "DOMS Colour Pencils",
@@ -4113,7 +4615,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://bookangadi.com/doms-colour-pencils-12-shades"
+          "imageAttributionUrl": "https://bookangadi.com/doms-colour-pencils-12-shades",
+          "priceINR": 60,
+          "priceStatus": "indicative"
         },
         {
           "name": "UNO Card Game",
@@ -4125,7 +4629,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.shopclues.com/uno-playing-card-game-for-7-yrs-and-above-for-adult-set-of-112-cards-153517014.html"
+          "imageAttributionUrl": "https://www.shopclues.com/uno-playing-card-game-for-7-yrs-and-above-for-adult-set-of-112-cards-153517014.html",
+          "priceINR": 149,
+          "priceStatus": "indicative"
         },
         {
           "name": "Rubik's Cube 3x3",
@@ -4137,7 +4643,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.ubuy.co.id/en/product/4MBHWJLCW-spin-master-6063968-rubiks-cube-multicolour"
+          "imageAttributionUrl": "https://www.ubuy.co.id/en/product/4MBHWJLCW-spin-master-6063968-rubiks-cube-multicolour",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "A4 Copier Paper 500 Sheets",
@@ -4149,7 +4657,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.biltema.se/kontor---teknik/kontor/kontorsmaterial/papper/kopieringspapper-a4-500-ark-2000017616"
+          "imageAttributionUrl": "https://www.biltema.se/kontor---teknik/kontor/kontorsmaterial/papper/kopieringspapper-a4-500-ark-2000017616",
+          "priceINR": 299,
+          "priceStatus": "indicative"
         },
         {
           "name": "Document Folder",
@@ -4161,7 +4671,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://jaybel.officechoice.com.au/products/bantex-document-folder-a4-with-button-closure-tropical-blue-berry"
+          "imageAttributionUrl": "https://jaybel.officechoice.com.au/products/bantex-document-folder-a4-with-button-closure-tropical-blue-berry",
+          "priceINR": 35,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -4184,7 +4696,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.jiomart.com/p/homeandkitchen/boldfit-yoga-mats-for-women-and-men-nbr-material-with-carrying-strap-8mm-extra-thick/600516071"
+          "imageAttributionUrl": "https://www.jiomart.com/p/homeandkitchen/boldfit-yoga-mats-for-women-and-men-nbr-material-with-carrying-strap-8mm-extra-thick/600516071",
+          "priceINR": 499,
+          "priceStatus": "indicative"
         },
         {
           "name": "Decathlon Skipping Rope",
@@ -4196,7 +4710,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.decathlon.in/p/8560956/skipping-rope-jr100"
+          "imageAttributionUrl": "https://www.decathlon.in/p/8560956/skipping-rope-jr100",
+          "priceINR": 149,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cockatoo Hand Grip Strengthener",
@@ -4208,7 +4724,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.cockatooindia.com/products/cockatoo-10-kg-40-kg-adjustable-hand-grip-hand-gripper-for-men-women-hand-grip-strengthener"
+          "imageAttributionUrl": "https://www.cockatooindia.com/products/cockatoo-10-kg-40-kg-adjustable-hand-grip-hand-gripper-for-men-women-hand-grip-strengthener",
+          "priceINR": 199,
+          "priceStatus": "indicative"
         },
         {
           "name": "Cosco Tennis Ball",
@@ -4220,7 +4738,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://sppartos.com/products/cosco-light-weight-cricket-ball-pack-of-6-yellow"
+          "imageAttributionUrl": "https://sppartos.com/products/cosco-light-weight-cricket-ball-pack-of-6-yellow",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "Nivia Football",
@@ -4232,7 +4752,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://imfitindia.com/products/nivia-equator-football-size-5"
+          "imageAttributionUrl": "https://imfitindia.com/products/nivia-equator-football-size-5",
+          "priceINR": 499,
+          "priceStatus": "indicative"
         },
         {
           "name": "Adjustable Dumbbell Pair",
@@ -4244,7 +4766,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.walmart.com/ip/12562354950"
+          "imageAttributionUrl": "https://www.walmart.com/ip/12562354950",
+          "priceINR": 1499,
+          "priceStatus": "indicative"
         },
         {
           "name": "Resistance Band Set",
@@ -4256,7 +4780,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.walmart.com/ip/21069607267"
+          "imageAttributionUrl": "https://www.walmart.com/ip/21069607267",
+          "priceINR": 299,
+          "priceStatus": "indicative"
         },
         {
           "name": "Insulated Sports Water Bottle",
@@ -4268,7 +4794,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.lacrossemonkey.com/under-armour-accessories-16-oz-protege-bottle.html"
+          "imageAttributionUrl": "https://www.lacrossemonkey.com/under-armour-accessories-16-oz-protege-bottle.html",
+          "priceINR": 249,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -4290,7 +4818,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://alfatah.pk/products/kiwi-shoe-polish-black-tin-90-ml"
+          "imageAttributionUrl": "https://alfatah.pk/products/kiwi-shoe-polish-black-tin-90-ml",
+          "priceINR": 85,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kiwi Shoe Shine Sponge",
@@ -4302,7 +4832,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.walmart.com/ip/25289316"
+          "imageAttributionUrl": "https://www.walmart.com/ip/25289316",
+          "priceINR": 75,
+          "priceStatus": "indicative"
         },
         {
           "name": "Wooden Shoe Brush",
@@ -4314,7 +4846,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://4homexpert.com/szczotki-do-czyszczenia/370793-szczotka-do-obuwia-favorite-51-s-27-do-polerowania-i-czyszczenia-wlosie-naturalne-srednio-twarde-5903479512737.html"
+          "imageAttributionUrl": "https://4homexpert.com/szczotki-do-czyszczenia/370793-szczotka-do-obuwia-favorite-51-s-27-do-polerowania-i-czyszczenia-wlosie-naturalne-srednio-twarde-5903479512737.html",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "Shoe Cleaning Cloth",
@@ -4326,7 +4860,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://2goshoecare.com/products/2go-cleaning-cloth"
+          "imageAttributionUrl": "https://2goshoecare.com/products/2go-cleaning-cloth",
+          "priceINR": 45,
+          "priceStatus": "indicative"
         }
       ]
     },
@@ -4366,7 +4902,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.eternz.com/products/yellow-antique-gold-lord-ganesha-rakhi-for-brother-traditional-raksha-bandhan-thread-rakhi-13"
+          "imageAttributionUrl": "https://www.eternz.com/products/yellow-antique-gold-lord-ganesha-rakhi-for-brother-traditional-raksha-bandhan-thread-rakhi-13",
+          "priceINR": 149,
+          "priceStatus": "indicative"
         },
         {
           "name": "Kids Cartoon Rakhi",
@@ -4378,7 +4916,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.satvikworld.com/de-in/products/shinchan-chota-bheem-set-of-2-kids-rakhi"
+          "imageAttributionUrl": "https://www.satvikworld.com/de-in/products/shinchan-chota-bheem-set-of-2-kids-rakhi",
+          "priceINR": 99,
+          "priceStatus": "indicative"
         },
         {
           "name": "Rakhi Chocolate Gift Box",
@@ -4390,7 +4930,9 @@
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.winni.in/alluring-mandala-rakhi-chocolate-box/pd/52442"
+          "imageAttributionUrl": "https://www.winni.in/alluring-mandala-rakhi-chocolate-box/pd/52442",
+          "priceINR": 399,
+          "priceStatus": "indicative"
         },
         {
           "name": "Dry Fruit Gift Hamper",
@@ -4402,7 +4944,9 @@
             "1 kg"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.giftstoindia24x7.com/i/dse-classic-dry-fruits-hamper"
+          "imageAttributionUrl": "https://www.giftstoindia24x7.com/i/dse-classic-dry-fruits-hamper",
+          "priceINR": 799,
+          "priceStatus": "indicative"
         }
       ]
     },

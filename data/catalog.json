@@ -3959,14 +3959,15 @@
         },
         {
           "name": "Belkin Extension Board",
-          "imageUrl": "https://loremflickr.com/640/640/belkin%2Cextension%2Cboard%2Celectronics%2Cproduct?lock=1286",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/1d9608a2-2d60-41d8-8c6b-4353201d9758.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/belkin-4-socket-universal-surge-protector-extension-board-%28with-5ft-%281.5-meter%29-heavy-duty-cable%2C-grey%29/prid/534768"
         },
         {
           "name": "Logitech Wireless Mouse",
@@ -5322,7 +5323,7 @@
         {
           "name": "Round urad dal",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/round%2Curad%2Cdal%2Cpulses%2Cproduct?lock=1345",
+          "imageUrl": "https://theceliacstore.com/wp-content/uploads/2023/11/Urad-White-Whole.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5339,7 +5340,8 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://theceliacstore.com/shop/organic/pulses/dals/24-mantra-organic-urad-dal-white-whole-500gm/"
         },
         {
           "name": "Yellow moong dal",
@@ -5413,7 +5415,7 @@
         {
           "name": "Rajma, peas, brown",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/rajma%2Cpeas%2Cbrown%2Cpulses%2Cproduct?lock=1349",
+          "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D85%2Cmetadata%3Dnone%2Cw%3D480%2Ch%3D480/app/images/products/full_screen/pro_21834.jpg?ts=1684833951",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5430,12 +5432,13 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://blinkit.com/prn/24-mantra-chitkabra-organic-red-rajma/prid/21834"
         },
         {
           "name": "Fried gram dal",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/fried%2Cgram%2Cdal%2Cpulses%2Cproduct?lock=1350",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40275437_1-jeyyam-fried-gram-split-roasted-chana-dal-chickpeas.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5452,12 +5455,13 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40275437/jeyyam-fried-gram-split-roasted-chana-dal-chickpeas-500-g/"
         },
         {
           "name": "Horsegram, flax seeds",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/horsegram%2Cflax%2Cseeds%2Cpulses%2Cproduct?lock=1351",
+          "imageUrl": "https://organicmandya.com/cdn/shop/files/Horse_Gram_edddfacc-da05-4925-8261-411d23f86bd5.jpg?v=1757080778&width=1200",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "200G"
@@ -5473,12 +5477,13 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://organicmandya.com/products/horse-gram-500-gm"
         },
         {
           "name": "Sabudana",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/sabudana%2Cpulses%2Cproduct?lock=1352",
+          "imageUrl": "https://cdn.dmart.in/images/products/ISabudana500gmSTYM3986xx205021_5_B.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5495,7 +5500,8 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.dmart.in/product/satyam-sabudana"
         }
       ]
     },
@@ -5506,7 +5512,7 @@
         {
           "name": "Crystal salt",
           "priceINR": 55,
-          "imageUrl": "https://loremflickr.com/640/640/crystal%2Csalt%2Cspice%2Cpowders%2Cproduct?lock=1353",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/13831250-5c60-4595-9d0a-8b9a21134a69.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5523,7 +5529,8 @@
             "Aashirvaad"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://blinkit.com/prn/24-mantra-himalayan-crystal-organic-rock-salt-sendha-namak/prid/364165"
         },
         {
           "name": "Powder salt",

@@ -2198,14 +2198,15 @@
         },
         {
           "name": "Poha 500 g",
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Tata Sampann Thick Poha 500 g product pack",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
           "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
-          "imageAttributionUrl": "https://www.cyffro.com/products/rajdhani-poha-500-g"
+          "imageAttributionUrl": "https://www.aroohimart.com/products/tata-sampann-tata-sampann-poha-500-g-500g",
+          "imageUrl": "https://image.cdn.shpy.in/449522/610AaD9VQcL_SL1000_-1754660720297.jpeg?format=webp&width=600"
         }
       ]
     },
@@ -5196,7 +5197,7 @@
         {
           "name": "Vermicelli",
           "priceINR": 75,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Rajdhani Seviyan short-cut vermicelli product pack",
           "packSizes": [
             "500G",
             "1KG"
@@ -5213,7 +5214,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.yumyum.co.in/collections/breakfast-cereals"
+          "imageAttributionUrl": "https://www.coupang.com/vp/products/6648059391",
+          "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e309/523d822df0eac9663863b6ee4b1ce701e03e6d6dd2f6d3c160ccdd97438c.png"
         },
         {
           "name": "Instant rice sevai",
@@ -6501,7 +6503,7 @@
         {
           "name": "Raisins",
           "priceINR": 190,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Tata Sampann premium seedless raisins pack",
           "packSizes": [
             "500G",
             "1KG"
@@ -6518,7 +6520,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://saiswastikorganics.com/"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/tata-sampann-100-pure-raisin-1kg-500g-x-2/609631755",
+          "imageUrl": "https://www.jiomart.com/images/product/original/rvwqdh0q5r/tata-sampann-100-pure-raisin-1kg-500g-x-2-product-images-orvwqdh0q5r-p609631755-1-202407312104.jpg?im=Resize%3D%281000%2C1000%29"
         },
         {
           "name": "Badam or other nuts",
@@ -6670,7 +6673,7 @@
         {
           "name": "Biryani spices packet",
           "priceINR": 55,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Everest Shahi Biryani Masala 50 g packet",
           "packSizes": [
             "10G",
             "20G",
@@ -6690,7 +6693,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://ekgaon.com/index.php?controller=product&id_product=340"
+          "imageAttributionUrl": "https://www.ricedesk.com/products/everest-shahi-biryani-masala-50gm/788104000019472646",
+          "imageUrl": "https://www.ricedesk.com/product-images/Everest-Shahi-Biryani-Masala.webp/788104000019472716/1100x1100"
         },
         {
           "name": "Vanilla essence",
@@ -7475,7 +7479,7 @@
         {
           "name": "Shaving lotion",
           "priceINR": 110,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Nivea Men Sensitive After Shave Lotion 100 ml",
           "packSizes": [
             "100ML"
           ],
@@ -7491,7 +7495,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.bombayshavingcompany.com/collections/three-for-999-sale"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/nivea-men-sensitive-after-shave-lotion-100-ml/490966844",
+          "imageUrl": "https://www.jiomart.com/images/product/original/490966844/nivea-men-sensitive-after-shave-lotion-100-ml-product-images-o490966844-p490966844-1-202203170616.jpg?im=Resize%3D%281000%2C1000%29"
         },
         {
           "name": "Shaving cream",
@@ -7542,7 +7547,7 @@
         {
           "name": "Razor blades",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Gillette Mach3 Sensitive 4-pack razor blade cartridges",
           "packSizes": [
             "1 pack"
           ],
@@ -7558,7 +7563,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.bombayshavingcompany.com/collections/three-for-999-sale"
+          "imageAttributionUrl": "https://www.nykaaman.com/gillette-mach-3-cartridge-4-pack/p/3642",
+          "imageUrl": "https://images-static.nykaa.com/media/catalog/product/4/1/4108acb7702018041015_r4.jpg?tr=w-500"
         },
         {
           "name": "Baby products",
@@ -7801,7 +7807,7 @@
         {
           "name": "Kitchen tissue",
           "priceINR": 95,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Home One 2-ply kitchen tissue pack",
           "packSizes": [
             "1",
             "2 rolls"
@@ -7818,7 +7824,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.leenasmart.in/categories/household-essentials"
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/home-one-2-ply-disposable-kitchen-tissue-60-pulls-buy-1-get-1/603408634",
+          "imageUrl": "https://www.jiomart.com/images/product/original/491963190/home-one-2-ply-disposable-kitchen-tissue-60-pulls-buy-1-get-1-product-images-o491963190-p603408634-2-202601021559.jpg?im=Resize%3D%281000%2C1000%29"
         },
         {
           "name": "Garbage bags",
@@ -8126,7 +8133,7 @@
         {
           "name": "Rock candy or dry grapes for neivedyam",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Dhaga Mishri rock sugar retail pack",
           "packSizes": [
             "100G",
             "250G",
@@ -8144,7 +8151,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.satvikly.com/product/diwali-puja-kit/"
+          "imageAttributionUrl": "https://rocksugar.in/rock-sugar/",
+          "imageUrl": "https://rocksugar.in/wordpress/wp-content/uploads/2025/06/rock-sugar-01-1-300x300.jpg"
         }
       ]
     },
@@ -8199,7 +8207,7 @@
         {
           "name": "Batteries",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Eveready Ultima AA alkaline battery pack",
           "packSizes": [
             "2",
             "4 count"
@@ -8216,12 +8224,13 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://bharatmart.co.ao/product-categories/cleaning-home-care"
+          "imageAttributionUrl": "https://blinkit.com/prn/eveready-ultima-aa-alkaline-battery/prid/711975",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/6cc7bf6c-cf82-4812-99df-b8204ffe6edc.jpg"
         },
         {
           "name": "Candles",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Star One household white candle pack",
           "packSizes": [
             "1",
             "6 count"
@@ -8238,7 +8247,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.satvikly.com/product/diwali-puja-kit/"
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40272045/star-one-household-candle-40-a-sturdy-white-colour-9-pcs/",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40272045_2-star-one-household-candle-40-a-sturdy-white-colour.jpg"
         },
         {
           "name": "Snacks",
@@ -8318,7 +8328,7 @@
         {
           "name": "Rasam powder",
           "priceINR": 55,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Seethalakshmi Rasam Podi 100 g product pack",
           "packSizes": [
             "50G",
             "100G",
@@ -8336,7 +8346,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/bambino-combo-pack-of-ginger-garlic-paste-i-rava-idli-mix-i-madras-sambar-powder-i-madras-rasam-powder/607001275"
+          "imageAttributionUrl": "https://www.seethalakshmifoodproducts.com/categories/powders/3308816000000830667",
+          "imageUrl": "https://cdn1.zohoecommerce.com/product-images/IMG-20240623-WA0120.jpg/3308816000000831071/400x400?storefront_domain=www.seethalakshmifoodproducts.com"
         },
         {
           "name": "Garlic powder",
@@ -8365,7 +8376,7 @@
         {
           "name": "Idli podi",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "TS Family Masala Idli Podi product pack",
           "packSizes": [
             "50G",
             "100G",
@@ -8383,12 +8394,13 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://looknbuyent.in/shop/garlic-podi-74"
+          "imageAttributionUrl": "https://tsfamilyfoods.com/products/idli-podi",
+          "imageUrl": "https://tsfamilyfoods.com/cdn/shop/files/10_e4be65cb-02ee-4561-9b61-2f7ecfdf6f93_grande.png?v=1760295011"
         },
         {
           "name": "Ginger, Garlic paste",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Mother's Recipe Ginger Garlic Paste 200 g pouch",
           "packSizes": [
             "100G",
             "200G",
@@ -8406,7 +8418,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/bambino-combo-pack-of-ginger-garlic-paste-i-rava-idli-mix-i-madras-sambar-powder-i-madras-rasam-powder/607001275"
+          "imageAttributionUrl": "https://nagabazaar.com/products/mothers-recipe-ginger-garlic-paste-pouch-200-g",
+          "imageUrl": "https://nagabazaar.com/cdn/shop/files/Veg-Pickles-9.jpg?v=1747521026"
         },
         {
           "name": "Tamarind paste",
@@ -8435,7 +8448,7 @@
         {
           "name": "Ready to eat products",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "MTR Chana Masala ready-to-eat 300 g pouch",
           "packSizes": [
             "200G",
             "300G",
@@ -8453,12 +8466,13 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://bansalsupermarket.com/grocery_staples.php"
+          "imageAttributionUrl": "https://www.jamoona.com/products/mtr-300g-chana-masala-rte",
+          "imageUrl": "https://www.jamoona.com/cdn/shop/files/MTR-300g-Chana-Masala-Fertiggericht-9017115.png?v=1753214191"
         },
         {
           "name": "Vathakuzhambu powder",
           "priceINR": 55,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Mylapore Kitchens Vathakuzhambu Podi product pouch",
           "packSizes": [
             "50G",
             "100G",
@@ -8476,7 +8490,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/bambino-combo-pack-of-ginger-garlic-paste-i-rava-idli-mix-i-madras-sambar-powder-i-madras-rasam-powder/607001275"
+          "imageAttributionUrl": "https://shasthaonline.com/products/mylapore-kitchen-vathakuzhambu-podi-100g",
+          "imageUrl": "https://shasthaonline.com/cdn/shop/files/SF_website_pdts-VATHAKUZHAMBU_PODI_FRONT_1024x1024.jpg?v=1731731791"
         },
         {
           "name": "Idli, dosa batter",
@@ -8526,7 +8541,7 @@
         {
           "name": "Cereals",
           "priceINR": 85,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Kellogg's Corn Flakes Original cereal packet",
           "packSizes": [
             "250G",
             "500G"
@@ -8543,7 +8558,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://bansalsupermarket.com/grocery_staples.php"
+          "imageAttributionUrl": "https://www.grainculture.store/products/kelloggs-corn-flakes-original-100-gms",
+          "imageUrl": "https://cdn.shopaccino.com/edible-smart/products/71ihs-gv-mlsl1500-983253_l.jpg?v=657"
         },
         {
           "name": "Readymade mix packets",

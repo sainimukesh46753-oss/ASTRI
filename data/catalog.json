@@ -5246,7 +5246,7 @@
         {
           "name": "Rajgira, Kuttu atta",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/rajgira%2Ckuttu%2Catta%2Crice%2Cand%2Cflours?lock=1342",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/74c0c44585aa44958b62f5c622a4d4ea.jpeg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -5264,12 +5264,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://blinkit.com/prn/saptrishi-rajgira-flour-amaranth-flour/prid/749670"
         },
         {
           "name": "Bansi rava",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/bansi%2Crava%2Crice%2Cand%2Cflours%2Cproduct?lock=1343",
+          "imageUrl": "https://cdn.grofers.com/app/images/products/sliding_image/521815a.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5286,7 +5287,8 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://blinkit.com/prn/aashirvaad-bansi-rava/prid/521815"
         }
       ]
     },
@@ -5297,7 +5299,7 @@
         {
           "name": "Toor dal",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/toor%2Cdal%2Cpulses%2Cproduct?lock=1344",
+          "imageUrl": "https://www.jiomart.com/images/product/original/493721170/independence-toor-dal-500-g-product-images-o493721170-p609585751-0-202407261928.jpg?im=Resize%3D%281000%2C1000%29",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5314,7 +5316,8 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/independence-toor-dal-500-g/609585751"
         },
         {
           "name": "Round urad dal",
@@ -5341,7 +5344,7 @@
         {
           "name": "Yellow moong dal",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/yellow%2Cmoong%2Cdal%2Cpulses%2Cproduct?lock=1346",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/99353b73-8432-4f80-ba1d-227dc0e13193.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5358,12 +5361,13 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://blinkit.com/prn/mango-premium-yellow-moong-dal-%28dhuli%29/prid/540626"
         },
         {
           "name": "Chana dal",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/chana%2Cdal%2Cpulses%2Cproduct?lock=1347",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/63f284be-4558-4093-bb6d-23b15061132f.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5380,12 +5384,13 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://blinkit.com/prn/24-mantra-organic-chana-dal/prid/24055"
         },
         {
           "name": "Split urad dal",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/split%2Curad%2Cdal%2Cpulses%2Cproduct?lock=1348",
+          "imageUrl": "https://www.jiomart.com/images/product/original/rvtuldbc44/minimall-super-market-split-urad-dal-split-white-urad-dal-minapa-pappu-1-kg-product-images-orvtuldbc44-p601758142-0-202305241744.jpg?im=Resize%3D%28420%2C420%29",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5402,7 +5407,8 @@
             "Natureland"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/minimall-super-market-split-urad-dal-split-white-urad-dal-minapa-pappu-1-kg/601758142"
         },
         {
           "name": "Rajma, peas, brown",

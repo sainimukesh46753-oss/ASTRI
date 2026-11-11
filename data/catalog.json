@@ -2952,7 +2952,7 @@
         },
         {
           "name": "Continental Coffee Premix",
-          "imageUrl": "https://loremflickr.com/640/640/continental%2Ccoffee%2Cpremix%2Ctea%2Ccoffee%2Cmilk?lock=1214",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/88ab5fb7-2944-4711-8aba-6aa3c2a34fa8.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100 g",
@@ -2960,7 +2960,8 @@
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/continental-this-is-creamy-coffee-premix/prid/570307"
         },
         {
           "name": "Chamomile Herbal Tea",
@@ -3042,14 +3043,15 @@
         },
         {
           "name": "Del Monte Pasta 500 g",
-          "imageUrl": "https://loremflickr.com/640/640/del%2Cmonte%2Cpasta%2C500%2Cg%2Cinstant?lock=1220",
+          "imageUrl": "https://media.pickaroo.com/media/thumb/variant_photos/2021/12/3/Td9uyfphTnGbJdsbEqWhyd_watermark_400.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://pickaroo.com/ultramega/products/ultramega-gagalangin-supermarket/product-detail/243694/456-del-monte-spaghetti-pasta"
         },
         {
           "name": "Knorr Sweet Corn Soup",
@@ -3409,14 +3411,15 @@
         },
         {
           "name": "Vadilal Cassata Slice",
-          "imageUrl": "https://loremflickr.com/640/640/vadilal%2Ccassata%2Cslice%2Cice%2Ccreams%2Cmore?lock=1246",
+          "imageUrl": "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3f2a0bae-3e1f-4304-b774-dcfbb2e7e2a1.jpg?ts=1716922066",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/vadilal-slice-cassata-ice-cream/prid/545749"
         },
         {
           "name": "Amul Real Ice Cream Cup",
@@ -3431,25 +3434,27 @@
         },
         {
           "name": "Naturals Tender Coconut Ice Cream",
-          "imageUrl": "https://loremflickr.com/640/640/naturals%2Ctender%2Ccoconut%2Cice%2Ccream%2Cice?lock=1248",
+          "imageUrl": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy%2Cf_auto%2Cq_auto%2Cw_1200%2Ch_630/NI_CATALOG/IMAGES/CIW/2026/3/13/02d647ea-769a-4881-9629-a4c120065683_961806_1.png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.swiggy.com/instamart/p/natural-ice-cream-tender-coconut-ice-cream-tub-6EO8SNJEZ7"
         },
         {
           "name": "Baskin Robbins Ice Cream Tub",
-          "imageUrl": "https://loremflickr.com/640/640/baskin%2Crobbins%2Cice%2Ccream%2Ctub%2Cice?lock=1249",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40304138_3-baskin-robbins-cookies-n-cream-ice-cream.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40304138/baskin-robbins-cookies-n-cream-ice-cream-450-ml/"
         },
         {
           "name": "Chocolate Dessert Syrup",
@@ -3663,25 +3668,27 @@
       "products": [
         {
           "name": "Lizol Disinfectant Floor Cleaner 1 L",
-          "imageUrl": "https://loremflickr.com/640/640/lizol%2Cdisinfectant%2Cfloor%2Ccleaner%2C1%2Cl?lock=1265",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40326444_1-lizol-shakti-disinfectant-floor-cleaner-aqua-fresh.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40326444/lizol-shakti-disinfectant-floor-cleaner-aqua-fresh-450-ml/"
         },
         {
           "name": "Harpic Power Plus Toilet Cleaner 500 ml",
-          "imageUrl": "https://loremflickr.com/640/640/harpic%2Cpower%2Cplus%2Ctoilet%2Ccleaner%2C500?lock=1266",
+          "imageUrl": "https://markitt.com/cdn/shop/files/d77ffbdf-d823-4b46-a1b1-c8af68192560.png?v=1766499284",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50 ml / 100 ml",
             "180 ml / 250 ml",
             "500 ml"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://markitt.com/products/harpic-power-plus-original-500ml"
         },
         {
           "name": "Vim Dishwash Gel 500 ml",
@@ -3838,80 +3845,87 @@
         },
         {
           "name": "boAt Airdopes Wireless Earbuds",
-          "imageUrl": "https://loremflickr.com/640/640/boat%2Cairdopes%2Cwireless%2Cearbuds%2Celectronics%2Cproduct?lock=1279",
+          "imageUrl": "https://fullspecs.net/images/products/6967_0_boat-airdopes-183-9341876190c45aafeeb7bf556d3348b9.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://fullspecs.net/wireless-headphone/boat/airdopes-183-specifications/"
         },
         {
           "name": "JBL Go Portable Speaker",
-          "imageUrl": "https://loremflickr.com/640/640/jbl%2Cgo%2Cportable%2Cspeaker%2Celectronics%2Cproduct?lock=1280",
+          "imageUrl": "https://www.tio.pl/foto/produkt_big/10/139e0a27063f012ef1a3182467986bca.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.tio.pl/strefa-audio-glosnik-jbl-go-niebieski.html"
         },
         {
           "name": "USB-C Fast Charging Cable",
-          "imageUrl": "https://loremflickr.com/640/640/usb%2Cc%2Cfast%2Ccharging%2Ccable%2Celectronics?lock=1281",
+          "imageUrl": "https://www.tanotis.com/cdn/shop/files/1756307527_1915990_1024x.jpg?v=1765929309",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.tanotis.com/products/chargeworx-nylo-tuff-usb-c-60w-charging-cable-black-6"
         },
         {
           "name": "Ambrane 20W USB-C Charger",
-          "imageUrl": "https://loremflickr.com/640/640/ambrane%2C20w%2Cusb%2Cc%2Ccharger%2Celectronics?lock=1282",
+          "imageUrl": "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/858a11f3-3397-4f12-950d-c9334e017f6c.jpg?ts=1719920946",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://blinkit.com/prn/ambrane-raap-m20-type-c-mobile-charging-adapter-white/prid/556901"
         },
         {
           "name": "Portronics Power Bank 10000 mAh",
-          "imageUrl": "https://loremflickr.com/640/640/portronics%2Cpower%2Cbank%2C10000%2Cmah%2Celectronics?lock=1283",
+          "imageUrl": "https://mudramart.com/cdn/shop/products/portronics-10000mah-power-bank-with-18w-fast-charging-type-c-por-10111012-451860_1024x1024.jpg?v=1676550225",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://mudramart.com/products/portronics-10000mah-power-bank-with-18w-fast-charging-type-c-por-1011-1012"
         },
         {
           "name": "Fire-Boltt Smart Watch",
-          "imageUrl": "https://loremflickr.com/640/640/fire%2Cboltt%2Csmart%2Cwatch%2Celectronics%2Cproduct?lock=1284",
+          "imageUrl": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/6vhdjIilTr-fire-boltt-bsw014-smart-watch-492849704-i-1-1200wx1200h.jpeg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.reliancedigital.in/product/fire-bolt-call-smart-watch-with-bluetooth-calling-ip67-water-resistant-black-l2kpuk"
         },
         {
           "name": "Duracell AA Batteries 4 pcs",
-          "imageUrl": "https://loremflickr.com/640/640/duracell%2Caa%2Cbatteries%2C4%2Cpcs%2Celectronics?lock=1285",
+          "imageUrl": "https://www.chemistwarehouse.ae/cdn/shop/files/1171_2FPRODUCT_IMAGE_2FDA01769755_2FIM17013004_1200x1200.jpg?v=1773134813",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.chemistwarehouse.ae/products/duracell-battery-aa-4-pieces"
         },
         {
           "name": "Belkin Extension Board",
@@ -3926,14 +3940,15 @@
         },
         {
           "name": "Logitech Wireless Mouse",
-          "imageUrl": "https://loremflickr.com/640/640/logitech%2Cwireless%2Cmouse%2Celectronics%2Cproduct?lock=1287",
+          "imageUrl": "https://lntsufin.com/storage/mediafiles/catalog/live/15919-525/original/15919-525_image_0.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece",
             "Pack of 2",
             "Pack of 4"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://lntsufin.com/product/logitech-mouse-wireless-optical-6-x-4-x-10-cm/15919-525"
         },
         {
           "name": "TP-Link Wi-Fi Router",

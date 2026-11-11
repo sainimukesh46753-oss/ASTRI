@@ -4874,7 +4874,7 @@
         {
           "name": "Basmati rice",
           "priceINR": 75,
-          "imageSource": "Repeated image URL removed; add a unique product-specific photo",
+          "imageSource": "Good Life Rozana Basmati Rice 1 kg product image from JioMart; brand-specific image, not a generic rice photo",
           "packSizes": [
             "1KG",
             "5KG",
@@ -4892,7 +4892,8 @@
           ],
           "catalogueSource": "ASTRI.xlsx",
           "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
-          "imageAttributionUrl": "https://www.starquik.com/products/india-gate-classic-basmati-rice-1-kg"
+          "imageAttributionUrl": "https://www.jiomart.com/sections/feasting-essentials",
+          "imageUrl": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/t.resize%28w%3A250%29/images/othe/egurhk/.j/pg/0000000004915511941.jpg.c8896aa1db.jpg"
         },
         {
           "name": "Brown rice",

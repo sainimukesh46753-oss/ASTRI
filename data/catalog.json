@@ -5979,7 +5979,7 @@
         {
           "name": "Baking powder",
           "priceINR": 55,
-          "imageUrl": "https://loremflickr.com/640/640/baking%2Cpowder%2Cspice%2Cpowders%2Cproduct?lock=1373",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ100164_FOP_418c1691-aa3c-4278-ab72-fc587a8c88e7.jpg?v=1776847597&width=416",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50G",
@@ -5996,7 +5996,8 @@
             "Aashirvaad"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.starquik.com/products/weikfield-baking-powder-100-gm-sc-sm73"
         }
       ]
     },
@@ -6030,7 +6031,7 @@
         {
           "name": "Coconut oil",
           "priceINR": 145,
-          "imageUrl": "https://loremflickr.com/640/640/coconut%2Coil%2Coils%2Cproduct?lock=1375",
+          "imageUrl": "https://spicedivine.ca/cdn/shop/files/s-l1600_4_53dde6e8-0778-478d-87fa-8bd30b046e9f_700x700.jpg?v=1709746593",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50G",
@@ -6050,7 +6051,8 @@
             "Patanjali"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://spicedivine.ca/products/parachute-100-pure-coconut-oil1"
         },
         {
           "name": "Ghee or butter",
@@ -6733,7 +6735,7 @@
         {
           "name": "Papad",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/papad%2Cother%2Cingredients%2Cproduct?lock=1403",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/20002410_1-haldirams-papad-bikaneri.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 packet"
@@ -6749,12 +6751,13 @@
             "Gits"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/20002410/haldirams-papad-bikaneri-200-g-pouch/"
         },
         {
           "name": "Cocoa powder",
           "priceINR": 55,
-          "imageUrl": "https://loremflickr.com/640/640/cocoa%2Cpowder%2Cother%2Cingredients%2Cproduct?lock=1404",
+          "imageUrl": "https://services.kpnfresh.com/media/v1/products/images/5dbe773a-4f11-45fc-bd0c-7072c909439e/cadbury-cocoa-powder.webp?c_type=C1",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "10G",
@@ -6774,7 +6777,8 @@
             "Gits"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.kpnfresh.com/cadbury-cocoa-powder/p/10000553"
         },
         {
           "name": "Health drinks",
@@ -6802,7 +6806,7 @@
         {
           "name": "Noodles",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/noodles%2Cother%2Cingredients%2Cproduct?lock=1406",
+          "imageUrl": "https://storage.googleapis.com/shy-pub/285171/SKU-0143_0-1756131538183.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -6821,12 +6825,13 @@
             "Gits"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.nandawholesalemart.com/products/maggi-masala-instant-noodles-SKU-0143"
         },
         {
           "name": "Pasta",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/pasta%2Cother%2Cingredients%2Cproduct?lock=1407",
+          "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f%3Dauto%2Cfit%3Dscale-down%2Cq%3D85%2Cmetadata%3Dnone%2Cw%3D480%2Ch%3D480/da/cms-assets/cms/product/2d9b5ba8-26ad-40e0-86a3-d4d6bd05153c.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -6845,7 +6850,8 @@
             "Gits"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://blinkit.com/prn/product/prid/680"
         },
         {
           "name": "Macaroni",
@@ -6898,7 +6904,7 @@
         {
           "name": "Tomato ketchup",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/tomato%2Cketchup%2Cother%2Cingredients%2Cproduct?lock=1410",
+          "imageUrl": "https://jaimamart.com/storage/flash-sales/kissan-fresh-tomato-ketchup-1-kg-product-images-o490000799-p490000799-1-202203170349-1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -6917,7 +6923,8 @@
             "Gits"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://jaimamart.com/products/kissan-ketchup-1kg"
         },
         {
           "name": "Jam",

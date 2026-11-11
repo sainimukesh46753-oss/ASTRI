@@ -4854,7 +4854,7 @@
         {
           "name": "Dosa rice",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/dosa%2Crice%2Crice%2Cand%2Cflours%2Cproduct?lock=1325",
+          "imageUrl": "https://m.media-amazon.com/images/I/7173cuHhd9L._SL1500_.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -4871,12 +4871,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://dishakamath.com/amazon-brand-vedaka-dosa-rice-1-kg/"
         },
         {
           "name": "Basmati rice",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/basmati%2Crice%2Crice%2Cand%2Cflours%2Cproduct?lock=1326",
+          "imageUrl": "https://www.starquik.com/cdn/shop/files/SQ100551_3_75a9ea60-7019-4ec0-8b40-dd38d027280d.jpg?v=1776845402&width=1445",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1KG",
@@ -4894,12 +4895,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.starquik.com/products/india-gate-classic-basmati-rice-1-kg"
         },
         {
           "name": "Brown rice",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/brown%2Crice%2Crice%2Cand%2Cflours%2Cproduct?lock=1327",
+          "imageUrl": "https://skmart.co.in/public/uploads/all/sYeML5Coj39gPdAzqq0xTKWWChNjkcS1GcrQxsJA.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -4916,12 +4918,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://skmart.co.in/product/Kohinoor-Charminar-Brown-Rice-1-kg"
         },
         {
           "name": "Pressed rice",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/pressed%2Crice%2Crice%2Cand%2Cflours%2Cproduct?lock=1328",
+          "imageUrl": "https://gokulsnacks.com/cdn/shop/files/RicePoha.png?v=1696229406&width=1500",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -4938,12 +4941,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://gokulsnacks.com/products/rice-poha"
         },
         {
           "name": "Wheat flour",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/wheat%2Cflour%2Crice%2Cand%2Cflours%2Cproduct?lock=1329",
+          "imageUrl": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy%2Cf_auto%2Cq_auto%2Ch_600/NI_CATALOG/IMAGES/ciw/2025/12/16/103a20e9-b3d6-42cc-95ad-7071d8d33060_3ABVY116ZJ_MN_15122025.png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "5KG",
@@ -4960,12 +4964,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.swiggy.com/stores/instamart/p/aashirvaad-shudh-chakki-atta-3ABVY116ZJ?storeId=1026548"
         },
         {
           "name": "Maida",
           "priceINR": 85,
-          "imageUrl": "https://loremflickr.com/640/640/maida%2Crice%2Cand%2Cflours%2Cproduct?lock=1330",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40313627_2-fortune-maidarefined-wheat-flour.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -4982,12 +4987,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40313627/fortune-maidarefined-wheat-flour-1-kg/"
         },
         {
           "name": "Ragi flour",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/ragi%2Cflour%2Crice%2Cand%2Cflours%2Cproduct?lock=1331",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/xxl/40172980_7-aashirvaad-natures-super-foods-ragi-flour.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1KG"
@@ -5003,12 +5009,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/40172980/aashirvaad-natures-super-foods-ragi-flour-1-kg-pouch/"
         },
         {
           "name": "Oats",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/oats%2Crice%2Cand%2Cflours%2Cproduct?lock=1332",
+          "imageUrl": "https://images.rdclick.com/product_content/original/P000318/saffola-oats-200g-1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -5025,7 +5032,8 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.rdclick.com/product/saffola-oats-200g"
         },
         {
           "name": "Millets varieties BAJRA",

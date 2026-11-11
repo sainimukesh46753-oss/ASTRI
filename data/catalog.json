@@ -4396,14 +4396,15 @@
         },
         {
           "name": "Dry Fruit Gift Hamper",
-          "imageUrl": "https://loremflickr.com/640/640/dry%2Cfruit%2Cgift%2Champer%2Crakhi%2Cgifts?lock=1317",
+          "imageUrl": "https://cdn.giftstoindia24x7.com/ASP_Img/IMG2000/GTI443099_1.jpg?imgeng=w_1200",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "250 g",
             "500 g",
             "1 kg"
           ],
-          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP"
+          "quantityNote": "Suggested retail pack sizes; confirm supplier/MRP",
+          "imageAttributionUrl": "https://www.giftstoindia24x7.com/i/dse-classic-dry-fruits-hamper"
         }
       ]
     },
@@ -4687,7 +4688,7 @@
         {
           "name": "Salem rice",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/salem%2Crice%2Crice%2Cand%2Cflours%2Cproduct?lock=1318",
+          "imageUrl": "https://daivikorganic.com/cdn/shop/products/1_d9727d80-2be5-4c81-bf34-afdaf8c75271_800x.png?v=1670561682",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1KG",
@@ -4705,12 +4706,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://daivikorganic.com/products/salem-sanna-arisi"
         },
         {
           "name": "Turmeric powder",
           "priceINR": 55,
-          "imageUrl": "https://loremflickr.com/640/640/turmeric%2Cpowder%2Crice%2Cand%2Cflours%2Cproduct?lock=1319",
+          "imageUrl": "https://vizaggrocers.com/736-large_default/itc-aashirvaad-turmeric-powder.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50G",
@@ -4728,12 +4730,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://vizaggrocers.com/en/readymade-masalas-powders/746-itc-aashirvaad-turmeric-powder.html"
         },
         {
           "name": "Sugar",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/sugar%2Crice%2Cand%2Cflours%2Cproduct?lock=1320",
+          "imageUrl": "https://www.jiomart.com/images/product/original/rvhpoqthyj/dhanraj-white-sugar-sachet-5g-x-200-sachet-product-images-orvhpoqthyj-p611859946-3-202507051640.jpg?im=Resize%3D%281000%2C1000%29",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1KG",
@@ -4751,12 +4754,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/dhanraj-white-sugar-sachet-5g-x-200-sachet/611859946"
         },
         {
           "name": "Jaggery",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/jaggery%2Crice%2Cand%2Cflours%2Cproduct?lock=1321",
+          "imageUrl": "https://farmfeelss.com/JaggeryBlock.png",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -4775,12 +4779,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://farmfeelss.com/"
         },
         {
           "name": "Idli rice",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/idli%2Crice%2Crice%2Cand%2Cflours%2Cproduct?lock=1322",
+          "imageUrl": "https://www.jiomart.com/images/product/original/491959638/omsom-idli-rice-5-kg-product-images-o491959638-p590152770-0-202205311829.jpg?im=Resize%3D%281000%2C1000%29",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -4797,12 +4802,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.jiomart.com/p/groceries/omsom-idli-rice-5-kg/590152770"
         },
         {
           "name": "Steamed rice or Raw rice",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/steamed%2Crice%2Cor%2Craw%2Crice%2Crice?lock=1323",
+          "imageUrl": "https://indiangrocerystore.ca/cdn/shop/files/LaxmiPonniRawRice10lbs.png?v=1702905060&width=1066",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -4819,12 +4825,13 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://indiangrocerystore.ca/collections/ponni-rice"
         },
         {
           "name": "High quality raw rice for Pongal",
           "priceINR": 75,
-          "imageUrl": "https://loremflickr.com/640/640/high%2Cquality%2Craw%2Crice%2Cfor%2Cpongal?lock=1324",
+          "imageUrl": "https://www.haniffaonline.com/cdn/shop/products/4105100_grande.jpg?v=1664165844",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500G",
@@ -4841,7 +4848,8 @@
             "24 Mantra"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.haniffaonline.com/products/sri-murugan-pongal-raw-rice-1kg"
         },
         {
           "name": "Dosa rice",

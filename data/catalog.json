@@ -7074,7 +7074,7 @@
         {
           "name": "Cheese slices",
           "priceINR": 90,
-          "imageUrl": "https://loremflickr.com/640/640/cheese%2Cslices%2Cdairy%2Cproducts%2Cproduct?lock=1417",
+          "imageUrl": "https://image.cdn.shpy.in/493652/SKU-0726_0-1773726814480.jpg?format=webp&width=600",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "100G",
@@ -7091,7 +7091,8 @@
             "Pride of Cows"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.haazir.store/products/amul-plain-cheese-slices-pack-of-10-200-g"
         },
         {
           "name": "Cheese block",
@@ -7208,7 +7209,7 @@
         {
           "name": "Milk can",
           "priceINR": 90,
-          "imageUrl": "https://loremflickr.com/640/640/milk%2Ccan%2Cdairy%2Cproducts%2Cproduct?lock=1423",
+          "imageUrl": "https://cdn.grofers.com/da/cms-assets/cms/product/f5ad6927-2406-49aa-9be3-f9b1869b8a71.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "500ML",
@@ -7225,7 +7226,8 @@
             "Pride of Cows"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://blinkit.com/prn/amul-cow-fresh-milk-special-offer/prid/529954"
         }
       ]
     },
@@ -7236,7 +7238,7 @@
         {
           "name": "Toothpaste",
           "priceINR": 110,
-          "imageUrl": "https://loremflickr.com/640/640/toothpaste%2Ctoiletries%2Cproduct?lock=1424",
+          "imageUrl": "https://img.clevup.in/19821/1666671043231_SKU-0139_0.jpg?format=webp&width=600",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50G",
@@ -7254,12 +7256,13 @@
             "Oral-B"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://hamsaonline.store.shoopy.in/products/colgate-strong-teeth-dental-cream-toothpaste-48-g-SKU-0139"
         },
         {
           "name": "Toothbrush",
           "priceINR": 110,
-          "imageUrl": "https://loremflickr.com/640/640/toothbrush%2Ctoiletries%2Cproduct?lock=1425",
+          "imageUrl": "https://www.crackerjack.co.nz/content/products/colgate-toothbrush-extra-clean-soft-5pk-61046397-22737.jpg?width=980",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "1 piece"
@@ -7275,7 +7278,8 @@
             "Oral-B"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.crackerjack.co.nz/colgate-toothbrush-extra-clean-soft-5pk-61046397"
         },
         {
           "name": "Bathing soap",
@@ -7326,7 +7330,7 @@
         {
           "name": "Face powder",
           "priceINR": 55,
-          "imageUrl": "https://loremflickr.com/640/640/face%2Cpowder%2Ctoiletries%2Cproduct?lock=1428",
+          "imageUrl": "https://jeeveedev.s3.us-east-2.amazonaws.com/whetstone-products/jeevee_erp/2023-04-11/e4/e4f334a0f1ee64fa74009760c4586906bd94fcbd",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50G",
@@ -7343,7 +7347,8 @@
             "Oral-B"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.jeevee.com/products/ponds-dreamflower-fragrant-talc-powder-100-gm-29982"
         },
         {
           "name": "Hand sanitizer",
@@ -7372,7 +7377,7 @@
         {
           "name": "Deodorant",
           "priceINR": 110,
-          "imageUrl": "https://loremflickr.com/640/640/deodorant%2Ctoiletries%2Cproduct?lock=1430",
+          "imageUrl": "https://lifeadmin-app.s3.me-south-1.amazonaws.com/EcomApp/products/aNwar%201/114068_1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "150ML"
@@ -7388,7 +7393,8 @@
             "Oral-B"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.lifepharmacy.com/product/nivea-deo-spray-fresh-natural-150-ml"
         },
         {
           "name": "Body lotion",
@@ -7460,7 +7466,7 @@
         {
           "name": "Shaving cream",
           "priceINR": 90,
-          "imageUrl": "https://loremflickr.com/640/640/shaving%2Ccream%2Ctoiletries%2Cproduct?lock=1434",
+          "imageUrl": "https://images.apollo247.in/uatpharma/pub/media/catalog/product/G/I/GIL0187_1_1.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "30G",
@@ -7477,12 +7483,13 @@
             "Oral-B"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://perfmedicine.apollopharmacy.in/otc/gillette-regular-shaving-cream-70g"
         },
         {
           "name": "Hair gel",
           "priceINR": 110,
-          "imageUrl": "https://loremflickr.com/640/640/hair%2Cgel%2Ctoiletries%2Cproduct?lock=1435",
+          "imageUrl": "https://www.bbassets.com/media/uploads/p/l/413274_2-set-wet-wet-look-hair-gel.jpg",
           "imageSource": "Product/category keyword-matched sample photo (not verified exact SKU)",
           "packSizes": [
             "50G",
@@ -7499,7 +7506,8 @@
             "Oral-B"
           ],
           "catalogueSource": "ASTRI.xlsx",
-          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale"
+          "priceNote": "Estimated starter price in INR; verify against supplier/MRP before sale",
+          "imageAttributionUrl": "https://www.bigbasket.com/pd/413274/set-wet-wet-look-hair-gel-250-ml-jar/"
         },
         {
           "name": "Razor blades",
